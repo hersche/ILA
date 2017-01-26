@@ -1,0 +1,44 @@
+#JSGF V1.0;
+
+grammar input;
+
+<names> = (boss|ila|chef|alexander|azize|carla|christian|christoph|elke|florian|isabella|manuel|matthias|marvin|michael|mehdi|jens|jessica|jessi|johannes|stefan|frank|klaus|uwe|simon|tommi|thomas|benedikt|philipp|dennis|wolfgang);
+
+<programs> = (windows|linux|mac|arduino|creo|creo elements|[adobe|pdf] reader|matlab|igor|imagej|rechner|taschenrechner|[microsoft] word|[microsoft] powerpoint|[microsoft] excel|
+			spotify|music player|musik|firefox|facebook|itunes);
+
+<numbers> = (komma|punkt|eins|zwei|drei|vier|fuenf|sechs|sieben|acht|neun|zehn|elf|zwoelf|dreizehn|vierzehn|fuenfzehn|zwanzig|fuenfundzwanzig|dreissig|fuenfunddreissig|vierzig|fuenfundvierzig);
+
+<music> = (metallica|jimi hendrix|hendrix|[the] white stripes|deichkind|[fritz|paul] kalkbrenner|bb king|zz top|beatsteaks|bosse|jay z|[the] roots|kings of leon|kyuss);
+
+<languages> = (englisch|deutsch|tuerkisch|franzoesisch|spanisch);
+
+<locations> = (hier|mein standort|meinem standort|[mein|meinem] zu hause|zuhause|[mein|meiner|meine] arbeit|berlin|muenchen|essen|duisburg|duesseldorf|dortmund|bochum|koeln|london|paris|amsterdam);
+
+<other> = (golem|spiegel|welt|bild|google|wiki|wikipedia|lab);
+
+<polite> = [bitte|danke];
+
+<confirm> = (ja|nein|ok|abbrechen|abbruch|bestaetigt);
+
+<conversation> = (gut|nicht so gut|schlecht|eher schlecht|ganz gut|ziemlich gut|fantastisch|super|mies|miserabel);
+
+<correction> =
+ne ila noch mal von vorne|
+ne ila noch mal|
+ich wiederhole|
+ila ich habe gesagt|
+ich habe gesagt|
+ich sagte|
+nein nein nein;
+
+public <command> = 	[mein name ist|ich heisse] <names> |
+					<programs> |
+					<numbers> [minuten|stunden|tage|sekunden] |
+					<music> |
+					<languages> |
+					<locations> |
+					<other> |
+					<confirm> |
+					<conversation> <polite> |
+					(<correction>);

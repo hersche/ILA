@@ -1,0 +1,11 @@
+//this file demonstrates the use of multiple answers for the same task (randomly choosen) and parameter usage
+
+test_addon;<1>it works <username>
+test_addon;<2>it works with <input1> and <input2>
+test_addon;<3>oh yes it works with <input2> and <input1>
+test_addon;<4>jop works with <input3> aswell <username>
+test_addon;<100>yes it still works
+test_addon;<200>it works man!
+test_addon2;jo test 2 works too
+test_addon3;<1>aaaaand yes test 3 works
+test_addon3;<2>test 3 works <username>

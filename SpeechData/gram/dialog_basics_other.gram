@@ -1,0 +1,8 @@
+#JSGF V1.0;
+
+grammar dialog;
+
+public <command> = <teachit>;
+
+<teachit> = 
+ok;

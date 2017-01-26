@@ -1,0 +1,29 @@
+#JSGF V1.0;
+
+grammar input;
+
+public <command> = 	[from|to|at|in] (<locations>) ;
+
+<locations> = 
+here|
+[my] work|
+[my] home|
+at home|
+my place|
+pharmacy|
+supermarket|
+hospital|
+berlin|
+essen|
+duisburg|
+munich|
+hamburg|
+frankfurt|
+cologne|
+duesseldorf|
+london|
+paris|
+new york|
+chicago|
+los angeles|
+san francisco;

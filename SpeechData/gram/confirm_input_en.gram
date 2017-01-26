@@ -1,0 +1,7 @@
+#JSGF V1.0;
+
+grammar input;
+
+<confirm> = (yes|no|abort|confirm|confirmed|ok|cancel);
+
+public <command> = 	<confirm> ;

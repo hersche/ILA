@@ -1,0 +1,654 @@
+you can play one of these songs
+Metallica
+Jimi Hendrix
+Hendrix
+the White Stripes
+Kings of Leon
+Beatsteaks
+Usher
+Jay Z
+the Roots
+Justin Timberlake
+Kyuss
+Deichkind
+Slayer
+Katy Perry
+Rihanna
+Bruno Mars
+Cro
+Michael Jackson
+Eminem
+Beyonce
+Shakira
+AC DC
+the Rolling Stones
+Bosse
+Sting
+The Police
+Madonna
+Bob Dylan
+Bob Marley
+Daft Punk
+Nirvana
+BB King
+ZZ Top
+
+they call me one of these names
+Boss
+Chef
+Alexander
+Azize
+Carla
+Christian
+Christoph
+Elke
+Florian
+Isabella
+Manuel
+Mathias
+Marvin
+Michael
+Mehdi
+Jens
+Jessica
+Jessy
+Johannes
+Joe
+Stefan
+Frank
+Klaus
+Uwe
+Simon
+Tommy
+Thomas
+Benedikt
+Philipp
+Dennis
+Wolfgang
+
+see how I can count
+minutes
+minute
+seconds
+second
+days
+day
+o'clock
+point
+colon
+comma
+the first
+the second
+the third
+the last
+one
+two
+three
+four
+five
+six
+seven
+eight
+nine
+ten
+eleven
+twelve
+thirteen
+fourteen
+fifteen
+sixteen
+seventeen
+eighteen
+nineteen
+twenty
+twenty one
+twenty two
+twenty three
+twenty four
+twenty five
+thirty
+thirty five
+forty
+forty five
+
+find a location
+locate me
+here
+my work
+my home
+at home
+my place
+Berlin
+Essen
+Duisburg
+Munich
+Hamburg
+Frankfurt
+Cologne
+Duesseldorf
+London
+Paris
+New York
+Chicago
+Los Angeles
+San Francisco
+
+open a program
+Windows
+Linux
+Mac
+Arduino
+Creo
+Creo Elements
+Adobe PDF Reader
+Matlab
+Igor
+ImageJ
+Calculator
+Microsoft Word
+Microsoft Powerpoint
+Microsoft Excel
+Spotify
+Music Player
+Firefox
+Facebook
+iTunes
+
+these are all the possible dialogues ILA can say
+Hi
+Hi ILA
+hey
+Good morning
+good morning ILA
+Hello
+Hello ILA
+ILA
+hey ILA
+I repeat
+no ILA let's start again
+ILA I said
+I said
+no no no
+bye
+good bye
+goodbye
+good-bye
+ok bye bye
+bye bye
+cu
+see you later
+end
+quit
+exit
+done
+can you hear me
+ok let's go
+ok sounds good
+yes
+yes i will
+ok
+no
+no i won't
+abort
+cancel
+one question
+i have a question
+a question
+can I ask you something
+what does that mean
+what does it mean
+can you help me please
+thx
+thanks
+cool
+sorry
+you are nice
+thank you
+what does ILA stand for
+how are you
+how are you today
+Hey ILA how are you today
+how are you ILA
+what's up ila
+let's see what you can do
+how
+why
+no problemo
+no problem
+nice to hear
+np
+can you show me the weather
+what is the weather like tomorrow
+what is the weather like today
+how is the weather today
+how is the weather tomorrow
+how's the weather
+show the weather
+show me the weather
+show me the weather in New York
+how's the weather in Chicago
+how is the weather in London
+show me the weather in San Francisco
+what is the weather like in Los Angeles
+where am I
+where are we
+show my location
+show me our location
+bring me home
+I'm looking for a train
+I am looking for a bus
+set an alarm
+what can you do
+whats on TV
+what is on TV
+whats on the television
+show the TV program
+show TV program
+test
+what's on the news
+what's on the news today
+show me the news
+news
+do you know soccer results
+who is playing soccer today
+show me the german bundesliga
+show me the bundesliga results
+who is playing in the bundesliga today
+who are you
+what's your name again
+what is your name
+what's your name
+say your name
+google
+how old are you
+what is your age
+pictures
+search pictures
+you are funny
+you're so funny sometimes
+what is the meaning of life
+why are we here
+can you speak english
+can you speak german
+switch to german please
+can you speak german please
+speak german
+speak german please
+switch language to German
+speak english please
+switch to english please
+change language to english
+change language to australian
+change language to british
+change language to canadian
+change language to indian
+wow that was fast
+i am impressed
+check internet connection
+are you connected to the internet
+show me your memory
+where are you from
+start recording
+stop recording
+stop all timers
+stop all timers please
+stop all running timers please
+can you stop a timer please
+are there timers running
+show all running timers
+show all timers please
+quiet please
+be quiet
+be silent
+talk to me
+you may speak again
+be loud
+silent mode off
+disable teach mode
+stop learning
+start learning
+activate teach mode
+teach mode off
+teach mode on
+deactivate teach mode
+enable teach mode
+i would like to teach you something
+i don't want to teach you anymore
+save some power
+save power
+save energy
+go to power saver mode
+energy saver mode on
+energy saver mode off
+go to full power
+energy saving off
+power saving off
+open google
+open bing
+open maps
+change voice threshold
+set voice threshold
+set a new voice threshold
+set personal data
+enter personal data
+who created you
+who made you
+who programmed you
+whats my name
+what is my name
+who am I
+do you know me
+do you know my name
+do you know where I live
+where do I live
+where do I work
+do you know where I work
+google that
+search that online
+search it on the web
+can you search that on the web
+search that on the web
+search it on the web
+open a program
+load a program
+start a program
+start program
+send email
+open email
+reload audio engine
+reload sound engine
+that's annoying
+boring
+it's annoying
+update geolocation
+update location
+update my location
+nothing
+set default speech engine
+activate advanced speech recognition
+switch to basic speech recognition
+thank you and goodbye
+set speech engine
+whats the time
+what is the time
+what day is it
+whats the date today
+how is it going
+good
+close last process
+how are you feeling
+hide yourself
+any news on cats
+close the browser
+run a self test
+shutdown windows
+ask this wolfram alpha
+ask that online
+search spotify for
+search music of the best guitar player ever
+do you know arduino
+date
+time
+search for updates
+look for updates
+stop listening
+start to listen
+listen to me
+open headline three
+load the third headline
+open headline two
+load the second headline
+open headline one
+load the first headline
+search music online
+find a train
+open a headline
+load a headline
+open my news
+load my personal news
+give me some physics news
+my name
+what are you able to do
+what can i ask you
+play music
+play some music
+i would like to hear some music
+can you play some music for us
+play some music for me
+play some music
+music
+id like to hear some music
+can you show me the tv program
+do a speaker adaption
+I'm feeling good thank you
+hey ILA get directions from Berlin to Essen
+get directions from San Francisco to Los Angeles please
+hey ILA can you help me I'm looking for a train or bus
+ok ILA please play some music of Metallica
+how is the weather in Hamburg ILA
+how is the weather in Munich
+I'd like to hear music of Jimi Hendrix
+ok ILA show me pictures of San Francisco
+ILA what time is it
+I'm searching a train from my place to work
+I'm looking for a train from here to work
+find me a train connection from Paris to London
+I'm looking for a flight
+can you open google please
+please open google for me
+open my browser please ILA
+set a timer for ten minutes please
+start an alarm in one hour
+start an alarm in forty five minutes please
+set a timer for fifteen minutes
+give me a timer for five minutes
+can you set a timer for thirty minutes please
+my name is Florian
+my name is Boss
+I wonder if you can tell me the news of today
+it would be nice if you could show me the tv program
+Ila can you tell me what is on the tv right now
+set an alarm
+wake me up at eight o'clock in the morning
+can you search for the closest supermarket please
+bring me to the next pharmacy
+bring me to the next drugstore
+show me the closest hospital quickly
+show me the location of the nearest food store
+create a note on my to do list
+remind me to take the trash out when I leave
+make a note on the to do list
+can you please start matlab for me
+could you open word please
+please start powerpoint for me
+I'm looking for music of Daft Punk
+please play some music of the white stripes
+search wikipedia for that
+make a web search for that
+search pictures of New York online
+open my apps folder
+open spotify and search some music for us
+can you start some music for me
+please check the weather for me
+can you find music of Kyuss
+ILA please open facebook
+i really wonder if you can shutdown the pc for me ILA
+thanks ILA that's very kind of you
+yes this is correct
+yes most definitely it's true
+from my work to home it's a short distance
+hey ILA get directions to the closest pharmacy and start at my location
+search inside my apps for the best match to microsoft excel and start it
+this is really good for us isn't it
+this is a test
+close mozilla firefox browser
+open internet explorer
+start google chrome
+can you google that please
+load my personal news please 
+are you using grammar mode right now
+switch on the grammar restrictions
+switch off the grammar mode
+can you turn on the lights please
+can you switch off the lights please
+please switch off my PC
+can you please switch off the computer
+I need help with the settings
+open the settings please
+settings
+hey ILA are you alright
+hey ILA are you listening to me
+ok ila please start my practice program of today
+ok ila give me a news update
+ok ILA check for updates of our system
+is your intelligence restricted ila
+is this a restricted area
+is your name really ILA
+is this what you mean
+when is the next bus coming
+what is the next thing you want to do
+where do we go from here
+what will the future hold for us
+why are we here
+the question is what is the question
+hey ila what do you know about me
+ila what do you know about anything
+what do you know about my interests
+what do you know about yourself
+is there anything I can help you with
+do you know what's inside your memory
+do you have access to your memory
+hey ILA what is on your mind
+hey ILA what do you have in mind
+what's going on right now
+what the hell is happening here
+can you show me the way from here to my home
+can you bing me home please
+please show me the way home
+ILA please find me the way to work from here
+no no no that's completely wrong
+yes you are totally right
+search pictures of famous artists
+find pictures of cats
+search for videos of my favorite band
+find the wikipedia article
+search wiki for that
+hey ILA how are you
+hey ILA this is a test of your skills
+what are the commands you can understand
+can you read my personal news please
+read me the latest physics news please
+please read the sports news
+load the latest news of the world and read them please
+show me a list of your commands please
+can I teach you a new command
+ILA what is the most important thing you can do
+what are your most important commands ILA
+you can start and read and load and open and find and search and so on
+ILA can you tell me please how is the weather tomorrow
+how's the performance of the share market today
+hey ILA how's your voice
+and then can you tell me what happens then
+pretty cool isn't it
+please open facebook
+can you please open facebook
+open my facebook page
+start facebook please
+start twitter please
+can you open twitter please
+open my twitter page please
+can you load my blog please
+open my blog please
+open my apps list
+let's watch a TV series
+I would like to watch a TV series please
+start a TV series
+load my favorite TV series
+the first
+the last
+the second
+the third
+number one
+number two
+number three
+number four
+number five
+in one minute
+in two minutes
+in three minutes
+in four minutes
+in five minutes
+in six minutes
+in seven minutes
+in eight minutes
+in nine minutes
+in ten minutes
+in eleven minutes
+in twelve minutes
+in thirteen minutes
+in fourteen minutes
+in fifteen minutes
+in sixteen minutes
+in seventeen minutes
+in eighteen minutes
+in nineteen minutes
+in twenty minutes
+in twenty five minutes
+in thirty minutes
+in thirty five minutes
+in forty minutes
+in forty five minutes
+in one hour
+in two hours
+in three hours
+in twelve hours
+in one day
+in two days
+in three days
+in one year
+in two years
+in three years
+at one o'clock
+at two o'clock
+at three o'clock
+at four o'clock
+at five o'clock
+at six o'clock
+at seven o'clock
+at eight o'clock
+at nine o'clock
+at ten o'clock
+at eleven o'clock
+at twelve o'clock
+at six pm
+at seven pm
+at eight pm
+at nine pm
+at ten pm
+tomorrow
+the day after tomorrow
+today
+on exit
+when exiting
+on start
+when starting
+when you start
+when you exit
+when i'm gone
+when i leave
+when i'm back
+when i come back
+can you remind me to switch off the oven in two hours
+please remind me to fetch the kids in one hour
+remind me to switch on the tv in thirty minutes
+please remind me to turn off the computer in forty minutes
+can you please remind me to catch the train in two hours
+remind me to wake up tomorrow at eight o'clock
+set a reminder for tomorrow nine o'clock
+set a reminder please for tomorrow at ten pm
+please remind me of the birthday in one year
+please remind me of this day in two years
+remind me of our meeting tomorrow at eleven am
+can you please remind me to watch the game today at eight pm
+remind me in fifteen minutes to check the stove
+remind me in ten minutes to switch off the stove

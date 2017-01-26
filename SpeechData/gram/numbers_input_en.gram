@@ -1,0 +1,42 @@
+#JSGF V1.0;
+
+grammar input;
+
+public <command> = 	(<numbers>) [second|seconds|minute|minutes|hour|hours|day|days|o'clock];
+
+<numbers> = 
+point|
+colon|
+the first|
+the second|
+the third|
+the last|
+one|
+two|
+three|
+four|
+five|
+six|
+seven|
+eight|
+nine|
+ten|
+eleven|
+twelve|
+thirteen|
+fourteen|
+fifteen|
+sixteen|
+seventeen|
+eighteen|
+nineteen|
+twenty|
+twenty one|
+twenty two|
+twenty three|
+twenty four|
+twenty five|
+thirty|
+thirty five|
+forty|
+forty five;

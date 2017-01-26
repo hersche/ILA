@@ -1,0 +1,27 @@
+ILA version history and patch notes
+------------------------------------
+
+3.8 - More context! context and super-context dependent commands to reuse the same phrase for different programs/actions. Improved Add-Ons with open parameter support and external answers from textfiles. Open parameters for custom conversation. Updated ILA look with choosable skins. Set search error thresholds in config(.properties). UI tweaks and bug fixes.
+
+3.7 - New Google API that works without key! Better management of processes and opening of 'apps' especially for Linux. New improved add-on management. Further improved command-matching. Added custom recognizer and synthesizer. Tweaking & bug fixing!
+
+3.7 Dev - This is ILA Beta 3.7 for developers, including files to localize ILA/changing the language/develope custom STT recognizers and code to write add-ons. Needs to be compiled with Java.
+
+3.6 - Major update adding full support for Pocketsphinx (decoder for low-performance devices) including keyphrase spotting, introducing new content like complex reminders and advanced features for contacts, adding more personality to ILA (intentions) and improved performance by smarter resource allocation. Of cause there is a lot of tweaking and bug fixing aswell :-) 
+
+3.5 - bug fixing for Linux and stability updates, support for Pocketsphinx to better suit the needs of low performmance devices, tweaks and more 
+
+3.4 - ILA v3.4 comes with a couple of bug fixes and some neat little updates all over the place like adding the contacs list automatically to ILA's grammar, fixing the saving and loading of speaker adaptations for PTM models, more comments when ILA needs to load stuff, new commands to test accuracy etc etc ... 
+
+3.3 - open source text-to-speech with MaryTTS added, dynamic language model that learns from user commands and auto-loads app names, dictionary check before adding new commands, welcome screen, UTF-8 coding for special characters, bug fixed in speaker adaptation, introducing addons, a lot of tweaking and much more 
+
+3.2 - adapted to new version of Sphinx-4 including improved en-us acoustic model, implemented MLLR speaker adaptation, added ILA language models for german and english, grammar + non-grammar mixing, improved open parameters, lot of UI tweaking and bugfixing - try ILA + Sphinx4 w/o grammar now! :-) 
+
+3.0 - added on-the-fly grammar change for sphinx-4, extended open parameters (custom question and auto-asking), RSS Feed reading, test-Command Button in teach-interface, INSTALL scripts, a lot of tweaking and bug fixing 
+
+2.9 - added global HotKey support, many localization improvements, better support for additional languages, performance improvements, bug fixes and much more 
+
+2.7 - added offline support for german language, open parameter commands, subfolders for 'Apps' and bug fixes 
+
+2.6 - The first public release of ILA available! :-) 
+

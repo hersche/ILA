@@ -1,0 +1,53 @@
+#JSGF V1.0;
+
+grammar input;
+
+public <command> = 	[at|in] (<numbers>) [second|seconds|minute|minutes|hour|hours|day|days|o'clock];
+
+<numbers> = 
+when i leave|
+when i return|
+when leaving|
+when returning|
+when you exit|
+when you start|
+on start|
+on exit|
+on idle|
+any time|
+when you have time|
+point|
+colon|
+the first|
+the second|
+the third|
+the last|
+one|
+two|
+three|
+four|
+five|
+six|
+seven|
+eight|
+nine|
+ten|
+eleven|
+twelve|
+thirteen|
+fourteen|
+fifteen|
+sixteen|
+seventeen|
+eighteen|
+nineteen|
+twenty|
+twenty one|
+twenty two|
+twenty three|
+twenty four|
+twenty five|
+thirty|
+thirty five|
+forty|
+forty five;

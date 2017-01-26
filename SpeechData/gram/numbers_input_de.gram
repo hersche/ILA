@@ -1,0 +1,51 @@
+#JSGF V1.0;
+
+grammar input;
+
+public <command> = 	(<numbers>) [minute|minuten|stunde|stunden|tag|tage|sekunde|sekunden|uhr] ;
+
+<numbers> = 
+komma|
+punkt|
+doppelpunkt|
+die erste|
+die zweite|
+die dritte|
+der erste|
+der zweite|
+der dritte|
+das erste|
+das zweite|
+das dritte|
+der letzte|
+die letzte|
+das letzte|
+eins|
+zwei|
+drei|
+vier|
+fuenf|
+sechs|
+sieben|
+acht|
+neun|
+zehn|
+elf|
+zwoelf|
+dreizehn|
+vierzehn|
+fuenfzehn|
+sechzehn|
+siebzehn|
+achtzehn|
+neunzehn|
+zwanzig|
+einundzwanzig|
+zweiundzwanzig|
+dreiundzwanzig|
+vierundzwanzig|
+fuenfundzwanzig|
+dreissig|
+fuenfunddreissig|
+vierzig|
+fuenfundvierzig;

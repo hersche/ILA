@@ -1,0 +1,26 @@
+This is the Apps folder. You can put almost everything in here that your system can execute,
+including shortcuts, batchfiles, playlists, links, exec-files, jar-files, pictures, mp3s ...
+ILA will automatically search this folder and all subfolders if you ask her to open/start/run
+something.
+
+note1: filenames are not automatically added to the sphinx grammar ... yet ... buuut
+to the dynamic language model, so if you are using grammar free mode you can directly ask for
+files in here!
+
+note2: keep the names simple, chance is high that exotic words are not in the dictionary and
+ILA will not understand them and please write numbers as words (2=two etc.) if you are not 
+using the Google API. Of cause you can add words to the dictionary if you want :-)
+
+!important!: Linux and Mac have some troubles with spaces, you might want to replace all of them
+with _ or - and also avoid sub-folders with spaces in the name. I'm still trying to fix this.
+
+For every file-extension you can set a default program to open. Please have a look at the:
+
+	app.defaults.config
+
+file. Setting programs there will also (most likely) give you the advantage of closing this
+program with a voice command ("open my rock mix" - "close the last process". To be extended ^^)
+
+note3: using Java to execute shortcuts (e.g.: .lnk files) will usually not give you the ability
+to close these processes. Use "custom system command" or "custom App/File" to give you more
+options.

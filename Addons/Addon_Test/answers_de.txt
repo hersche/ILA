@@ -1,0 +1,11 @@
+test_addon;<1>Hab das Addon getestet und es funktioniert.
+test_addon;<2>Der Addon Test hat geklappt <username>.
+test_addon;<100>Ja, funktioniert immer noch <username>.
+test_addon;<200>Ok, wie oft soll ich jetzt noch testen ob es funktioniert? Es geht!
+test_addon_switch_super_context;<1>Ok hab den super Kontext geändert zu Addon Test.
+test_addon_switch_super_context;<100>Hab den Kontext doch gerade erst geändert auf Addon Test.
+test_addon_switch_super_context;<200>Der Kontext ist Addon Test und daran hat sich nix geändert.
+test_addon_end_super_context;<1>Ok hab den Test des Addon Super Kontext beendet.
+test_addon_super_context0;<1>Gratulation du hast den Super Kontext Addon Test erreicht. Fortfahren?
+test_addon_super_context1a;<1>Leider gibt es hier noch nix zu tun
+test_addon_super_context1b;<1>Ok vielleicht später dann.

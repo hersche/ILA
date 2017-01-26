@@ -1,0 +1,25 @@
+#JSGF V1.0;
+
+grammar input;
+
+<polite> = [bitte|danke];
+
+public <command> = 	(<music>) ;
+
+<music> = 
+metallica|
+jimi hendrix|
+hendrix|
+[the] white stripes|
+deichkind|
+kalkbrenner|
+paul kalkbrenner|
+fritz kalkbrenner|
+zz top|
+bb king|
+beatsteaks|
+bosse|
+jay z|
+[the] roots|
+kings of leon|
+kyuss;

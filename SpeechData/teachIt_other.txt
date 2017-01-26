@@ -1,0 +1,6 @@
+merhaba;command;switchlang;tr;merhaba nasilsin?
+hablas español;command;switchlang;es;si claro
+goedemiddag;command;switchlang;nl;goedemiddag hoe gaat het?
+goede dag;command;switchlang;nl;goede dag hoe gaat het?
+buenos dias;command;switchlang;es;buenos dias que tal?
+bonjour;command;switchlang;fr;bonjour comment ca va?

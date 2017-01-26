@@ -1,0 +1,12 @@
+xbmc_kodi_controls_0;<1>Sorry <username> I couldn't access the Kodi player somehow.
+xbmc_kodi_controls_stop0;<1><username> it seems Kodi is not playing anything.
+xbmc_kodi_controls_stop0;<2><username> I think Kodi is not playing stuff right now.
+xbmc_kodi_controls_stop1;<1>Oki doki I stopped the music.
+xbmc_kodi_controls_stop2;<1>Alright I stopped the video.
+xbmc_kodi_controls_stop3;<1>Ok I stopped the picture slideshow.
+xbmc_kodi_controls_stop4;<1>Sorry I'm confused. I can't identify what Kodi is playing.
+xbmc_kodi_controls_play0;<1>Sorry but the folder you showed me seems not to be there.
+xbmc_kodi_controls_play0b;<1>Sorry but I couldn't play anything. Maybe a folder or connection problem.
+xbmc_kodi_controls_play1;<1>Ok let's go.
+xbmc_kodi_controls_play1;<2>Alrighty lets hear some good music.
+xbmc_kodi_controls_play1;<3>Ok I've started your music.

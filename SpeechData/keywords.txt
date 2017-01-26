@@ -1,0 +1,106 @@
+open a CUSTOM LINK in the default web browser 		-- customs;customsearch
+define one or more CUSTOM ANSWERS to a question 	-- customs;customconversation
+open/execute a FILE by specifying path\filename 	-- customs;executefile
+execute a CUSTOM system COMMAND 			-- customs;executecmd
+open an 'APP' from 'Apps'-folder 			-- command;openprogram
+try to close the last process started by APP/FILE/CMD 	-- customs;endprocess
+load personal NEWS feed		-- command;loadpersonalfeed
+load an RSS FEED		-- command;loadrssfeed
+open HEADLINE nbr xy of feed 	-- command;openrssfeedlink
+how is the WEATHER today? 			-- search;weatherT
+(under construction) show WEATHER for the week 	-- search;weatherW
+what's the TIME? 				-- command;saytime
+open/create an EMAIL				-- command;openemail
+update GEO LOCATION data 			-- command;updategeolocation
+create a REMINDER 	-- command;setreminder
+show all REMINDERS 	-- command;showreminders
+show missed REMINDERS 	-- command;showmissedreminders
+remove a REMINDER 	-- command;stopreminder
+remove all missed REMINDERS 	-- command;stopmissedreminders
+NOTIFY ILA that you are leaving 	-- conversation;userleaves
+NOTIFY ILA that you've returned 	-- conversation;userreturned
+start a TIMER 					-- command;starttimer
+stop all TIMERs or a certain number 		-- command;stoptimer
+show all TIMERs 				-- command;showtimer
+SEARCH the LAST question online 		-- search;searchlast
+ASK the LAST question wolfram alpha 		-- search;askthiswolfram
+START LISTENING for 'hey ILA'	--command;startheyila
+STOP LISTENING for 'hey ILA'	--command;stopheyila
+search CONTACTS for birthday 	--conversation;contactbirthday
+search a LOCATION 		-- search;location
+get DIRECTIONS (from/to) 	-- search;direction
+search a TRAIN/BUS (from/to) 	-- search;trainsearch
+search for a RIDE (from/to) 	-- search;mitfahrgelegenheit
+search SOCCER results 		-- search;Fussball
+what's on the NEWS? 		-- search;news
+search TV PROGRAM 		-- search;tvprogram
+WEB SEARCH with google 		-- search;google
+WEB SEARCH with bing 		-- search;bing
+web search for PICTURES 	-- search;pictures
+web search for VIDEOS 		-- search;videos
+web search for MUSIC 		-- search;musicsearch
+WIKIPEDIA search... 		-- search;wikisearch
+ask WOLFRAM ALPHA for... 	-- search;wolframsearch
+search english-german DICTIONARY for...		-- search;transvocable
+HOW MUCH is a ...? 		-- search;checkprice
+search AMAZON for ... 		-- search;amazon
+search for a SOCCERPLAYER 	-- search;soccerplayer
+CONFIRM 			-- command;ok
+ABORT 				-- command;abort
+CLOSE BROWSER if one is set 	-- command;closebrowser
+EXIT ILA (without a goodbye) 	-- command;exit
+EXIT ILA (with a goodbye) 		-- conversation;bye
+MINIMIZE ILA 			-- command;hideyourself
+open the SETTINGS		-- command;opensettings
+TEST microphone, internet connection ... 	-- command;test
+TEST speech recognition accuracy -- command;testaccuracy
+set a new THRESHOLD for voice recognition 	-- command;voicethreshold
+set the SPEECH ENGINE 		-- command;setspeechengine
+[DEBUG] ILA short and mid term memory 	-- command;showmemory
+is the internet working? 	-- command;iconnected
+switch LANGUAGE to ...	(language code/answer) -- command;switchlang
+switch LANGUAGE to english (default)	-- command;switchlangen
+switch LANGUAGE to english (uk)	-- command;switchlanguk
+switch LANGUAGE to english (us)	-- command;switchlangus
+switch LANGUAGE to german 	-- command;switchlangde
+what LANGUAGEs do you speak?	-- conversation;languages
+SAVE POWER by deactivating animations 	-- command;savepower
+POWER SAVER mode off 		-- command;savepoweroff
+deactivate AUDIO output 	-- command;silent
+activate AUDIO output 		-- command;silentOff
+deactivate auto-TEACHING request 	-- command;teachmodeoff
+activate auto-TEACHING request 		-- command;teachmodeon
+optimize ILA MEMORY FILES -- command;optimize_memory_files
+do unsupervised SPEAKER ADAPTATION	-- command;usspeakeradaption
+open the INFOS window		-- command;openinfos
+open the TEACH-INTERFACE	-- command;openteaching
+open the SPEAKER TRAINING interface	-- command;opentraining
+reload setup and SOUND, might help sometimes 	-- command;reloadsystem
+load a HTML file to INFO window -- command;htmlwidget
+hello 				-- conversation;hello
+can I ask you something? 	-- conversation;startQuestion
+I need help 			-- conversation;needhelp
+thank you 			-- conversation;thx
+I'm sorry 			-- conversation;sorry
+done 				-- conversation;done
+how do you do? 			-- conversation;hdyd
+I'm confused 			-- conversation;confused
+I'm impressed 			-- conversation;impressed
+it's annoying 			-- conversation;annoying
+empty phrase 			-- conversation;flosculus
+what can you do? 		-- conversation;abilities
+what's your name? 		-- conversation;name
+what's your age? 		-- conversation;age
+you are funny 			-- conversation;funny
+can you hear me? 		-- conversation;hearMe
+sorry I can't hear you 		-- conversation;canthear
+what does ILA mean? 		-- conversation;ILA
+what's the meaning of life? 	-- conversation;meaningoflife
+ask for name, home and work 	-- conversation;personaldata
+where are you from? 		-- conversation;wherefrom
+who made you? 			-- conversation;creator
+do you know my name? 		-- conversation;sayusername
+do you know where I live? 	-- conversation;sayuserhome
+do you know where I work? 	-- conversation;sayuserwork
+say a test sentence 		-- conversation;testsentence
+ready when you are 		-- conversation;NaN

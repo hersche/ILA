@@ -1,0 +1,38 @@
+#JSGF V1.0;
+
+grammar input;
+
+public <command> = 	[mein name ist|ich heisse] (<names>) ;
+
+<names> = 
+boss|
+ila|
+chef|
+alexander|
+azize|
+carla|
+christian|
+christoph|
+elke|
+florian|
+isabella|
+manuel|
+matthias|
+marvin|
+michael|
+mehdi|
+jens|
+jessica|
+jessi|
+johannes|
+stefan|
+frank|
+klaus|
+uwe|
+simon|
+tommi|
+thomas|
+benedikt|
+philipp|
+dennis|
+wolfgang;

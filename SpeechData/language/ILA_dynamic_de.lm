@@ -1,0 +1,3513 @@
+\data\
+ngram 1=491
+ngram 2=1396
+ngram 3=1614
+
+\1-grams:
+-1.2062 </s> -0.3010
+-1.2062 <s> -0.2159
+-3.0691 ab -0.2591
+-3.0691 abbrechen -0.2610
+-3.1601 abort -0.2610
+-3.1601 abzuholen -0.2610
+-3.0299 ach -0.3004
+-3.0691 acht -0.2596
+-3.1123 achtzehn -0.2596
+-2.9607 aendere -0.2970
+-3.1123 aendern -0.2610
+-2.9011 aktivieren -0.2610
+-2.9939 aktualisiere -0.2998
+-2.9939 aktualisieren -0.2610
+-3.1601 aktuell -0.3006
+-2.9299 aktuelle -0.2999
+-2.9299 aktuellen -0.2989
+-3.0691 alarm -0.2578
+-2.8486 alle -0.2998
+-3.0299 alles -0.3005
+-3.1123 alpha -0.2610
+-3.1601 also -0.3008
+-3.1123 alt -0.3004
+-2.8486 an -0.2957
+-3.1123 anhalten -0.2610
+-3.1123 anschalten -0.2610
+-3.1601 anzeigen -0.2610
+-2.9939 app -0.2610
+-3.1123 apps -0.2991
+-2.9939 arbeit -0.2591
+-3.0299 arbeite -0.2580
+-3.1123 arduino -0.2610
+-3.0691 auf -0.3008
+-3.1601 aufwecken -0.2610
+-3.1601 aufzustehen -0.2610
+-2.9299 aus -0.2583
+-3.0299 ausschalten -0.2610
+-3.1123 auszuschalten -0.2610
+-3.0691 bahn -0.2994
+-3.1123 bahnverbindung -0.2963
+-3.1601 bb -0.3010
+-3.1123 beeindruckt -0.2610
+-3.0691 beenden -0.2610
+-3.0691 befehle -0.2556
+-3.0691 bei -0.3003
+-2.9607 beibringen -0.2610
+-2.9011 beim -0.2998
+-2.9011 berlin -0.2558
+-3.0299 bilder -0.2610
+-2.8018 bin -0.2570
+-3.1123 bing -0.2610
+-3.1601 bis -0.3008
+-2.7802 bist -0.2955
+-2.2703 bitte -0.2420
+-3.0691 blog -0.2575
+-3.0691 bochum -0.2992
+-3.1601 bosse -0.2985
+-3.0299 bring -0.2995
+-3.1601 bringen -0.2610
+-3.0691 browser -0.2610
+-2.9939 bundesliga -0.2604
+-3.0299 bus -0.2593
+-3.1123 busverbindung -0.2963
+-3.1601 calculator -0.2610
+-3.1123 computer -0.3007
+-3.0299 cool -0.2591
+-3.0299 da -0.2604
+-3.0299 danach -0.2998
+-3.0299 danke -0.2600
+-3.0691 dann -0.2993
+-2.8486 daran -0.2958
+-3.1123 darfst -0.3008
+-2.3334 das -0.2524
+-3.0299 daten -0.3008
+-3.1123 datum -0.3009
+-3.1601 dauert -0.3003
+-3.0299 deaktivieren -0.2610
+-3.1123 deichkind -0.2609
+-3.1123 dein -0.3008
+-3.1123 deine -0.3005
+-3.1123 deinen -0.3008
+-3.1601 deiner -0.3009
+-2.5187 den -0.2981
+-3.1601 denn -0.3010
+-2.6691 der -0.2982
+-3.0691 des -0.3009
+-2.9011 deutsch -0.2604
+-2.8018 dich -0.2605
+-2.3646 die -0.2902
+-3.0691 dies -0.2991
+-3.1601 diesen -0.3010
+-2.8018 dir -0.2561
+-3.1601 doppelpunkt -0.2610
+-3.1601 dort -0.3010
+-3.1601 dortmund -0.2610
+-3.1601 drauf -0.2993
+-2.8486 drei -0.2579
+-3.0299 dreissig -0.2601
+-3.1601 dreiundzwanzig -0.2610
+-3.1601 dreizehn -0.2610
+-2.9011 dritte -0.2599
+-2.0700 du -0.2336
+-3.1601 duesseldorf -0.2610
+-3.1601 durchsuche -0.3004
+-3.1601 eigentlich -0.2985
+-2.8486 ein -0.2589
+-2.3896 eine -0.2968
+-3.0299 einem -0.3005
+-2.6857 einen -0.2996
+-3.0299 einer -0.3006
+-3.1601 einfach -0.3009
+-3.1123 eingeben -0.2610
+-3.0299 eins -0.2609
+-3.1123 einschalten -0.2610
+-3.0299 einstellungen -0.2610
+-3.1601 einundzwanzig -0.2610
+-3.1601 einzuschalten -0.2610
+-3.1601 electro -0.3008
+-3.1123 elf -0.2596
+-3.0299 email -0.2609
+-3.1123 energie -0.3009
+-2.7596 energiesparmodus -0.2591
+-2.9011 englisch -0.2571
+-2.9299 entferne -0.2946
+-3.0691 entfernen -0.2610
+-2.9939 ergebnisse -0.2610
+-2.8486 erinnere -0.2995
+-2.8486 erinnern -0.2540
+-2.7399 erinnerung -0.2596
+-2.8486 erinnerungen -0.2583
+-3.1123 erschaffen -0.2610
+-3.1123 erst -0.2986
+-2.8740 erste -0.2599
+-2.9607 erstelle -0.2959
+-2.7399 es -0.2563
+-2.9299 essen -0.2552
+-2.9939 etwas -0.2981
+-3.1601 excel -0.2610
+-2.9939 facebook -0.2573
+-3.1123 feed -0.2610
+-3.0299 fernsehen -0.2610
+-3.1601 fernseher -0.3010
+-2.9607 fernsehprogramm -0.2610
+-3.1123 filmserie -0.3006
+-2.8486 finde -0.2949
+-3.1601 finden -0.3001
+-3.1123 frag -0.2985
+-2.9299 frage -0.2593
+-3.0691 frankfurt -0.2591
+-3.0299 fuenf -0.2586
+-3.1601 fuenfunddreissig -0.2610
+-3.1123 fuenfundvierzig -0.2601
+-3.1601 fuenfundzwanzig -0.2610
+-2.9939 fuenfzehn -0.2601
+-2.8018 fuer -0.2971
+-2.8018 fussball -0.2604
+-3.0299 fussballergebnisse -0.2610
+-3.1123 geburtstag -0.2603
+-3.1123 gehe -0.2610
+-3.1123 gehen -0.2610
+-2.9607 geht -0.3001
+-2.8246 gehts -0.2549
+-3.1123 gemacht -0.2610
+-3.1123 gerade -0.2610
+-3.1123 gerne -0.3002
+-3.1123 gesagt -0.2610
+-3.1123 geschaffen -0.2610
+-3.1601 gespeichert -0.2610
+-2.9939 gibt -0.3003
+-2.8018 gibts -0.2975
+-3.1123 ging -0.3009
+-3.1601 gleich -0.2610
+-3.1123 golem -0.3006
+-3.0299 google -0.2583
+-3.1601 gramm -0.3007
+-3.0299 grenzwert -0.2995
+-2.9011 gucken -0.2584
+-2.9607 gut -0.2607
+-3.1601 gute -0.3006
+-2.9607 guten -0.3002
+-2.9299 habe -0.2555
+-3.1123 haben -0.3007
+-2.9607 haha -0.2606
+-3.0691 hallo -0.2591
+-3.0691 hamburg -0.2591
+-3.1123 hast -0.2961
+-2.9011 hat -0.3004
+-2.6857 hause -0.2576
+-3.0299 heisse -0.2580
+-2.9011 heisst -0.2918
+-3.0299 helfen -0.2591
+-3.1123 hendrix -0.2610
+-3.1123 her -0.2610
+-3.1601 herd -0.3009
+-2.9607 herunterfahren -0.2610
+-2.8246 heute -0.2591
+-2.8246 hey -0.2993
+-2.9939 hi -0.2556
+-2.8740 hier -0.2588
+-3.1601 hilfe -0.2610
+-3.1601 hin -0.2610
+-3.1123 hoer -0.2986
+-2.9607 hoeren -0.2610
+-3.1601 holen -0.2610
+-2.2972 ich -0.2502
+-2.4644 ila -0.2451
+-2.7596 im -0.3000
+-2.3410 in -0.2941
+-3.1601 info -0.2610
+-3.1123 internet -0.3009
+-3.1601 irgendwann -0.2610
+-2.6691 ist -0.2550
+-3.0299 ja -0.2609
+-3.1123 jahr -0.2605
+-2.9939 jahren -0.2599
+-3.1123 jetzt -0.3008
+-3.1601 jim -0.3009
+-3.1123 jimi -0.3009
+-3.1601 joe -0.3009
+-3.1601 kalkbrenner -0.2610
+-2.3113 kannst -0.2551
+-3.1123 kein -0.3009
+-2.8486 kennst -0.2961
+-3.1601 kilo -0.2610
+-3.1601 kinder -0.3010
+-3.1601 king -0.2610
+-3.1601 koeln -0.2610
+-3.1601 komma -0.2610
+-3.0691 komme -0.2580
+-3.1123 kommst -0.2961
+-3.1601 konzert -0.3004
+-3.1123 krankenhaus -0.2610
+-3.1123 kurz -0.3002
+-3.1601 kyuss -0.3007
+-2.5187 lade -0.2935
+-2.9607 laden -0.2600
+-3.0299 laeuft -0.3003
+-3.1601 lange -0.3010
+-3.1123 langweilig -0.2610
+-3.1123 lass -0.3009
+-3.1123 laufen -0.3009
+-3.1123 laut -0.2610
+-3.1123 lautet -0.2987
+-3.1123 lebens -0.2610
+-3.1123 leise -0.2981
+-2.9011 lern -0.3006
+-3.1601 lesen -0.3001
+-3.0691 letzte -0.2610
+-3.0691 lieblingsband -0.2610
+-3.1601 lieblingsserie -0.2610
+-3.0299 lies -0.2965
+-3.1123 liga -0.2610
+-3.1123 liste -0.2610
+-3.1123 loesche -0.2998
+-3.0299 lol -0.2605
+-3.1601 los -0.2610
+-2.9607 lustig -0.2610
+-3.1123 machen -0.2610
+-3.1123 machst -0.2961
+-2.8486 mal -0.2552
+-3.1123 manchmal -0.3004
+-3.1123 maps -0.2610
+-3.0299 matlab -0.2605
+-3.1123 meeting -0.2605
+-3.1123 mehr -0.3007
+-3.1123 mein -0.3008
+-2.7802 meine -0.2991
+-2.8018 meinen -0.2992
+-3.1123 meiner -0.3009
+-3.1601 metal -0.3008
+-3.1123 metallica -0.2610
+-2.5073 mich -0.2494
+-3.1123 minute -0.2610
+-2.7030 minuten -0.2595
+-2.3410 mir -0.2376
+-3.1601 mit -0.2986
+-3.1123 mitfahrgelegenheiten -0.2992
+-3.0299 mix -0.2610
+-2.9011 modus -0.3001
+-2.9607 moechte -0.2983
+-3.1601 moment -0.2610
+-2.8740 morgen -0.2579
+-3.0299 muenchen -0.2591
+-2.7211 musik -0.2551
+-3.1123 muss -0.3009
+-3.0691 my -0.3009
+-2.9939 na -0.2573
+-2.4543 nach -0.2582
+-2.8018 nachrichten -0.2609
+-3.1601 naechste -0.3010
+-3.1601 naechsten -0.3009
+-3.0299 name -0.2610
+-3.0299 namen -0.2610
+-3.1123 ne -0.2993
+-2.9939 nein -0.2608
+-3.1123 nervst -0.2610
+-3.1123 nervt -0.2610
+-3.1123 nett -0.2610
+-3.1123 neu -0.3007
+-2.9299 neues -0.2579
+-3.0691 neun -0.2596
+-3.1123 neunzehn -0.2596
+-3.1123 neusten -0.3008
+-2.8740 news -0.2578
+-2.9939 nicht -0.2607
+-2.9607 nichts -0.2607
+-3.1123 nix -0.2610
+-3.1123 no -0.3009
+-3.1123 noch -0.3005
+-3.1123 nochmal -0.2610
+-2.8246 nummer -0.2592
+-3.1601 oder -0.2610
+-2.4747 oeffne -0.2915
+-2.9607 oeffnen -0.2600
+-3.1123 ofen -0.3003
+-3.1123 offline -0.3005
+-2.9939 ok -0.2585
+-2.8486 online -0.2603
+-3.1123 passiert -0.3006
+-3.1601 paul -0.3010
+-3.1123 pc -0.3007
+-2.9011 persoenliche -0.2998
+-3.0691 persoenlichen -0.3000
+-3.0691 physik -0.2604
+-3.1123 powerpoint -0.2578
+-3.1123 problem -0.2610
+-3.1123 problemo -0.2610
+-2.9607 programm -0.2602
+-3.1123 programmiert -0.2610
+-3.1123 pruefe -0.2987
+-3.1601 pruefen -0.2610
+-3.1601 punkt -0.2610
+-3.1601 qualitaet -0.3009
+-3.1601 rede -0.3010
+-3.1601 reden -0.2610
+-3.1601 rock -0.3008
+-3.1601 rockt -0.3010
+-3.1123 rss -0.3009
+-3.0691 sag -0.2985
+-3.1123 sagen -0.2971
+-3.1601 sagte -0.2610
+-3.1601 schlafen -0.3004
+-2.6530 schlagzeile -0.2591
+-2.9939 schlagzeilen -0.2607
+-3.1123 schliesse -0.2995
+-3.1123 schluss -0.3004
+-3.1123 schnell -0.2610
+-3.1123 schoen -0.3004
+-3.1601 schoenste -0.3009
+-3.1123 sechs -0.2596
+-3.1601 sechzehn -0.2610
+-3.0299 sei -0.3008
+-3.1123 seite -0.2578
+-3.1601 sekunde -0.2610
+-3.1601 sekunden -0.2610
+-3.1123 senden -0.2610
+-3.0299 serie -0.2606
+-3.1123 setze -0.3001
+-3.0691 sieben -0.2596
+-3.1601 siebzehn -0.2610
+-3.1601 sieht -0.2985
+-3.0299 siehts -0.2982
+-2.9299 sind -0.2576
+-3.1123 sinn -0.3009
+-3.1123 smith -0.2610
+-2.9607 so -0.2581
+-3.1123 sollst -0.3006
+-3.1123 sorry -0.2610
+-3.1123 sound -0.3009
+-3.1601 sounds -0.2610
+-3.1123 spaeter -0.2610
+-3.1123 sparen -0.2610
+-3.1123 spiegel -0.3005
+-3.0691 spiel -0.2956
+-2.8486 spiele -0.2930
+-3.0691 spielen -0.2610
+-3.1123 spielt -0.3005
+-3.1601 sportnachrichten -0.2610
+-3.1123 spotify -0.2591
+-3.1123 sprache -0.2610
+-2.8246 spracherkennung -0.2605
+-3.1601 sprachqualitaet -0.2981
+-2.9011 sprechen -0.2610
+-2.9607 sprich -0.3002
+-3.1123 standard -0.3005
+-2.7802 standort -0.2594
+-2.7211 starte -0.2912
+-2.8740 starten -0.2581
+-2.9939 steht -0.2960
+-2.9939 stehts -0.2579
+-3.1123 stellen -0.2610
+-3.1601 stripes -0.3007
+-2.9607 stunde -0.2599
+-2.9607 stunden -0.2605
+-2.9939 such -0.2961
+-2.4853 suche -0.2475
+-3.1601 suchen -0.3001
+-2.9299 tag -0.2581
+-3.1601 tage -0.2610
+-3.1123 tagen -0.2610
+-3.1601 tankstelle -0.3001
+-3.1601 taschenrechner -0.2610
+-2.9939 test -0.2600
+-3.1601 teste -0.2981
+-3.1601 the -0.3010
+-2.8740 timer -0.2575
+-3.1601 top -0.2610
+-3.1123 total -0.2608
+-3.1123 treffen -0.2605
+-2.9939 tschuess -0.2591
+-2.9011 tv -0.2605
+-3.0691 twitter -0.2606
+-3.1601 uebermorgen -0.2610
+-2.5548 uhr -0.2588
+-3.0691 uhrzeit -0.2610
+-2.6530 um -0.2975
+-2.6691 und -0.2931
+-3.1123 uns -0.2989
+-3.1123 unser -0.3009
+-3.1123 updaten -0.2610
+-3.1123 updates -0.2610
+-3.1123 verbindung -0.2610
+-3.1601 vergangen -0.3001
+-3.0691 verpasst -0.2607
+-3.0691 verpassten -0.3005
+-3.1123 versteck -0.3004
+-3.1123 verstehen -0.2581
+-3.1601 versuche -0.2995
+-3.0691 viel -0.2996
+-3.0299 vier -0.2593
+-3.1601 vierundzwanzig -0.2610
+-3.1123 vierzehn -0.2596
+-3.1123 vierzig -0.2601
+-3.1601 voice -0.2610
+-2.4961 von -0.2975
+-3.0691 vor -0.2610
+-3.1601 vorlesen -0.2981
+-3.1601 vorne -0.2610
+-3.1123 waehlen -0.2610
+-3.1601 waesche -0.3004
+-3.1601 war -0.2987
+-3.0299 warum -0.2607
+-2.3487 was -0.2880
+-2.9011 web -0.2592
+-3.0299 wechseln -0.2981
+-3.1123 wecker -0.3009
+-2.7211 weg -0.2565
+-2.9607 weisst -0.2961
+-3.1601 weit -0.3001
+-3.0299 welche -0.2999
+-3.1123 welcher -0.3007
+-3.0691 welches -0.3006
+-3.0691 wenn -0.2983
+-2.7596 wer -0.2993
+-2.7399 wetter -0.2562
+-3.1601 white -0.3010
+-3.1601 wichtigsten -0.3009
+-2.2449 wie -0.2505
+-3.0299 wieder -0.3004
+-3.1601 wiederhole -0.2610
+-3.0299 wiedersehen -0.2591
+-3.0691 wieviel -0.2996
+-3.1123 will -0.3004
+-3.1123 windows -0.3007
+-2.9299 wir -0.2602
+-2.8486 wird -0.2582
+-2.7399 wo -0.2965
+-3.0299 wofuer -0.3008
+-3.0299 wohne -0.2580
+-3.1123 wolfram -0.3009
+-3.1601 word -0.3006
+-3.1123 wow -0.2985
+-3.1123 wuerde -0.3009
+-3.1601 youtube -0.2610
+-2.9607 zehn -0.2586
+-2.4961 zeig -0.2986
+-2.9299 zeige -0.2971
+-3.1123 zeigen -0.2969
+-3.1123 zeit -0.2610
+-2.7802 zu -0.2586
+-2.9607 zug -0.2587
+-3.0299 zugverbindung -0.2965
+-2.9607 zuhoeren -0.2578
+-3.1123 zum -0.3009
+-3.0299 zur -0.3008
+-3.0299 zwanzig -0.2586
+-2.8246 zwei -0.2577
+-2.9011 zweite -0.2599
+-3.1123 zweiundzwanzig -0.2596
+-3.0691 zwoelf -0.2592
+-3.1601 zz -0.3010
+
+\2-grams:
+-2.7070 <s> abbrechen 0.0000
+-3.1841 <s> abort 0.0000
+-2.5821 <s> ach 0.0000
+-3.1841 <s> acht -0.2218
+-3.1841 <s> achtzehn -0.1761
+-2.4060 <s> aendere 0.0000
+-2.5821 <s> aktualisiere 0.0000
+-2.5821 <s> aktuelle -0.0580
+-2.7070 <s> alle -0.1461
+-2.7070 <s> alles 0.0000
+-3.1841 <s> also 0.0000
+-2.8831 <s> app 0.0000
+-2.7070 <s> auf 0.0000
+-2.8831 <s> beenden 0.0000
+-2.8831 <s> beim -0.2430
+-2.8831 <s> bilder 0.0000
+-2.8831 <s> bin -0.2430
+-2.8831 <s> bist -0.1413
+-2.8831 <s> bitte -0.2936
+-2.7070 <s> bring 0.0000
+-3.1841 <s> calculator 0.0000
+-2.8831 <s> cool -0.1761
+-2.5821 <s> danke 0.0000
+-2.4060 <s> das -0.2742
+-2.5821 <s> den -0.2711
+-2.5821 <s> der -0.2527
+-2.5821 <s> die -0.1946
+-3.1841 <s> dies -0.1249
+-3.1841 <s> doppelpunkt 0.0000
+-3.1841 <s> drei -0.2304
+-3.1841 <s> dreissig -0.2430
+-3.1841 <s> dreiundzwanzig 0.0000
+-3.1841 <s> dreizehn 0.0000
+-2.1049 <s> du -0.2688
+-3.1841 <s> durchsuche 0.0000
+-2.5821 <s> ein -0.2041
+-2.8831 <s> eine -0.2696
+-3.1841 <s> eins -0.0969
+-3.1841 <s> einstellungen 0.0000
+-3.1841 <s> einundzwanzig 0.0000
+-3.1841 <s> elf -0.1761
+-2.8831 <s> email -0.1761
+-2.8831 <s> energie 0.0000
+-2.0380 <s> energiesparmodus 0.0000
+-2.3390 <s> entferne 0.0000
+-2.1841 <s> erinnere 0.0000
+-3.1841 <s> erst -0.1761
+-2.4060 <s> erstelle 0.0000
+-2.2299 <s> finde -0.0414
+-2.8831 <s> frag 0.0000
+-3.1841 <s> fuenf -0.1761
+-3.1841 <s> fuenfunddreissig 0.0000
+-3.1841 <s> fuenfundvierzig -0.1761
+-3.1841 <s> fuenfundzwanzig 0.0000
+-3.1841 <s> fuenfzehn -0.2553
+-2.8831 <s> gibt 0.0000
+-2.8831 <s> google -0.1761
+-2.8831 <s> gut -0.2218
+-2.4060 <s> guten 0.0000
+-3.1841 <s> habe -0.2341
+-2.4060 <s> haha 0.0000
+-2.7070 <s> hallo 0.0000
+-2.1427 <s> hey 0.0000
+-2.4852 <s> hi 0.0000
+-3.1841 <s> hilfe 0.0000
+-2.8831 <s> hoer 0.0000
+-1.7217 <s> ich -0.1573
+-2.4852 <s> ila -0.2483
+-1.9054 <s> in -0.1293
+-3.1841 <s> irgendwann 0.0000
+-3.1841 <s> ist -0.2653
+-2.8831 <s> ja -0.1761
+-2.8831 <s> jetzt 0.0000
+-3.1841 <s> jim 0.0000
+-3.1841 <s> jimi 0.0000
+-3.1841 <s> joe 0.0000
+-1.6278 <s> kannst -0.0466
+-2.8831 <s> kein 0.0000
+-2.1841 <s> kennst 0.0000
+-3.1841 <s> komma 0.0000
+-1.7370 <s> lade -0.0142
+-2.8831 <s> langweilig 0.0000
+-2.8831 <s> lass 0.0000
+-2.2810 <s> lern 0.0000
+-3.1841 <s> lies -0.1761
+-2.8831 <s> loesche 0.0000
+-2.7070 <s> mal -0.2304
+-2.8831 <s> matlab -0.1761
+-2.8831 <s> meinen -0.1761
+-3.1841 <s> minute 0.0000
+-3.1841 <s> minuten -0.0918
+-3.1841 <s> musik -0.2730
+-2.7070 <s> my 0.0000
+-2.4852 <s> na 0.0000
+-2.8831 <s> ne 0.0000
+-2.7070 <s> nein 0.0000
+-3.1841 <s> neun -0.2218
+-3.1841 <s> neunzehn -0.1761
+-2.8831 <s> nicht -0.2041
+-2.8831 <s> nix 0.0000
+-2.8831 <s> no 0.0000
+-2.4852 <s> nummer -0.0378
+-1.6656 <s> oeffne -0.0126
+-2.8831 <s> offline 0.0000
+-2.7070 <s> ok -0.0792
+-2.8831 <s> online -0.2553
+-2.5821 <s> persoenliche -0.1761
+-3.1841 <s> powerpoint -0.1761
+-2.8831 <s> pruefe 0.0000
+-3.1841 <s> punkt 0.0000
+-2.7070 <s> sag 0.0000
+-2.8831 <s> schliesse 0.0000
+-2.8831 <s> schluss 0.0000
+-2.8831 <s> schoen 0.0000
+-3.1841 <s> sechs -0.1761
+-3.1841 <s> sechzehn 0.0000
+-2.5821 <s> sei 0.0000
+-3.1841 <s> sekunde 0.0000
+-3.1841 <s> sekunden 0.0000
+-2.8831 <s> setze 0.0000
+-3.1841 <s> sieben -0.2218
+-3.1841 <s> siebzehn 0.0000
+-2.8831 <s> sorry 0.0000
+-2.8831 <s> sound 0.0000
+-2.8831 <s> spaeter 0.0000
+-2.8831 <s> spiel -0.1249
+-2.1841 <s> spiele 0.0000
+-2.4060 <s> sprich 0.0000
+-2.8831 <s> standard 0.0000
+-2.5821 <s> standort -0.1648
+-2.0080 <s> starte -0.0263
+-3.1841 <s> stunde -0.1249
+-3.1841 <s> stunden -0.1761
+-2.4852 <s> such 0.0000
+-1.7862 <s> suche -0.0130
+-3.1841 <s> tag -0.1549
+-3.1841 <s> tage 0.0000
+-2.8831 <s> test -0.1461
+-3.1841 <s> teste 0.0000
+-2.7070 <s> tschuess 0.0000
+-3.1841 <s> uhr -0.1127
+-2.0702 <s> um -0.0607
+-2.8831 <s> versteck 0.0000
+-3.1841 <s> vier -0.1761
+-3.1841 <s> vierundzwanzig 0.0000
+-3.1841 <s> vierzehn -0.1761
+-3.1841 <s> vierzig -0.1761
+-2.5821 <s> warum 0.0000
+-1.6043 <s> was -0.0822
+-2.8831 <s> web -0.2430
+-2.8831 <s> wecker 0.0000
+-2.4060 <s> weisst 0.0000
+-2.7070 <s> welche -0.0969
+-2.8831 <s> welcher 0.0000
+-2.7070 <s> welches 0.0000
+-2.7070 <s> wenn 0.0000
+-2.0380 <s> wer 0.0000
+-1.4766 <s> wie -0.0332
+-3.1841 <s> wiedersehen -0.0969
+-2.7070 <s> wieviel 0.0000
+-2.8831 <s> windows 0.0000
+-2.1841 <s> wo -0.1249
+-2.5821 <s> wofuer 0.0000
+-2.8831 <s> wow 0.0000
+-3.1841 <s> zehn -0.2632
+-1.7370 <s> zeig 0.0000
+-2.4060 <s> zeige -0.0580
+-2.5821 <s> zu -0.2285
+-2.7070 <s> zuhoeren -0.1249
+-3.1841 <s> zwanzig -0.2430
+-3.1841 <s> zwei -0.2374
+-3.1841 <s> zweiundzwanzig -0.1761
+-3.1841 <s> zwoelf -0.2218
+-0.4771 ab </s> -0.3010
+-0.7782 ab ila -0.1719
+-0.3010 abbrechen </s> -0.3010
+-0.3010 abort </s> -0.3010
+-0.3010 abzuholen </s> -0.3010
+-0.6021 ach nichts -0.2218
+-0.6021 ach so -0.1249
+-0.7782 acht </s> -0.3010
+-0.4771 acht uhr -0.1001
+-0.6021 achtzehn </s> -0.3010
+-0.6021 achtzehn uhr -0.1127
+-0.7782 aendere den -0.2863
+-0.7782 aendere die -0.2915
+-0.7782 aendere grenzwert -0.1761
+-0.3010 aendern </s> -0.3010
+-0.3010 aktivieren </s> -0.3010
+-0.5229 aktualisiere meinen -0.1761
+-0.6990 aktualisiere standort -0.2083
+-0.3010 aktualisieren </s> -0.3010
+-0.3010 aktuell beim -0.0969
+-0.5441 aktuelle nachrichten -0.0969
+-0.8451 aktuelle news -0.0458
+-1.1461 aktuelle sportnachrichten 0.0000
+-1.1461 aktuellen bundesliga -0.2553
+-1.1461 aktuellen fussballergebnisse 0.0000
+-1.1461 aktuellen nachrichten -0.0969
+-1.1461 aktuellen physik -0.2218
+-0.8451 aktuellen schlagzeilen 0.0000
+-1.1461 aktuellen standort -0.2083
+-0.7782 alarm </s> -0.3010
+-0.7782 alarm in -0.2875
+-0.7782 alarm starten -0.0872
+-0.6990 alle erinnerungen -0.0414
+-1.0000 alle mitfahrgelegenheiten 0.0000
+-1.0000 alle timer -0.2499
+-1.0000 alle verpassten 0.0000
+-0.6021 alles gut -0.1249
+-0.6021 alles ok -0.1461
+-0.3010 alpha </s> -0.3010
+-0.3010 also lies -0.2430
+-0.3010 alt bist -0.1413
+-0.8239 an das -0.2878
+-1.0000 an den -0.2863
+-1.3010 an diesen 0.0000
+-1.3010 an einen -0.2888
+-1.3010 an etwas -0.2553
+-1.0000 an unser 0.0000
+-0.3010 anhalten </s> -0.3010
+-0.3010 anschalten </s> -0.3010
+-0.3010 anzeigen </s> -0.3010
+-0.3979 app </s> -0.3010
+-1.0000 app info 0.0000
+-0.6021 apps liste -0.1761
+-0.6021 apps nach -0.2950
+-0.3979 arbeit </s> -0.3010
+-1.0000 arbeit nach -0.1761
+-0.6021 arbeite </s> -0.3010
+-0.6021 arbeite ich -0.2596
+-0.3010 arduino </s> -0.3010
+-0.3010 auf wiedersehen 0.0000
+-0.3010 aufwecken </s> -0.3010
+-0.3010 aufzustehen </s> -0.3010
+-0.3680 aus </s> -0.3010
+-1.1461 aus in -0.2966
+-0.3010 ausschalten </s> -0.3010
+-0.3010 auszuschalten </s> -0.3010
+-0.3010 bahn von -0.2191
+-0.6021 bahnverbindung bitte -0.1882
+-0.6021 bahnverbindung nach -0.1761
+-0.3010 bb king 0.0000
+-0.3010 beeindruckt </s> -0.3010
+-0.3010 beenden </s> -0.3010
+-0.7782 befehle </s> -0.3010
+-0.7782 befehle die -0.2963
+-0.7782 befehle kannst -0.0466
+-0.7782 bei dir -0.1996
+-0.4771 bei spotify 0.0000
+-0.3010 beibringen </s> -0.3010
+-1.2041 beim beenden 0.0000
+-0.4260 beim fussball -0.1249
+-1.2041 beim starten -0.0872
+-0.6021 berlin </s> -0.3010
+-1.2041 berlin bitte -0.1882
+-0.7270 berlin nach -0.2825
+-0.3010 bilder </s> -0.3010
+-1.0792 bin </s> -0.3010
+-1.0792 bin beeindruckt 0.0000
+-0.7782 bin ich -0.2596
+-1.3802 bin kurz 0.0000
+-1.0792 bin mal -0.2553
+-1.3802 bin wieder -0.1761
+-0.3010 bing </s> -0.3010
+-0.3010 bis zur 0.0000
+-0.5119 bist du -0.2736
+-1.1139 bist ja -0.1761
+-1.1139 bist lustig 0.0000
+-1.4150 bist total -0.1761
+-0.6405 bitte </s> -0.3010
+-2.0719 bitte an -0.2304
+-1.7709 bitte die -0.2717
+-2.0719 bitte eine -0.2586
+-1.7709 bitte erinnerung -0.2041
+-2.0719 bitte excel 0.0000
+-2.0719 bitte facebook -0.2553
+-1.7709 bitte helfen -0.0969
+-1.2937 bitte in -0.2392
+-2.0719 bitte lade -0.2131
+-2.0719 bitte lol -0.2430
+-2.0719 bitte meine -0.2840
+-2.0719 bitte meinen -0.2430
+-1.4698 bitte musik -0.1383
+-2.0719 bitte nach -0.1761
+-2.0719 bitte twitter -0.2218
+-1.4698 bitte um -0.2175
+-2.0719 bitte word 0.0000
+-2.0719 bitte zeig 0.0000
+-0.7782 blog </s> -0.3010
+-0.7782 blog bitte -0.1882
+-0.7782 blog laden -0.0669
+-0.3010 bochum nach -0.2762
+-0.3010 bosse das -0.2967
+-0.3010 bring mich -0.2721
+-0.3010 bringen </s> -0.3010
+-0.3010 browser </s> -0.3010
+-0.6990 bundesliga </s> -0.3010
+-0.6990 bundesliga aus -0.0580
+-1.0000 bundesliga ergebnisse 0.0000
+-0.6021 bus </s> -0.3010
+-0.6021 bus von -0.2430
+-0.6021 busverbindung bitte -0.1882
+-0.6021 busverbindung nach -0.1761
+-0.3010 calculator </s> -0.3010
+-0.3010 computer herunterfahren 0.0000
+-0.6021 cool </s> -0.3010
+-0.9031 cool ila -0.1719
+-0.9031 cool oder 0.0000
+-0.4260 da </s> -0.3010
+-0.9031 da bin -0.2632
+-0.6021 danach im -0.1963
+-0.6021 danach online -0.1461
+-0.6021 danke </s> -0.3010
+-0.6021 danke und -0.2775
+-0.7782 dann machst 0.0000
+-0.4771 dann zeig 0.0000
+-0.8239 daran den -0.2711
+-0.5229 daran erinnern -0.1461
+-1.3010 daran wie -0.2906
+-0.3010 darfst wieder -0.1761
+-1.2218 das </s> -0.3010
+-2.0000 das bitte -0.1882
+-2.0000 das dritte -0.2109
+-2.0000 das erste -0.2218
+-1.2218 das fernsehprogramm 0.0000
+-1.6990 das ging 0.0000
+-1.3979 das im -0.1963
+-2.0000 das konzert 0.0000
+-2.0000 das letzte 0.0000
+-1.6990 das mal -0.2553
+-1.6990 das meeting 0.0000
+-1.6990 das nervt 0.0000
+-2.0000 das nicht -0.2553
+-2.0000 das spiel -0.2218
+-1.6990 das tv -0.2430
+-2.0000 das war 0.0000
+-0.8239 das wetter 0.0000
+-2.0000 das zweite -0.2109
+-0.6021 daten aendern 0.0000
+-0.6021 daten eingeben 0.0000
+-0.3010 datum haben 0.0000
+-0.3010 dauert es -0.2863
+-0.3010 deaktivieren </s> -0.3010
+-0.6021 deichkind </s> -0.3010
+-0.6021 deichkind spielen 0.0000
+-0.3010 dein name 0.0000
+-0.3010 deine erinnerungen -0.1139
+-0.3010 deinen namen 0.0000
+-0.3010 deiner befehle -0.2218
+-1.7782 den aktuellen -0.2688
+-1.3010 den browser 0.0000
+-1.4771 den computer 0.0000
+-1.7782 den fernseher 0.0000
+-1.7782 den geburtstag -0.1761
+-1.4771 den grenzwert -0.1761
+-1.7782 den herd 0.0000
+-1.4771 den nachrichten -0.0969
+-1.4771 den ofen 0.0000
+-1.4771 den pc 0.0000
+-0.6990 den weg -0.0969
+-1.7782 den zug -0.2632
+-0.3010 denn eigentlich 0.0000
+-1.5798 der arbeit -0.2553
+-0.9777 der bundesliga -0.0792
+-1.5798 der dritte -0.2109
+-1.5798 der erste -0.2218
+-1.5798 der letzte 0.0000
+-1.2788 der liga 0.0000
+-1.2788 der physik -0.1249
+-1.2788 der sinn 0.0000
+-1.1027 der spracherkennung -0.1891
+-1.5798 der sprachqualitaet 0.0000
+-1.5798 der zweite -0.2109
+-0.4771 des lebens 0.0000
+-0.7782 des sounds 0.0000
+-0.9031 deutsch </s> -0.3010
+-0.6021 deutsch sprechen 0.0000
+-0.9031 deutsch wechseln 0.0000
+-1.0792 dich </s> -0.3010
+-1.0792 dich erschaffen 0.0000
+-1.0792 dich gemacht 0.0000
+-1.0792 dich geschaffen 0.0000
+-1.0792 dich programmiert 0.0000
+-1.0792 dich updaten 0.0000
+-1.2648 die aktuellen -0.0580
+-1.1856 die dritte 0.0000
+-1.9638 die du -0.2966
+-1.6628 die einstellungen 0.0000
+-1.1187 die erste 0.0000
+-1.9638 die fussballergebnisse 0.0000
+-1.9638 die ich -0.2931
+-1.6628 die internet 0.0000
+-1.9638 die kinder 0.0000
+-1.9638 die letzte 0.0000
+-1.9638 die naechste 0.0000
+-1.6628 die neusten 0.0000
+-1.9638 die qualitaet 0.0000
+-1.9638 die schoenste 0.0000
+-1.6628 die sprache 0.0000
+-1.4867 die uhrzeit 0.0000
+-1.9638 die verpassten 0.0000
+-1.9638 die waesche 0.0000
+-1.9638 die wichtigsten 0.0000
+-1.1856 die zweite 0.0000
+-0.4771 dies ist -0.2775
+-0.7782 dies und -0.2653
+-0.3010 diesen moment 0.0000
+-0.6812 dir </s> -0.3010
+-1.3802 dir ila -0.1719
+-0.7782 dir nichts -0.1249
+-1.0792 dir was -0.2919
+-0.3010 doppelpunkt </s> -0.3010
+-0.3010 dort hin 0.0000
+-0.3010 dortmund </s> -0.3010
+-0.3010 drauf ila -0.1719
+-0.8239 drei </s> -0.3010
+-1.0000 drei jahren -0.1461
+-1.3010 drei minuten -0.0918
+-1.0000 drei stunden 0.0000
+-1.3010 drei tagen 0.0000
+-1.3010 drei uhr -0.1127
+-0.9031 dreissig </s> -0.3010
+-0.4260 dreissig minuten -0.0248
+-0.3010 dreiundzwanzig </s> -0.3010
+-0.3010 dreizehn </s> -0.3010
+-0.7270 dritte </s> -0.3010
+-0.5052 dritte schlagzeile -0.0212
+-1.3892 du </s> -0.3010
+-1.9912 du arduino 0.0000
+-1.5933 du bist -0.2083
+-1.3380 du bitte -0.2335
+-1.9912 du da -0.0969
+-1.9912 du darfst 0.0000
+-2.2923 du das -0.2967
+-1.9912 du deutsch -0.1761
+-1.9912 du dich -0.2632
+-2.2923 du dies -0.2218
+-2.2923 du drauf 0.0000
+-1.9912 du eine -0.2530
+-1.9912 du englisch -0.2430
+-2.2923 du erinnerung -0.2041
+-1.9912 du fussball -0.2218
+-2.2923 du fussballergebnisse 0.0000
+-2.2923 du gespeichert 0.0000
+-1.9912 du her 0.0000
+-1.8151 du kannst -0.2757
+-1.9912 du lustig 0.0000
+-1.9912 du machen 0.0000
+-1.8151 du meinen -0.1249
+-1.1162 du mich -0.0649
+-1.3380 du mir -0.2592
+-1.9912 du nervst 0.0000
+-1.9912 du nochmal 0.0000
+-1.6902 du so 0.0000
+-1.9912 du sollst 0.0000
+-1.9912 du verstehen 0.0000
+-1.9912 du wie -0.2906
+-1.6902 du wo -0.2389
+-0.3010 duesseldorf </s> -0.3010
+-0.3010 durchsuche meine -0.2663
+-0.3010 eigentlich das -0.2304
+-1.0000 ein </s> -0.3010
+-1.3010 ein kilo 0.0000
+-0.6990 ein programm -0.1249
+-1.0000 ein test 0.0000
+-1.3010 ein uhr -0.1127
+-1.4574 eine app -0.0792
+-1.4574 eine bahn 0.0000
+-1.6335 eine bahnverbindung 0.0000
+-1.6335 eine busverbindung 0.0000
+-1.6335 eine email -0.1761
+-1.0314 eine erinnerung -0.1461
+-1.6335 eine filmserie 0.0000
+-1.1563 eine frage -0.0580
+-1.9345 eine gute 0.0000
+-1.9345 eine liste -0.1761
+-1.3324 eine schlagzeile -0.0212
+-1.6335 eine serie -0.1761
+-1.6335 eine stunde -0.1249
+-1.9345 eine tv -0.2430
+-1.3324 eine zugverbindung 0.0000
+-0.6021 einem jahr 0.0000
+-0.9031 einem tag -0.1549
+-0.9031 einem taschenrechner 0.0000
+-1.0792 einen alarm 0.0000
+-0.9542 einen bus 0.0000
+-1.5563 einen geburtstag -0.1761
+-1.5563 einen test -0.2041
+-0.9542 einen timer -0.1919
+-0.8573 einen zug -0.0669
+-0.9031 einer minute 0.0000
+-0.4260 einer stunde 0.0000
+-0.3010 einfach total -0.1761
+-0.3010 eingeben </s> -0.3010
+-0.4260 eins </s> -0.3010
+-0.9031 eins entfernen 0.0000
+-0.3010 einschalten </s> -0.3010
+-0.3010 einstellungen </s> -0.3010
+-0.3010 einundzwanzig </s> -0.3010
+-0.3010 einzuschalten </s> -0.3010
+-0.3010 electro mix 0.0000
+-0.6021 elf </s> -0.3010
+-0.6021 elf uhr -0.1127
+-0.6021 email </s> -0.3010
+-0.6021 email senden 0.0000
+-0.3010 energie sparen 0.0000
+-1.1461 energiesparmodus </s> -0.3010
+-1.1461 energiesparmodus aktivieren 0.0000
+-1.1461 energiesparmodus aus -0.0580
+-1.1461 energiesparmodus ausschalten 0.0000
+-1.1461 energiesparmodus deaktivieren 0.0000
+-1.1461 energiesparmodus ein -0.2553
+-1.1461 energiesparmodus einschalten 0.0000
+-0.9031 englisch </s> -0.3010
+-0.9031 englisch bitte -0.1882
+-0.9031 englisch sprechen 0.0000
+-0.9031 englisch wechseln 0.0000
+-0.8451 entferne alle -0.1461
+-1.1461 entferne bitte -0.2936
+-1.1461 entferne eine -0.2586
+-0.6690 entferne erinnerung -0.2041
+-0.3010 entfernen </s> -0.3010
+-0.3010 ergebnisse </s> -0.3010
+-0.3010 erinnere mich -0.1107
+-0.6990 erinnern </s> -0.3010
+-1.3010 erinnern aufzustehen 0.0000
+-1.3010 erinnern das -0.2967
+-1.3010 erinnern den -0.2863
+-1.0000 erinnern die -0.2915
+-1.3010 erinnern schlafen 0.0000
+-1.0000 erinnerung </s> -0.3010
+-1.4771 erinnerung entfernen 0.0000
+-0.7782 erinnerung fuer -0.1513
+-0.6990 erinnerung nummer -0.0726
+-0.4559 erinnerungen </s> -0.3010
+-1.3010 erinnerungen anzeigen 0.0000
+-1.3010 erinnerungen die -0.2963
+-1.3010 erinnerungen hast 0.0000
+-0.3010 erschaffen </s> -0.3010
+-0.6021 erst die -0.2963
+-0.6021 erst machst 0.0000
+-0.7782 erste </s> -0.3010
+-0.4771 erste schlagzeile 0.0000
+-1.0792 erstelle bitte -0.2973
+-0.3802 erstelle eine -0.2586
+-0.8751 es </s> -0.3010
+-1.4771 es aktuell 0.0000
+-1.4771 es bis 0.0000
+-1.0000 es dir -0.1761
+-1.4771 es eine -0.2856
+-1.4771 es einen -0.2499
+-1.0000 es neues -0.1091
+-1.4771 es zur 0.0000
+-0.8451 essen </s> -0.3010
+-1.1461 essen bitte -0.1882
+-0.6690 essen nach -0.2698
+-1.1461 essen wird -0.2553
+-1.0000 etwas erinnern -0.2041
+-0.6990 etwas musik -0.2583
+-1.0000 etwas von -0.2872
+-1.0000 etwas vorlesen 0.0000
+-0.3010 excel </s> -0.3010
+-0.6990 facebook </s> -0.3010
+-1.0000 facebook bitte -0.1882
+-1.0000 facebook oeffnen -0.0669
+-1.0000 facebook seite -0.1761
+-0.3010 feed </s> -0.3010
+-0.3010 fernsehen </s> -0.3010
+-0.3010 fernseher einzuschalten 0.0000
+-0.3010 fernsehprogramm </s> -0.3010
+-0.3010 filmserie gucken -0.1383
+-1.3010 finde alle -0.2553
+-1.0000 finde den -0.2041
+-0.8239 finde eine -0.2642
+-1.0000 finde einen -0.2361
+-1.3010 finde erst -0.1761
+-1.3010 finde und -0.2894
+-0.3010 finden und -0.2894
+-0.3010 frag das -0.2923
+-0.3680 frage </s> -0.3010
+-1.1461 frage mich -0.2940
+-0.4771 frankfurt </s> -0.3010
+-0.7782 frankfurt nach -0.2950
+-0.6021 fuenf </s> -0.3010
+-0.9031 fuenf minuten -0.0918
+-0.9031 fuenf uhr -0.1127
+-0.3010 fuenfunddreissig </s> -0.3010
+-0.6021 fuenfundvierzig </s> -0.3010
+-0.6021 fuenfundvierzig minuten -0.0918
+-0.3010 fuenfundzwanzig </s> -0.3010
+-1.0000 fuenfzehn </s> -0.3010
+-0.3979 fuenfzehn minuten 0.0000
+-1.3802 fuer dreissig -0.0969
+-1.0792 fuer eine -0.2908
+-0.7782 fuer heute -0.0726
+-1.0792 fuer morgen -0.1249
+-1.0792 fuer spracherkennung -0.1891
+-1.3802 fuer uebermorgen 0.0000
+-0.6021 fussball </s> -0.3010
+-1.0792 fussball aus -0.0580
+-0.7782 fussball ergebnisse 0.0000
+-0.3010 fussballergebnisse </s> -0.3010
+-0.6021 geburtstag </s> -0.3010
+-0.6021 geburtstag zu -0.2840
+-0.3010 gehe </s> -0.3010
+-0.3010 gehen </s> -0.3010
+-0.6021 geht ab 0.0000
+-0.6021 geht es -0.2553
+-0.5643 gehts </s> -0.3010
+-1.0414 gehts dir -0.1996
+-1.0414 gehts nach -0.1761
+-1.3424 gehts wie -0.2834
+-0.3010 gemacht </s> -0.3010
+-0.3010 gerade </s> -0.3010
+-0.3010 gerne musik -0.1761
+-0.3010 gesagt </s> -0.3010
+-0.3010 geschaffen </s> -0.3010
+-0.3010 gespeichert </s> -0.3010
+-0.3010 gibt es -0.2218
+-0.7782 gibts im -0.1549
+-0.7782 gibts in -0.2543
+-0.7782 gibts neues -0.0580
+-0.3010 ging schnell 0.0000
+-0.3010 gleich </s> -0.3010
+-0.3010 golem news -0.0458
+-0.6021 google </s> -0.3010
+-0.6021 google das -0.2742
+-0.3010 gramm sind -0.2688
+-0.6021 grenzwert der -0.2653
+-0.6021 grenzwert fuer -0.2632
+-0.5052 gucken </s> -0.3010
+-0.7270 gucken was -0.2825
+-0.4771 gut </s> -0.3010
+-0.7782 gut gut -0.1249
+-0.3010 gute tv -0.2430
+-0.6021 guten morgen -0.1249
+-0.6021 guten tag -0.1091
+-1.1461 habe </s> -0.3010
+-0.8451 habe eine -0.2696
+-0.8451 habe gesagt 0.0000
+-0.8451 habe ich -0.2890
+-0.3010 haben wir -0.1549
+-0.7782 haha </s> -0.3010
+-0.7782 haha lustig 0.0000
+-0.7782 haha manchmal 0.0000
+-0.4771 hallo </s> -0.3010
+-0.7782 hallo ila -0.1719
+-0.4771 hamburg </s> -0.3010
+-0.7782 hamburg nach -0.2950
+-0.3010 hast du -0.2966
+-0.3010 hat dich -0.1249
+-0.3802 hause </s> -0.3010
+-1.5563 hause bitte -0.1882
+-1.5563 hause bringen 0.0000
+-1.5563 hause komme -0.2218
+-0.6021 heisse </s> -0.3010
+-0.6021 heisse ich -0.2596
+-0.9031 heisst das -0.2742
+-0.6021 heisst du -0.2783
+-0.9031 heisst ila -0.1719
+-0.4260 helfen </s> -0.3010
+-0.9031 helfen ila -0.1719
+-0.6021 hendrix </s> -0.3010
+-0.6021 hendrix rockt 0.0000
+-0.3010 her </s> -0.3010
+-0.3010 herd auszuschalten 0.0000
+-0.3010 herunterfahren </s> -0.3010
+-0.4973 heute </s> -0.3010
+-1.0414 heute fussball -0.1761
+-1.3424 heute um -0.2900
+-1.3424 heute zwanzig -0.1761
+-0.3010 hey ila -0.0687
+-0.6990 hi </s> -0.3010
+-1.0000 hi ila -0.1719
+-0.6990 hi wie -0.2614
+-0.6532 hier </s> -0.3010
+-0.7782 hier nach -0.1761
+-0.9542 hier zur 0.0000
+-0.3010 hilfe </s> -0.3010
+-0.3010 hin </s> -0.3010
+-0.3010 hoer mir -0.2921
+-0.3010 hoeren </s> -0.3010
+-0.3010 holen </s> -0.3010
+-1.0414 ich </s> -0.3010
+-1.7404 ich arbeite -0.1761
+-1.4393 ich bin -0.1996
+-2.0414 ich frage -0.2688
+-1.7404 ich gehe 0.0000
+-1.4393 ich habe -0.1549
+-1.7404 ich heisse -0.1761
+-1.2632 ich moechte 0.0000
+-1.7404 ich muss 0.0000
+-1.5643 ich nach -0.1761
+-2.0414 ich sagte 0.0000
+-1.3424 ich suche -0.2596
+-1.7404 ich verpasst 0.0000
+-2.0414 ich versuche 0.0000
+-2.0414 ich was -0.2965
+-2.0414 ich weg -0.2872
+-2.0414 ich wieder -0.1761
+-2.0414 ich wiederhole 0.0000
+-1.7404 ich will 0.0000
+-1.7404 ich wohne -0.1761
+-1.7404 ich wuerde 0.0000
+-0.5898 ila </s> -0.3010
+-1.8451 ila aktualisiere -0.1461
+-1.8451 ila bitte -0.2973
+-1.8451 ila bring 0.0000
+-1.8451 ila dies -0.1249
+-1.8451 ila ich -0.2849
+-1.2430 ila kannst -0.0466
+-1.5441 ila lies -0.0969
+-1.5441 ila noch 0.0000
+-1.8451 ila voice 0.0000
+-1.8451 ila welche -0.2430
+-1.8451 ila wie -0.2725
+-1.8451 ila zeig 0.0000
+-0.8451 im fernsehen 0.0000
+-0.8451 im tv -0.1761
+-0.6690 im web -0.0969
+-1.9912 in berlin -0.1761
+-1.6902 in den -0.2863
+-1.0881 in der -0.1984
+-1.2131 in drei -0.1461
+-1.6902 in dreissig -0.0969
+-1.5141 in einem -0.0969
+-1.3892 in einer 0.0000
+-1.9912 in essen -0.2688
+-1.9912 in frankfurt -0.1249
+-1.9912 in fuenf -0.2430
+-1.9912 in fuenfundvierzig -0.1761
+-1.3892 in fuenfzehn -0.0792
+-1.9912 in hamburg -0.1249
+-1.9912 in muenchen -0.0969
+-1.9912 in vier -0.2430
+-1.9912 in vierzig -0.1761
+-1.5141 in zehn -0.1761
+-1.9912 in zwanzig -0.2430
+-1.2131 in zwei -0.1627
+-1.9912 in zwoelf -0.2218
+-0.3010 info </s> -0.3010
+-0.3010 internet verbindung 0.0000
+-0.3010 irgendwann </s> -0.3010
+-1.5798 ist </s> -0.3010
+-1.1027 ist das -0.2253
+-1.2788 ist dein 0.0000
+-1.2788 ist der -0.2775
+-1.2788 ist ein -0.2553
+-0.8808 ist es -0.2218
+-1.2788 ist heute -0.1347
+-1.2788 ist mein 0.0000
+-0.6021 ja </s> -0.3010
+-0.6021 ja nett 0.0000
+-0.6021 jahr </s> -0.3010
+-0.6021 jahr an -0.2553
+-0.6990 jahren </s> -0.3010
+-0.6990 jahren an -0.2304
+-1.0000 jahren daran -0.2788
+-0.3010 jetzt nicht -0.2041
+-0.3010 jim smith 0.0000
+-0.3010 jimi hendrix 0.0000
+-0.3010 joe smith 0.0000
+-0.3010 kalkbrenner </s> -0.3010
+-1.3263 kannst </s> -0.3010
+-0.3532 kannst du -0.1391
+-2.0253 kannst starten -0.2762
+-0.3010 kein problem 0.0000
+-0.3010 kennst du -0.2418
+-0.3010 kilo </s> -0.3010
+-0.3010 kinder abzuholen 0.0000
+-0.3010 king </s> -0.3010
+-0.3010 koeln </s> -0.3010
+-0.3010 komma </s> -0.3010
+-0.7782 komme </s> -0.3010
+-0.4771 komme ich -0.2890
+-0.3010 kommst du -0.2966
+-0.3010 konzert zu -0.2840
+-0.3010 krankenhaus </s> -0.3010
+-0.3010 kurz weg -0.2583
+-0.3010 kyuss hoeren 0.0000
+-0.7368 lade die -0.1568
+-1.3010 lade eine -0.2750
+-1.4771 lade golem 0.0000
+-1.7782 lade lol -0.0969
+-1.0792 lade meine -0.1648
+-1.7782 lade meinen -0.2430
+-1.1761 lade persoenliche -0.1761
+-1.4771 lade spiegel 0.0000
+-1.7782 lade und -0.2894
+-0.3802 laden </s> -0.3010
+-1.0792 laden und -0.2894
+-0.3010 laeuft im -0.1549
+-0.3010 lange dauert 0.0000
+-0.3010 langweilig </s> -0.3010
+-0.3010 lass uns 0.0000
+-0.3010 laufen gerade 0.0000
+-0.3010 laut </s> -0.3010
+-0.3010 lautet die -0.2866
+-0.3010 lebens </s> -0.3010
+-0.3010 leise bitte -0.1882
+-0.3010 lern modus 0.0000
+-0.3010 lesen und -0.2894
+-0.3010 letzte </s> -0.3010
+-0.3010 lieblingsband </s> -0.3010
+-0.3010 lieblingsserie </s> -0.3010
+-0.9031 lies bitte -0.2936
+-0.6021 lies meine -0.2478
+-0.9031 lies und -0.2894
+-0.3010 liga </s> -0.3010
+-0.6021 liste </s> -0.3010
+-0.6021 liste deiner 0.0000
+-0.6021 loesche erinnerung -0.2553
+-0.6021 loesche timer -0.2762
+-0.4260 lol </s> -0.3010
+-0.9031 lol starten -0.2762
+-0.3010 los </s> -0.3010
+-0.3010 lustig </s> -0.3010
+-0.3010 machen </s> -0.3010
+-0.3010 machst du -0.2966
+-1.3010 mal </s> -0.3010
+-1.3010 mal die -0.2667
+-0.8239 mal gucken -0.2109
+-1.3010 mal kurz 0.0000
+-1.3010 mal von -0.2942
+-1.3010 mal weg -0.2583
+-1.0000 mal wolfram 0.0000
+-0.3010 manchmal bist -0.1413
+-0.3010 maps </s> -0.3010
+-0.6021 matlab </s> -0.3010
+-0.6021 matlab starten -0.0872
+-0.6021 meeting </s> -0.3010
+-0.6021 meeting morgen -0.2499
+-0.3010 mehr zuhoeren -0.2218
+-0.3010 mein name 0.0000
+-1.4150 meine aktuellen -0.2341
+-1.1139 meine apps 0.0000
+-1.4150 meine facebook -0.2553
+-1.4150 meine lieblingsband 0.0000
+-1.4150 meine lieblingsserie 0.0000
+-1.1139 meine news -0.0458
+-0.9379 meine persoenlichen 0.0000
+-1.4150 meine schlagzeilen -0.0792
+-1.4150 meine twitter -0.2218
+-0.9031 meinen blog 0.0000
+-1.3802 meinen musik -0.2872
+-1.0792 meinen namen 0.0000
+-0.6021 meinen standort -0.0621
+-0.3010 meiner lieblingsband 0.0000
+-0.3010 metal mix 0.0000
+-0.3010 metallica </s> -0.3010
+-1.4914 mich </s> -0.3010
+-1.1903 mich an -0.1139
+-0.7510 mich bitte -0.2545
+-1.4914 mich hoeren 0.0000
+-0.9473 mich in -0.1963
+-1.3153 mich nach -0.1761
+-1.7924 mich was -0.2825
+-1.7924 mich zum -0.1761
+-0.3010 minute </s> -0.3010
+-0.4175 minuten </s> -0.3010
+-1.0544 minuten daran -0.2304
+-1.5315 minuten einen -0.2632
+-1.9912 mir </s> -0.3010
+-1.5141 mir aktuelle -0.1091
+-1.9912 mir alle -0.2041
+-1.6902 mir bitte -0.2936
+-1.2131 mir das -0.1987
+-1.6902 mir deine 0.0000
+-1.0370 mir den -0.1950
+-1.2923 mir die -0.2511
+-1.2923 mir eine -0.2530
+-1.9912 mir etwas -0.2553
+-1.6902 mir fussball -0.2218
+-1.9912 mir fussballergebnisse 0.0000
+-1.6902 mir helfen 0.0000
+-1.9912 mir mal -0.2788
+-1.6902 mir sagen 0.0000
+-1.9912 mir was -0.2872
+-1.9912 mir wie -0.2941
+-1.9912 mir zeigen -0.1761
+-1.6902 mir zu -0.2663
+-1.9912 mir zuhoeren -0.1249
+-0.3010 mit mir -0.2966
+-0.3010 mitfahrgelegenheiten nach -0.2566
+-0.3010 mix </s> -0.3010
+-0.9031 modus aktivieren 0.0000
+-0.9031 modus anschalten 0.0000
+-0.9031 modus ausschalten 0.0000
+-0.9031 modus deaktivieren 0.0000
+-0.4771 moechte dir -0.1761
+-0.7782 moechte eine -0.2803
+-0.3010 moment </s> -0.3010
+-0.5563 morgen </s> -0.3010
+-1.2553 morgen ila -0.1719
+-1.2553 morgen neunzehn -0.1761
+-0.9542 morgen um -0.2672
+-0.4260 muenchen </s> -0.3010
+-0.9031 muenchen nach -0.2762
+-1.2041 musik </s> -0.3010
+-1.5051 musik bitte -0.1882
+-1.5051 musik mix 0.0000
+-1.2041 musik online -0.1461
+-1.2041 musik spielen 0.0000
+-0.6021 musik von -0.2191
+-0.6021 muss gehen 0.0000
+-0.6021 muss los 0.0000
+-0.7782 my electro 0.0000
+-0.7782 my metal 0.0000
+-0.7782 my rock 0.0000
+-0.6990 na </s> -0.3010
+-1.0000 na alles -0.1761
+-0.6990 na wie -0.2614
+-1.8573 nach </s> -0.3010
+-1.2553 nach berlin -0.1383
+-1.8573 nach dortmund 0.0000
+-1.8573 nach duesseldorf 0.0000
+-1.8573 nach einem -0.2430
+-1.3802 nach essen -0.1963
+-1.8573 nach frankfurt -0.1249
+-1.8573 nach hamburg -0.1249
+-0.6021 nach hause 0.0000
+-1.8573 nach koeln 0.0000
+-1.5563 nach muenchen -0.0969
+-1.5563 nach updates 0.0000
+-0.4260 nachrichten </s> -0.3010
+-0.9031 nachrichten vor 0.0000
+-0.3010 naechste tankstelle 0.0000
+-0.3010 naechsten krankenhaus 0.0000
+-0.3010 name </s> -0.3010
+-0.3010 namen </s> -0.3010
+-0.3010 ne ila -0.2884
+-0.5229 nein </s> -0.3010
+-0.6990 nein nein 0.0000
+-0.3010 nervst </s> -0.3010
+-0.3010 nervt </s> -0.3010
+-0.3010 nett </s> -0.3010
+-0.3010 neu laden -0.0669
+-0.5441 neues </s> -0.3010
+-1.1461 neues beim -0.0969
+-0.8451 neues in -0.2640
+-0.7782 neun </s> -0.3010
+-0.4771 neun uhr -0.0872
+-0.6021 neunzehn </s> -0.3010
+-0.6021 neunzehn uhr -0.1127
+-0.3010 neusten schlagzeilen -0.0792
+-0.3522 news </s> -0.3010
+-1.2553 news bitte -0.1882
+-0.6990 nicht </s> -0.3010
+-1.0000 nicht cool -0.2430
+-0.6990 nicht mehr 0.0000
+-0.7782 nichts </s> -0.3010
+-0.4771 nichts beibringen 0.0000
+-0.3010 nix </s> -0.3010
+-0.3010 no problemo 0.0000
+-0.3010 noch mal -0.2553
+-0.3010 nochmal </s> -0.3010
+-1.3424 nummer </s> -0.3010
+-1.0414 nummer drei -0.2304
+-0.8653 nummer eins 0.0000
+-1.3424 nummer fuenf -0.1761
+-1.3424 nummer vier -0.1761
+-0.8653 nummer zwei -0.2139
+-0.3010 oder </s> -0.3010
+-1.5315 oeffne bing 0.0000
+-1.8325 oeffne den -0.2788
+-0.8325 oeffne die -0.1885
+-1.0544 oeffne eine -0.2530
+-1.8325 oeffne einstellungen 0.0000
+-1.5315 oeffne facebook -0.2041
+-1.5315 oeffne google -0.1761
+-1.8325 oeffne lol -0.0969
+-1.5315 oeffne maps 0.0000
+-1.3554 oeffne meine -0.2285
+-1.8325 oeffne meinen -0.2430
+-1.8325 oeffne twitter -0.2218
+-1.8325 oeffne und -0.2894
+-1.8325 oeffne youtube 0.0000
+-0.3802 oeffnen </s> -0.3010
+-1.0792 oeffnen und -0.2894
+-0.6021 ofen auszuschalten 0.0000
+-0.6021 ofen zu -0.2840
+-0.3010 offline spracherkennung -0.2139
+-0.6990 ok </s> -0.3010
+-1.0000 ok bei -0.2218
+-0.6990 ok eine -0.2696
+-0.5229 online </s> -0.3010
+-1.0000 online rss 0.0000
+-1.0000 online spracherkennung -0.2139
+-0.3010 passiert hier -0.1919
+-0.3010 paul kalkbrenner 0.0000
+-0.3010 pc herunterfahren 0.0000
+-0.6021 persoenliche daten 0.0000
+-0.9031 persoenliche nachrichten -0.0969
+-0.9031 persoenliche news -0.0458
+-0.4771 persoenlichen nachrichten -0.2430
+-0.7782 persoenlichen news -0.2762
+-0.4771 physik </s> -0.3010
+-0.7782 physik nachrichten -0.2430
+-0.6021 powerpoint </s> -0.3010
+-0.6021 powerpoint bitte -0.1882
+-0.3010 problem </s> -0.3010
+-0.3010 problemo </s> -0.3010
+-0.7782 programm </s> -0.3010
+-0.7782 programm oeffnen -0.0669
+-0.7782 programm starten -0.0872
+-0.3010 programmiert </s> -0.3010
+-0.3010 pruefe die -0.2915
+-0.3010 pruefen </s> -0.3010
+-0.3010 punkt </s> -0.3010
+-0.3010 qualitaet des -0.2218
+-0.3010 rede mit 0.0000
+-0.3010 reden </s> -0.3010
+-0.3010 rock mix 0.0000
+-0.3010 rockt einfach 0.0000
+-0.3010 rss feed 0.0000
+-0.4771 sag deinen 0.0000
+-0.7782 sag mir -0.2783
+-0.6021 sagen wie -0.2941
+-0.6021 sagen wo -0.2863
+-0.3010 sagte </s> -0.3010
+-0.3010 schlafen zu -0.2840
+-0.3233 schlagzeile </s> -0.3010
+-1.6021 schlagzeile ila -0.1719
+-0.3979 schlagzeilen </s> -0.3010
+-1.0000 schlagzeilen oeffnen -0.0669
+-0.3010 schliesse den -0.2788
+-0.3010 schluss fuer -0.2218
+-0.3010 schnell </s> -0.3010
+-0.3010 schoen zu -0.2663
+-0.3010 schoenste zeit -0.1761
+-0.6021 sechs </s> -0.3010
+-0.6021 sechs uhr -0.1127
+-0.3010 sechzehn </s> -0.3010
+-0.6021 sei laut 0.0000
+-0.6021 sei leise 0.0000
+-0.6021 seite </s> -0.3010
+-0.6021 seite bitte -0.1882
+-0.3010 sekunde </s> -0.3010
+-0.3010 sekunden </s> -0.3010
+-0.3010 senden </s> -0.3010
+-0.6021 serie </s> -0.3010
+-0.6021 serie gucken -0.1383
+-0.3010 setze einen -0.2499
+-0.7782 sieben </s> -0.3010
+-0.4771 sieben uhr -0.1001
+-0.3010 siebzehn </s> -0.3010
+-0.3010 sieht das -0.2304
+-0.6021 siehts beim -0.0969
+-0.6021 siehts in -0.2640
+-1.1461 sind </s> -0.3010
+-1.1461 sind die -0.2963
+-1.1461 sind ein -0.2788
+-0.5441 sind wir -0.0580
+-0.3010 sinn des -0.1249
+-0.3010 smith </s> -0.3010
+-0.4771 so </s> -0.3010
+-0.7782 so kannst -0.2800
+-0.3010 sollst deutsch -0.1761
+-0.3010 sorry </s> -0.3010
+-0.3010 sound neu 0.0000
+-0.3010 sounds </s> -0.3010
+-0.3010 spaeter </s> -0.3010
+-0.3010 sparen </s> -0.3010
+-0.3010 spiegel online -0.2553
+-0.7782 spiel erinnern -0.2041
+-0.7782 spiel mir -0.2966
+-0.7782 spiel was -0.2872
+-1.0000 spiele bitte -0.2861
+-0.8239 spiele etwas -0.1461
+-0.8239 spiele musik -0.1383
+-1.3010 spiele von -0.2942
+-1.3010 spiele was -0.2872
+-0.3010 spielen </s> -0.3010
+-0.3010 spielt heute -0.2596
+-0.3010 sportnachrichten </s> -0.3010
+-0.6021 spotify </s> -0.3010
+-0.6021 spotify nach -0.2950
+-0.3010 sprache </s> -0.3010
+-0.6435 spracherkennung </s> -0.3010
+-0.7404 spracherkennung aktivieren 0.0000
+-1.0414 spracherkennung waehlen 0.0000
+-0.3010 sprachqualitaet bitte -0.1882
+-0.3010 sprechen </s> -0.3010
+-0.7782 sprich deutsch -0.2430
+-0.4771 sprich englisch -0.1761
+-0.3010 standard spracherkennung -0.2596
+-0.7160 standort </s> -0.3010
+-0.7160 standort aktualisieren 0.0000
+-1.1139 standort laden -0.0669
+-1.4150 standort und -0.2653
+-1.5051 starte bitte -0.2973
+-1.5051 starte eine -0.2856
+-0.8062 starte einen -0.1919
+-1.5051 starte facebook -0.2553
+-1.5051 starte lol -0.0969
+-1.2041 starte matlab -0.1761
+-1.5051 starte meine -0.2840
+-1.5051 starte meinen -0.2825
+-1.5051 starte musik -0.1761
+-1.5051 starte powerpoint -0.1761
+-1.5051 starte und -0.2894
+-0.4102 starten </s> -0.3010
+-1.2553 starten ila -0.1719
+-1.2553 starten und -0.2894
+-0.6990 steht das -0.2742
+-1.0000 steht es -0.2863
+-0.6990 steht ila -0.1719
+-1.0000 stehts </s> -0.3010
+-0.6990 stehts beim -0.0969
+-0.6990 stehts in -0.2640
+-0.3010 stellen </s> -0.3010
+-0.3010 stripes hoeren 0.0000
+-0.4771 stunde </s> -0.3010
+-1.0792 stunde an -0.2304
+-1.0792 stunde daran -0.1461
+-0.6021 stunden </s> -0.3010
+-0.6021 stunden daran -0.1461
+-0.6990 such das -0.2833
+-0.5229 such mir -0.2783
+-1.2175 suche </s> -0.3010
+-1.8195 suche alle -0.2553
+-1.5185 suche bei -0.1249
+-1.5185 suche bilder 0.0000
+-1.2175 suche danach 0.0000
+-1.5185 suche das -0.2833
+-1.5185 suche den -0.2041
+-1.3424 suche eine -0.2642
+-1.0414 suche einen -0.1761
+-1.5185 suche musik -0.2730
+-1.5185 suche nach -0.2888
+-1.5185 suche online -0.1461
+-1.8195 suche und -0.2894
+-0.3010 suchen und -0.2894
+-0.5441 tag </s> -0.3010
+-1.1461 tag ila -0.1719
+-0.8451 tag ist -0.2775
+-0.3010 tage </s> -0.3010
+-0.3010 tagen </s> -0.3010
+-0.3010 tankstelle und -0.2653
+-0.3010 taschenrechner </s> -0.3010
+-0.5229 test </s> -0.3010
+-0.6990 test der -0.2527
+-0.3010 teste bitte -0.2936
+-0.3010 the white 0.0000
+-1.2553 timer </s> -0.3010
+-0.9542 timer anhalten 0.0000
+-0.7782 timer fuer -0.2430
+-1.2553 timer in -0.2829
+-0.9542 timer laufen 0.0000
+-0.3010 top </s> -0.3010
+-0.6021 total </s> -0.3010
+-0.6021 total cool -0.2430
+-0.6021 treffen </s> -0.3010
+-0.6021 treffen morgen -0.2499
+-0.3979 tschuess </s> -0.3010
+-1.0000 tschuess ila -0.1719
+-0.6021 tv </s> -0.3010
+-0.9031 tv programm -0.2218
+-0.9031 tv serie -0.1761
+-0.7782 twitter </s> -0.3010
+-0.7782 twitter oeffnen -0.0669
+-0.7782 twitter seite -0.1761
+-0.3010 uebermorgen </s> -0.3010
+-0.4536 uhr </s> -0.3010
+-1.7324 uhr an -0.2553
+-1.7324 uhr aufwecken 0.0000
+-1.4314 uhr daran -0.1461
+-1.1303 uhr ist -0.2398
+-0.3010 uhrzeit </s> -0.3010
+-1.3010 um acht -0.1249
+-1.6021 um achtzehn -0.1761
+-1.6021 um drei -0.2788
+-1.6021 um ein -0.2788
+-1.6021 um elf -0.1761
+-1.6021 um fuenf -0.2430
+-1.3010 um neun -0.1249
+-1.6021 um sechs -0.1761
+-1.3010 um sieben -0.1249
+-1.6021 um vier -0.2430
+-1.6021 um vierzehn -0.1761
+-1.3010 um zehn -0.2218
+-1.6021 um zwanzig -0.1761
+-1.6021 um zwei -0.2808
+-1.6021 um zweiundzwanzig -0.1761
+-1.6021 um zwoelf -0.2218
+-1.1027 und dann 0.0000
+-1.5798 und finde -0.2788
+-1.5798 und finden 0.0000
+-1.5798 und lade -0.2937
+-1.5798 und laden -0.2632
+-1.5798 und lesen 0.0000
+-1.5798 und oeffne -0.2946
+-1.5798 und oeffnen -0.2632
+-1.5798 und rede 0.0000
+-1.5798 und reden 0.0000
+-1.5798 und starte -0.2872
+-1.5798 und suche -0.2944
+-1.5798 und suchen 0.0000
+-1.2788 und tschuess -0.0792
+-1.5798 und zeige -0.2688
+-1.5798 und zeigen -0.1761
+-0.3010 uns eine -0.2803
+-0.3010 unser treffen 0.0000
+-0.3010 updaten </s> -0.3010
+-0.3010 updates </s> -0.3010
+-0.3010 verbindung </s> -0.3010
+-0.3010 vergangen ist -0.2894
+-0.4771 verpasst </s> -0.3010
+-0.7782 verpasst habe -0.2688
+-0.3010 verpassten erinnerungen -0.1139
+-0.3010 versteck dich -0.2632
+-0.6021 verstehen </s> -0.3010
+-0.6021 verstehen kannst -0.2800
+-0.3010 versuche mich -0.2721
+-0.4771 viel uhr -0.2676
+-0.7782 viel zeit -0.1761
+-0.6021 vier </s> -0.3010
+-0.9031 vier jahren -0.2041
+-0.9031 vier uhr -0.1127
+-0.3010 vierundzwanzig </s> -0.3010
+-0.6021 vierzehn </s> -0.3010
+-0.6021 vierzehn uhr -0.1127
+-0.6021 vierzig </s> -0.3010
+-0.6021 vierzig minuten -0.0918
+-0.3010 voice </s> -0.3010
+-1.8062 von bb 0.0000
+-1.3291 von berlin -0.2109
+-1.3291 von bochum 0.0000
+-1.8062 von bosse 0.0000
+-1.5051 von deichkind 0.0000
+-1.8062 von der -0.2894
+-1.3291 von essen -0.1963
+-1.8062 von frankfurt -0.2218
+-1.8062 von hamburg -0.2218
+-1.1072 von hier -0.1597
+-1.8062 von jimi 0.0000
+-1.8062 von kyuss 0.0000
+-1.5051 von meiner 0.0000
+-1.5051 von metallica 0.0000
+-1.8062 von muenchen -0.2430
+-1.8062 von paul 0.0000
+-1.8062 von the 0.0000
+-1.8062 von vorne 0.0000
+-1.8062 von zz 0.0000
+-0.3010 vor </s> -0.3010
+-0.3010 vorlesen bitte -0.1882
+-0.3010 vorne </s> -0.3010
+-0.3010 waehlen </s> -0.3010
+-0.3010 waesche zu -0.2840
+-0.3010 war die -0.2963
+-0.6021 warum </s> -0.3010
+-0.6021 warum sind -0.1549
+-1.6812 was beibringen 0.0000
+-1.3802 was du -0.2852
+-1.5051 was geht -0.1761
+-1.5051 was gibt 0.0000
+-0.9031 was gibts 0.0000
+-1.9823 was habe -0.2341
+-1.9823 was hast 0.0000
+-1.3802 was heisst -0.1761
+-1.6812 was ist -0.2775
+-1.2041 was kannst -0.0466
+-1.3802 was laeuft 0.0000
+-1.6812 was passiert 0.0000
+-1.9823 was verpasst -0.1249
+-1.5051 was von -0.2657
+-0.4260 web </s> -0.3010
+-0.9031 web suche -0.2739
+-0.3010 wechseln bitte -0.1882
+-0.3010 wecker stellen 0.0000
+-1.0280 weg </s> -0.3010
+-1.5051 weg bin -0.2632
+-1.5051 weg dort 0.0000
+-1.0280 weg nach -0.1761
+-0.6601 weg von -0.1761
+-1.5051 weg zum -0.1761
+-0.3010 weisst du -0.2875
+-0.3010 weit ist -0.2398
+-0.9031 welche befehle -0.2218
+-0.9031 welche erinnerungen -0.2788
+-0.6021 welche timer -0.2499
+-0.3010 welcher tag -0.2341
+-0.4771 welches datum 0.0000
+-0.7782 welches sind -0.2688
+-0.3010 wenn ich -0.2849
+-1.1461 wer bin -0.2218
+-1.1461 wer bist -0.1413
+-0.5441 wer hat 0.0000
+-1.1461 wer spielt 0.0000
+-1.0000 wetter </s> -0.3010
+-1.4771 wetter aus -0.2688
+-1.4771 wetter gleich 0.0000
+-1.0000 wetter heute -0.1347
+-0.8751 wetter in -0.2829
+-1.1761 wetter morgen -0.1597
+-1.4771 wetter wird -0.2553
+-0.3010 white stripes 0.0000
+-0.3010 wichtigsten befehle -0.2218
+-1.7993 wie </s> -0.3010
+-1.7993 wie alt 0.0000
+-1.7993 wie das -0.2304
+-1.6232 wie geht -0.1761
+-1.0590 wie gehts 0.0000
+-1.7993 wie heisse -0.1761
+-1.4983 wie heisst -0.1761
+-1.6232 wie ich -0.2808
+-1.3222 wie ist -0.2126
+-1.7993 wie komme -0.1249
+-2.1004 wie lange 0.0000
+-1.7993 wie lautet 0.0000
+-2.1004 wie sieht 0.0000
+-1.4983 wie siehts 0.0000
+-2.1004 wie steht -0.2553
+-1.4014 wie stehts 0.0000
+-1.6232 wie viel 0.0000
+-2.1004 wie weit 0.0000
+-1.1973 wie wird -0.0792
+-0.6021 wieder da 0.0000
+-0.6021 wieder sprechen 0.0000
+-0.3010 wiederhole </s> -0.3010
+-0.4260 wiedersehen </s> -0.3010
+-0.9031 wiedersehen ila -0.1719
+-0.7782 wieviel gramm 0.0000
+-0.4771 wieviel uhr -0.2676
+-0.3010 will dir -0.2218
+-0.3010 windows herunterfahren 0.0000
+-0.5441 wir </s> -0.3010
+-0.8451 wir hier -0.1919
+-1.1461 wir sind -0.2688
+-1.0000 wird </s> -0.3010
+-0.4559 wird das -0.2304
+-1.3010 wird denn 0.0000
+-1.1761 wo arbeite -0.1761
+-1.1761 wo bin -0.2218
+-0.8751 wo ich -0.2849
+-1.1761 wo kommst 0.0000
+-1.1761 wo sind -0.1549
+-1.4771 wo wir -0.2688
+-1.1761 wo wohne -0.1761
+-0.3010 wofuer steht -0.0792
+-0.6021 wohne </s> -0.3010
+-0.6021 wohne ich -0.2596
+-0.3010 wolfram alpha 0.0000
+-0.3010 word starten -0.0872
+-0.3010 wow das -0.2923
+-0.3010 wuerde gerne 0.0000
+-0.3010 youtube </s> -0.3010
+-1.0792 zehn </s> -0.3010
+-0.6021 zehn minuten -0.0248
+-0.7782 zehn uhr -0.1127
+-0.3010 zeig mir -0.1022
+-0.8451 zeige alle -0.1461
+-0.5441 zeige das -0.2648
+-1.1461 zeige und -0.2894
+-0.6021 zeigen und -0.2894
+-0.6021 zeigen wie -0.2906
+-0.6021 zeit </s> -0.3010
+-0.6021 zeit vergangen 0.0000
+-1.1139 zu </s> -0.3010
+-1.1139 zu deutsch -0.2430
+-1.1139 zu englisch -0.2430
+-1.4150 zu erinnern -0.2041
+-1.4150 zu gehen 0.0000
+-1.4150 zu gucken -0.1383
+-1.1139 zu hoeren 0.0000
+-1.4150 zu holen 0.0000
+-1.4150 zu pruefen 0.0000
+-0.7782 zug </s> -0.3010
+-1.0792 zug erinnern -0.2041
+-0.6021 zug von -0.2507
+-0.9031 zugverbindung bitte -0.1882
+-0.4260 zugverbindung von -0.2352
+-0.7782 zuhoeren </s> -0.3010
+-0.4771 zuhoeren bitte -0.1882
+-0.6021 zum krankenhaus 0.0000
+-0.6021 zum naechsten 0.0000
+-0.3010 zur arbeit -0.0792
+-0.9031 zwanzig </s> -0.3010
+-0.9031 zwanzig minuten -0.0918
+-0.6021 zwanzig uhr -0.1127
+-0.8653 zwei </s> -0.3010
+-1.3424 zwei entfernen 0.0000
+-1.0414 zwei jahren -0.0792
+-1.3424 zwei minuten -0.0918
+-1.0414 zwei stunden 0.0000
+-1.3424 zwei tagen 0.0000
+-1.3424 zwei uhr -0.1127
+-0.7270 zweite </s> -0.3010
+-0.5052 zweite schlagzeile -0.0212
+-0.6021 zweiundzwanzig </s> -0.3010
+-0.6021 zweiundzwanzig uhr -0.2846
+-0.7782 zwoelf </s> -0.3010
+-0.7782 zwoelf stunden -0.1761
+-0.7782 zwoelf uhr -0.1127
+-0.3010 zz top 0.0000
+
+\3-grams:
+-0.3010 <s> abbrechen </s>
+-0.3010 <s> abort </s>
+-0.6021 <s> ach nichts
+-0.6021 <s> ach so
+-0.3010 <s> acht </s>
+-0.3010 <s> achtzehn </s>
+-0.7782 <s> aendere den
+-0.7782 <s> aendere die
+-0.7782 <s> aendere grenzwert
+-0.6021 <s> aktualisiere meinen
+-0.6021 <s> aktualisiere standort
+-0.6021 <s> aktuelle nachrichten
+-0.6021 <s> aktuelle news
+-0.7782 <s> alle erinnerungen
+-0.4771 <s> alle timer
+-0.4771 <s> alles gut
+-0.7782 <s> alles ok
+-0.3010 <s> also lies
+-0.6021 <s> app </s>
+-0.6021 <s> app info
+-0.3010 <s> auf wiedersehen
+-0.3010 <s> beenden </s>
+-0.6021 <s> beim beenden
+-0.6021 <s> beim starten
+-0.3010 <s> bilder </s>
+-0.6021 <s> bin kurz
+-0.6021 <s> bin mal
+-0.3010 <s> bist du
+-0.6021 <s> bitte twitter
+-0.6021 <s> bitte zeig
+-0.3010 <s> bring mich
+-0.3010 <s> calculator </s>
+-0.3010 <s> cool </s>
+-0.6021 <s> danke </s>
+-0.6021 <s> danke und
+-1.0792 <s> das dritte
+-1.0792 <s> das erste
+-1.0792 <s> das letzte
+-0.7782 <s> das nervt
+-1.0792 <s> das zweite
+-0.6021 <s> den computer
+-0.6021 <s> den pc
+-0.9031 <s> der dritte
+-0.9031 <s> der erste
+-0.9031 <s> der letzte
+-0.9031 <s> der zweite
+-0.9031 <s> die dritte
+-0.9031 <s> die erste
+-0.9031 <s> die letzte
+-0.9031 <s> die zweite
+-0.3010 <s> dies ist
+-0.3010 <s> doppelpunkt </s>
+-0.3010 <s> drei </s>
+-0.3010 <s> dreissig </s>
+-0.3010 <s> dreiundzwanzig </s>
+-0.3010 <s> dreizehn </s>
+-0.6812 <s> du bist
+-1.0792 <s> du darfst
+-1.3802 <s> du kannst
+-1.0792 <s> du nervst
+-1.0792 <s> du sollst
+-0.3010 <s> durchsuche meine
+-0.3010 <s> ein programm
+-0.3010 <s> eine frage
+-0.3010 <s> eins </s>
+-0.3010 <s> einstellungen </s>
+-0.3010 <s> einundzwanzig </s>
+-0.3010 <s> elf </s>
+-0.3010 <s> email senden
+-0.3010 <s> energie sparen
+-1.1461 <s> energiesparmodus </s>
+-1.1461 <s> energiesparmodus aktivieren
+-1.1461 <s> energiesparmodus aus
+-1.1461 <s> energiesparmodus ausschalten
+-1.1461 <s> energiesparmodus deaktivieren
+-1.1461 <s> energiesparmodus ein
+-1.1461 <s> energiesparmodus einschalten
+-0.8451 <s> entferne alle
+-1.1461 <s> entferne bitte
+-1.1461 <s> entferne eine
+-0.6690 <s> entferne erinnerung
+-0.3010 <s> erinnere mich
+-0.3010 <s> erst machst
+-1.0792 <s> erstelle bitte
+-0.3802 <s> erstelle eine
+-1.2553 <s> finde alle
+-0.9542 <s> finde den
+-0.7782 <s> finde eine
+-0.9542 <s> finde einen
+-1.2553 <s> finde erst
+-0.3010 <s> frag das
+-0.3010 <s> fuenf </s>
+-0.3010 <s> fuenfunddreissig </s>
+-0.3010 <s> fuenfundvierzig </s>
+-0.3010 <s> fuenfundzwanzig </s>
+-0.3010 <s> fuenfzehn </s>
+-0.3010 <s> gibt es
+-0.3010 <s> google das
+-0.3010 <s> gut gut
+-0.6021 <s> guten morgen
+-0.6021 <s> guten tag
+-0.3010 <s> habe ich
+-0.7782 <s> haha </s>
+-0.7782 <s> haha lustig
+-0.7782 <s> haha manchmal
+-0.4771 <s> hallo </s>
+-0.7782 <s> hallo ila
+-0.3010 <s> hey ila
+-0.6990 <s> hi </s>
+-1.0000 <s> hi ila
+-0.6990 <s> hi wie
+-0.3010 <s> hilfe </s>
+-0.3010 <s> hoer mir
+-1.1614 <s> ich bin
+-1.7634 <s> ich frage
+-1.7634 <s> ich gehe
+-1.2863 <s> ich habe
+-0.9853 <s> ich moechte
+-1.4624 <s> ich muss
+-1.7634 <s> ich sagte
+-1.0645 <s> ich suche
+-1.7634 <s> ich versuche
+-1.7634 <s> ich wiederhole
+-1.4624 <s> ich will
+-1.4624 <s> ich wuerde
+-1.0000 <s> ila bitte
+-1.0000 <s> ila bring
+-1.0000 <s> ila ich
+-1.0000 <s> ila kannst
+-1.0000 <s> ila voice
+-0.9777 <s> in drei
+-1.5798 <s> in dreissig
+-1.2788 <s> in einem
+-1.2788 <s> in einer
+-1.5798 <s> in fuenf
+-1.5798 <s> in fuenfundvierzig
+-1.5798 <s> in fuenfzehn
+-1.5798 <s> in vierzig
+-1.5798 <s> in zehn
+-1.5798 <s> in zwanzig
+-0.9777 <s> in zwei
+-0.3010 <s> irgendwann </s>
+-0.3010 <s> ist das
+-0.3010 <s> ja </s>
+-0.3010 <s> jetzt nicht
+-0.3010 <s> jim smith
+-0.3010 <s> jimi hendrix
+-0.3010 <s> joe smith
+-0.3010 <s> kannst du
+-0.3010 <s> kein problem
+-0.3010 <s> kennst du
+-0.3010 <s> komma </s>
+-0.7482 <s> lade die
+-1.2711 <s> lade eine
+-1.4472 <s> lade golem
+-1.7482 <s> lade lol
+-1.0492 <s> lade meine
+-1.7482 <s> lade meinen
+-1.1461 <s> lade persoenliche
+-1.4472 <s> lade spiegel
+-0.3010 <s> langweilig </s>
+-0.3010 <s> lass uns
+-0.3010 <s> lern modus
+-0.3010 <s> lies meine
+-0.6021 <s> loesche erinnerung
+-0.6021 <s> loesche timer
+-0.3010 <s> mal gucken
+-0.3010 <s> matlab starten
+-0.3010 <s> meinen standort
+-0.3010 <s> minute </s>
+-0.3010 <s> minuten </s>
+-0.3010 <s> musik spielen
+-0.7782 <s> my electro
+-0.7782 <s> my metal
+-0.7782 <s> my rock
+-0.6990 <s> na </s>
+-1.0000 <s> na alles
+-0.6990 <s> na wie
+-0.3010 <s> ne ila
+-0.4771 <s> nein </s>
+-0.7782 <s> nein nein
+-0.3010 <s> neun </s>
+-0.3010 <s> neunzehn </s>
+-0.3010 <s> nicht mehr
+-0.3010 <s> nix </s>
+-0.3010 <s> no problemo
+-1.0000 <s> nummer drei
+-1.0000 <s> nummer eins
+-1.0000 <s> nummer fuenf
+-1.0000 <s> nummer vier
+-1.0000 <s> nummer zwei
+-1.5185 <s> oeffne bing
+-1.8195 <s> oeffne den
+-0.8195 <s> oeffne die
+-1.0414 <s> oeffne eine
+-1.8195 <s> oeffne einstellungen
+-1.5185 <s> oeffne facebook
+-1.5185 <s> oeffne google
+-1.8195 <s> oeffne lol
+-1.5185 <s> oeffne maps
+-1.3424 <s> oeffne meine
+-1.8195 <s> oeffne meinen
+-1.8195 <s> oeffne twitter
+-1.8195 <s> oeffne youtube
+-0.3010 <s> offline spracherkennung
+-0.7782 <s> ok </s>
+-0.4771 <s> ok eine
+-0.3010 <s> online spracherkennung
+-0.3010 <s> persoenliche daten
+-0.3010 <s> powerpoint </s>
+-0.3010 <s> pruefe die
+-0.3010 <s> punkt </s>
+-0.4771 <s> sag deinen
+-0.7782 <s> sag mir
+-0.3010 <s> schliesse den
+-0.3010 <s> schluss fuer
+-0.3010 <s> schoen zu
+-0.3010 <s> sechs </s>
+-0.3010 <s> sechzehn </s>
+-0.6021 <s> sei laut
+-0.6021 <s> sei leise
+-0.3010 <s> sekunde </s>
+-0.3010 <s> sekunden </s>
+-0.3010 <s> setze einen
+-0.3010 <s> sieben </s>
+-0.3010 <s> siebzehn </s>
+-0.3010 <s> sorry </s>
+-0.3010 <s> sound neu
+-0.3010 <s> spaeter </s>
+-0.6021 <s> spiel mir
+-0.6021 <s> spiel was
+-1.0000 <s> spiele bitte
+-0.8239 <s> spiele etwas
+-0.8239 <s> spiele musik
+-1.3010 <s> spiele von
+-1.3010 <s> spiele was
+-0.7782 <s> sprich deutsch
+-0.4771 <s> sprich englisch
+-0.3010 <s> standard spracherkennung
+-0.6021 <s> standort aktualisieren
+-0.6021 <s> standort laden
+-1.4771 <s> starte bitte
+-1.4771 <s> starte eine
+-0.7782 <s> starte einen
+-1.4771 <s> starte facebook
+-1.4771 <s> starte lol
+-1.1761 <s> starte matlab
+-1.4771 <s> starte meine
+-1.4771 <s> starte meinen
+-1.4771 <s> starte musik
+-1.4771 <s> starte powerpoint
+-0.3010 <s> stunde </s>
+-0.3010 <s> stunden </s>
+-0.6990 <s> such das
+-0.5229 <s> such mir
+-1.3979 <s> suche </s>
+-1.6990 <s> suche alle
+-1.3979 <s> suche bei
+-1.3979 <s> suche bilder
+-1.0969 <s> suche danach
+-1.3979 <s> suche das
+-1.3979 <s> suche den
+-1.2218 <s> suche eine
+-1.6990 <s> suche einen
+-1.3979 <s> suche musik
+-1.3979 <s> suche nach
+-1.3979 <s> suche online
+-0.3010 <s> tag </s>
+-0.3010 <s> tage </s>
+-0.3010 <s> test </s>
+-0.3010 <s> teste bitte
+-0.4771 <s> tschuess </s>
+-0.7782 <s> tschuess ila
+-0.3010 <s> uhr </s>
+-1.4150 <s> um acht
+-1.4150 <s> um drei
+-1.4150 <s> um ein
+-1.4150 <s> um elf
+-1.4150 <s> um fuenf
+-1.4150 <s> um neun
+-1.4150 <s> um sechs
+-1.4150 <s> um sieben
+-1.4150 <s> um vier
+-1.4150 <s> um zehn
+-1.4150 <s> um zwanzig
+-1.4150 <s> um zwei
+-1.4150 <s> um zwoelf
+-0.3010 <s> versteck dich
+-0.3010 <s> vier </s>
+-0.3010 <s> vierundzwanzig </s>
+-0.3010 <s> vierzehn </s>
+-0.3010 <s> vierzig </s>
+-0.6021 <s> warum </s>
+-0.6021 <s> warum sind
+-1.4037 <s> was geht
+-1.4037 <s> was gibt
+-0.8016 <s> was gibts
+-1.8808 <s> was habe
+-1.8808 <s> was hast
+-1.2788 <s> was heisst
+-1.5798 <s> was ist
+-1.1027 <s> was kannst
+-1.2788 <s> was laeuft
+-1.5798 <s> was passiert
+-0.3010 <s> web suche
+-0.3010 <s> wecker stellen
+-0.3010 <s> weisst du
+-0.7782 <s> welche erinnerungen
+-0.4771 <s> welche timer
+-0.3010 <s> welcher tag
+-0.4771 <s> welches datum
+-0.7782 <s> welches sind
+-0.3010 <s> wenn ich
+-1.1461 <s> wer bin
+-1.1461 <s> wer bist
+-0.5441 <s> wer hat
+-1.1461 <s> wer spielt
+-1.7076 <s> wie </s>
+-1.7076 <s> wie alt
+-1.5315 <s> wie geht
+-1.1635 <s> wie gehts
+-1.7076 <s> wie heisse
+-1.4065 <s> wie heisst
+-1.2304 <s> wie ist
+-1.7076 <s> wie komme
+-2.0086 <s> wie lange
+-1.7076 <s> wie lautet
+-2.0086 <s> wie sieht
+-1.4065 <s> wie siehts
+-2.0086 <s> wie steht
+-1.4065 <s> wie stehts
+-1.7076 <s> wie viel
+-2.0086 <s> wie weit
+-1.1635 <s> wie wird
+-0.3010 <s> wiedersehen </s>
+-0.7782 <s> wieviel gramm
+-0.4771 <s> wieviel uhr
+-0.3010 <s> windows herunterfahren
+-1.0000 <s> wo arbeite
+-1.0000 <s> wo bin
+-1.0000 <s> wo kommst
+-1.0000 <s> wo sind
+-1.0000 <s> wo wohne
+-0.3010 <s> wofuer steht
+-0.3010 <s> wow das
+-0.3010 <s> zehn </s>
+-0.3010 <s> zeig mir
+-0.7782 <s> zeige alle
+-0.4771 <s> zeige das
+-0.6021 <s> zu deutsch
+-0.6021 <s> zu englisch
+-0.3010 <s> zuhoeren bitte
+-0.3010 <s> zwanzig </s>
+-0.3010 <s> zwei </s>
+-0.3010 <s> zweiundzwanzig </s>
+-0.3010 <s> zwoelf </s>
+-0.3010 ab ila </s>
+-0.3010 ach nichts </s>
+-0.3010 ach so </s>
+-0.6021 acht uhr </s>
+-0.6021 acht uhr aufwecken
+-0.3010 achtzehn uhr </s>
+-0.3010 aendere den grenzwert
+-0.3010 aendere die sprache
+-0.3010 aendere grenzwert fuer
+-0.3010 aktualisiere meinen standort
+-0.3010 aktualisiere standort </s>
+-0.3010 aktuell beim fussball
+-0.3010 aktuelle nachrichten </s>
+-0.3010 aktuelle news </s>
+-0.3010 aktuelle sportnachrichten </s>
+-0.3010 aktuellen bundesliga ergebnisse
+-0.3010 aktuellen fussballergebnisse </s>
+-0.3010 aktuellen nachrichten </s>
+-0.3010 aktuellen physik nachrichten
+-0.6021 aktuellen schlagzeilen </s>
+-0.6021 aktuellen schlagzeilen oeffnen
+-0.3010 aktuellen standort </s>
+-0.3010 alarm in zehn
+-0.3010 alarm starten </s>
+-0.6021 alle erinnerungen </s>
+-0.9031 alle erinnerungen anzeigen
+-0.9031 alle erinnerungen die
+-0.3010 alle mitfahrgelegenheiten nach
+-0.3010 alle timer anhalten
+-0.3010 alle verpassten erinnerungen
+-0.3010 alles gut </s>
+-0.6021 alles ok </s>
+-0.6021 alles ok bei
+-0.3010 also lies und
+-0.3010 alt bist du
+-0.4771 an das meeting
+-0.7782 an das spiel
+-0.6021 an den geburtstag
+-0.6021 an den zug
+-0.3010 an diesen moment
+-0.3010 an einen geburtstag
+-0.3010 an etwas erinnern
+-0.3010 an unser treffen
+-0.3010 app info </s>
+-0.3010 apps liste </s>
+-0.3010 apps nach einem
+-0.3010 arbeit nach hause
+-0.3010 arbeite ich </s>
+-0.4771 auf wiedersehen </s>
+-0.7782 auf wiedersehen ila
+-0.3010 aus in frankfurt
+-0.7782 bahn von bochum
+-0.7782 bahn von essen
+-0.7782 bahn von hier
+-0.3010 bahnverbindung bitte </s>
+-0.3010 bahnverbindung nach hause
+-0.3010 bb king </s>
+-0.3010 befehle die du
+-0.3010 befehle kannst du
+-0.3010 bei dir </s>
+-0.6021 bei spotify </s>
+-0.6021 bei spotify nach
+-0.3010 beim beenden </s>
+-0.4771 beim fussball </s>
+-0.7782 beim fussball aus
+-0.3010 beim starten </s>
+-0.3010 berlin bitte </s>
+-0.7782 berlin nach duesseldorf
+-0.4771 berlin nach muenchen
+-0.3010 bin beeindruckt </s>
+-0.3010 bin ich </s>
+-0.3010 bin kurz weg
+-0.6021 bin mal kurz
+-0.6021 bin mal weg
+-0.3010 bin wieder da
+-0.3010 bis zur arbeit
+-0.6021 bist du </s>
+-0.9031 bist du da
+-0.9031 bist du lustig
+-0.3010 bist ja nett
+-0.3010 bist lustig </s>
+-0.3010 bist total cool
+-0.3010 bitte an das
+-0.6021 bitte die aktuellen
+-0.6021 bitte die qualitaet
+-0.3010 bitte eine erinnerung
+-0.3010 bitte erinnerung nummer
+-0.3010 bitte excel </s>
+-0.3010 bitte facebook oeffnen
+-0.3010 bitte helfen </s>
+-1.0792 bitte in einer
+-0.7782 bitte in fuenfzehn
+-1.0792 bitte in vier
+-1.0792 bitte in zehn
+-1.0792 bitte in zwoelf
+-0.3010 bitte lade die
+-0.3010 bitte lol starten
+-0.3010 bitte meine aktuellen
+-0.3010 bitte meinen blog
+-0.9031 bitte musik spielen
+-0.4260 bitte musik von
+-0.3010 bitte nach hause
+-0.3010 bitte twitter oeffnen
+-0.9031 bitte um acht
+-0.9031 bitte um neun
+-0.9031 bitte um sieben
+-0.9031 bitte um zweiundzwanzig
+-0.3010 bitte word starten
+-0.3010 bitte zeig mir
+-0.3010 blog bitte </s>
+-0.3010 blog laden </s>
+-0.7782 bochum nach dortmund
+-0.4771 bochum nach essen
+-0.3010 bosse das war
+-0.4260 bring mich nach
+-0.9031 bring mich zum
+-0.3010 bundesliga aus </s>
+-0.3010 bundesliga ergebnisse </s>
+-0.6021 bus von bochum
+-0.6021 bus von hier
+-0.3010 busverbindung bitte </s>
+-0.3010 busverbindung nach hause
+-0.3010 computer herunterfahren </s>
+-0.3010 cool ila </s>
+-0.3010 cool oder </s>
+-0.3010 da bin </s>
+-0.3010 danach im web
+-0.3010 danach online </s>
+-0.3010 danke und tschuess
+-0.3010 dann machst du
+-0.3010 dann zeig mir
+-0.7782 daran den fernseher
+-0.7782 daran den herd
+-0.7782 daran den ofen
+-1.0792 daran erinnern aufzustehen
+-1.0792 daran erinnern das
+-1.0792 daran erinnern den
+-0.7782 daran erinnern die
+-1.0792 daran erinnern schlafen
+-0.3010 daran wie viel
+-0.3010 darfst wieder sprechen
+-0.3010 das bitte </s>
+-0.3010 das dritte </s>
+-0.3010 das erste </s>
+-0.3010 das fernsehprogramm </s>
+-0.3010 das ging schnell
+-0.3010 das im web
+-0.3010 das konzert zu
+-0.3010 das letzte </s>
+-0.3010 das mal wolfram
+-0.6021 das meeting </s>
+-0.6021 das meeting morgen
+-0.3010 das nervt </s>
+-0.3010 das nicht cool
+-0.3010 das spiel erinnern
+-0.3010 das tv programm
+-0.3010 das war die
+-1.0000 das wetter </s>
+-1.4771 das wetter aus
+-1.4771 das wetter gleich
+-1.0000 das wetter heute
+-0.8751 das wetter in
+-1.1761 das wetter morgen
+-1.4771 das wetter wird
+-0.3010 das zweite </s>
+-0.3010 daten aendern </s>
+-0.3010 daten eingeben </s>
+-0.3010 datum haben wir
+-0.3010 dauert es bis
+-0.3010 deichkind spielen </s>
+-0.3010 dein name </s>
+-0.3010 deine erinnerungen </s>
+-0.3010 deinen namen </s>
+-0.3010 deiner befehle </s>
+-0.3010 den aktuellen standort
+-0.3010 den browser </s>
+-0.3010 den computer herunterfahren
+-0.3010 den fernseher einzuschalten
+-0.3010 den geburtstag </s>
+-0.3010 den grenzwert der
+-0.3010 den herd auszuschalten
+-0.3010 den nachrichten </s>
+-0.6021 den ofen auszuschalten
+-0.6021 den ofen zu
+-0.3010 den pc herunterfahren
+-1.3802 den weg dort
+-0.9031 den weg nach
+-0.5351 den weg von
+-1.3802 den weg zum
+-0.3010 den zug erinnern
+-0.3010 denn eigentlich das
+-0.3010 der arbeit nach
+-0.6021 der bundesliga </s>
+-0.6021 der bundesliga aus
+-0.3010 der dritte </s>
+-0.3010 der erste </s>
+-0.3010 der letzte </s>
+-0.3010 der liga </s>
+-0.3010 der physik </s>
+-0.3010 der sinn des
+-0.3010 der spracherkennung </s>
+-0.3010 der sprachqualitaet bitte
+-0.3010 der zweite </s>
+-0.3010 des lebens </s>
+-0.3010 des sounds </s>
+-0.3010 deutsch sprechen </s>
+-0.3010 deutsch wechseln bitte
+-0.3010 dich erschaffen </s>
+-0.3010 dich gemacht </s>
+-0.3010 dich geschaffen </s>
+-0.3010 dich programmiert </s>
+-0.3010 dich updaten </s>
+-1.0000 die aktuellen bundesliga
+-1.0000 die aktuellen fussballergebnisse
+-1.0000 die aktuellen nachrichten
+-1.0000 die aktuellen physik
+-1.0000 die aktuellen schlagzeilen
+-1.0792 die dritte </s>
+-0.3802 die dritte schlagzeile
+-0.3010 die du verstehen
+-0.3010 die einstellungen </s>
+-1.1461 die erste </s>
+-0.3680 die erste schlagzeile
+-0.3010 die fussballergebnisse </s>
+-0.3010 die ich verpasst
+-0.3010 die internet verbindung
+-0.3010 die kinder abzuholen
+-0.3010 die letzte </s>
+-0.3010 die naechste tankstelle
+-0.3010 die neusten schlagzeilen
+-0.3010 die qualitaet des
+-0.3010 die schoenste zeit
+-0.3010 die sprache </s>
+-0.3010 die uhrzeit </s>
+-0.3010 die verpassten erinnerungen
+-0.3010 die waesche zu
+-0.3010 die wichtigsten befehle
+-1.0792 die zweite </s>
+-0.3802 die zweite schlagzeile
+-0.3010 dies ist ein
+-0.3010 dies und dann
+-0.3010 diesen moment </s>
+-0.3010 dir ila </s>
+-0.3010 dir nichts beibringen
+-0.3010 dir was beibringen
+-0.3010 dort hin </s>
+-0.3010 drauf ila </s>
+-0.6021 drei jahren </s>
+-0.6021 drei jahren daran
+-0.3010 drei minuten </s>
+-0.6021 drei stunden </s>
+-0.6021 drei stunden daran
+-0.3010 drei tagen </s>
+-0.3010 drei uhr </s>
+-0.4771 dreissig minuten </s>
+-0.7782 dreissig minuten daran
+-0.3010 dritte schlagzeile </s>
+-0.3010 du arduino </s>
+-0.6990 du bist ja
+-0.6990 du bist lustig
+-1.0000 du bist total
+-1.2553 du bitte erinnerung
+-1.2553 du bitte facebook
+-1.2553 du bitte in
+-1.2553 du bitte lol
+-1.2553 du bitte meine
+-1.2553 du bitte meinen
+-0.9542 du bitte musik
+-1.2553 du bitte word
+-0.3010 du da </s>
+-0.3010 du darfst wieder
+-0.3010 du das bitte
+-0.3010 du deutsch sprechen
+-0.3010 du dich updaten
+-0.3010 du dies und
+-0.3010 du drauf ila
+-0.6021 du eine erinnerung
+-0.6021 du eine gute
+-0.3010 du englisch sprechen
+-0.3010 du erinnerung nummer
+-0.3010 du fussball ergebnisse
+-0.3010 du fussballergebnisse </s>
+-0.3010 du gespeichert </s>
+-0.3010 du her </s>
+-0.4771 du kannst </s>
+-0.7782 du kannst starten
+-0.3010 du lustig </s>
+-0.3010 du machen </s>
+-0.4771 du meinen namen
+-0.7782 du meinen standort
+-1.1761 du mich </s>
+-1.4771 du mich an
+-0.6320 du mich bitte
+-1.1761 du mich hoeren
+-1.0000 du mich in
+-0.9542 du mir bitte
+-1.2553 du mir etwas
+-0.9542 du mir helfen
+-0.9542 du mir sagen
+-1.2553 du mir zeigen
+-1.2553 du mir zuhoeren
+-0.3010 du nervst </s>
+-0.3010 du nochmal </s>
+-0.6021 du so </s>
+-0.6021 du so kannst
+-0.3010 du sollst deutsch
+-0.6021 du verstehen </s>
+-0.6021 du verstehen kannst
+-0.3010 du wie ich
+-0.3010 du wo ich
+-0.3010 durchsuche meine apps
+-0.3010 eigentlich das wetter
+-0.3010 ein kilo </s>
+-0.6021 ein programm oeffnen
+-0.6021 ein programm starten
+-0.6021 ein test </s>
+-0.6021 ein test der
+-0.3010 ein uhr </s>
+-0.3010 eine app </s>
+-0.3010 eine bahn von
+-0.6021 eine bahnverbindung bitte
+-0.6021 eine bahnverbindung nach
+-0.6021 eine busverbindung bitte
+-0.6021 eine busverbindung nach
+-0.3010 eine email </s>
+-0.9031 eine erinnerung </s>
+-1.2041 eine erinnerung entfernen
+-0.5052 eine erinnerung fuer
+-0.3010 eine filmserie gucken
+-0.3010 eine frage </s>
+-0.3010 eine gute tv
+-0.3010 eine liste deiner
+-0.3010 eine schlagzeile </s>
+-0.3010 eine serie gucken
+-0.3010 eine stunde </s>
+-0.3010 eine tv serie
+-0.9031 eine zugverbindung bitte
+-0.4260 eine zugverbindung von
+-0.6021 einem jahr </s>
+-0.6021 einem jahr an
+-0.3010 einem tag </s>
+-0.3010 einem taschenrechner </s>
+-0.7782 einen alarm </s>
+-0.7782 einen alarm in
+-0.7782 einen alarm starten
+-0.6021 einen bus </s>
+-0.6021 einen bus von
+-0.3010 einen geburtstag zu
+-0.3010 einen test der
+-0.4260 einen timer fuer
+-0.9031 einen timer in
+-0.6990 einen zug </s>
+-0.5229 einen zug von
+-0.3010 einer minute </s>
+-0.7782 einer stunde </s>
+-0.7782 einer stunde an
+-0.7782 einer stunde daran
+-0.3010 einfach total </s>
+-0.3010 eins entfernen </s>
+-0.3010 electro mix </s>
+-0.3010 elf uhr </s>
+-0.3010 email senden </s>
+-0.3010 energie sparen </s>
+-0.3010 energiesparmodus aktivieren </s>
+-0.3010 energiesparmodus aus </s>
+-0.3010 energiesparmodus ausschalten </s>
+-0.3010 energiesparmodus deaktivieren </s>
+-0.3010 energiesparmodus ein </s>
+-0.3010 energiesparmodus einschalten </s>
+-0.3010 englisch bitte </s>
+-0.3010 englisch sprechen </s>
+-0.3010 englisch wechseln bitte
+-0.6021 entferne alle erinnerungen
+-0.6021 entferne alle verpassten
+-0.3010 entferne bitte erinnerung
+-0.3010 entferne eine erinnerung
+-0.3010 entferne erinnerung nummer
+-1.0000 erinnere mich an
+-0.6990 erinnere mich bitte
+-0.6990 erinnere mich in
+-0.3010 erinnern aufzustehen </s>
+-0.3010 erinnern das konzert
+-0.3010 erinnern den ofen
+-0.6021 erinnern die kinder
+-0.6021 erinnern die waesche
+-0.3010 erinnern schlafen zu
+-0.3010 erinnerung entfernen </s>
+-0.6990 erinnerung fuer heute
+-0.6990 erinnerung fuer morgen
+-1.0000 erinnerung fuer uebermorgen
+-1.0792 erinnerung nummer </s>
+-1.0792 erinnerung nummer drei
+-0.7782 erinnerung nummer eins
+-0.7782 erinnerung nummer zwei
+-0.3010 erinnerungen anzeigen </s>
+-0.3010 erinnerungen die ich
+-0.3010 erinnerungen hast du
+-0.3010 erst die naechste
+-0.3010 erst machst du
+-0.3802 erste schlagzeile </s>
+-1.0792 erste schlagzeile ila
+-0.3010 erstelle bitte eine
+-0.3010 erstelle eine erinnerung
+-0.3010 es aktuell beim
+-0.3010 es bis zur
+-0.4771 es dir </s>
+-0.7782 es dir ila
+-0.3010 es eine bahn
+-0.3010 es einen bus
+-0.4771 es neues </s>
+-0.7782 es neues beim
+-0.3010 es zur arbeit
+-0.3010 essen bitte </s>
+-0.4771 essen nach berlin
+-0.7782 essen nach koeln
+-0.3010 essen wird </s>
+-0.3010 etwas erinnern </s>
+-0.6021 etwas musik </s>
+-0.6021 etwas musik bitte
+-0.3010 etwas von deichkind
+-0.3010 etwas vorlesen bitte
+-0.3010 facebook bitte </s>
+-0.3010 facebook oeffnen </s>
+-0.3010 facebook seite </s>
+-0.3010 fernseher einzuschalten </s>
+-0.3010 filmserie gucken </s>
+-0.3010 finde alle mitfahrgelegenheiten
+-0.3010 finde den weg
+-0.7782 finde eine bahn
+-0.7782 finde eine bahnverbindung
+-0.7782 finde eine busverbindung
+-0.3010 finde einen zug
+-0.3010 finde erst die
+-0.3010 finde und suche
+-0.3010 finden und suchen
+-0.3010 frag das mal
+-0.3010 frage mich was
+-0.3010 frankfurt nach hamburg
+-0.3010 fuenf minuten </s>
+-0.3010 fuenf uhr </s>
+-0.3010 fuenfundvierzig minuten </s>
+-0.6021 fuenfzehn minuten </s>
+-0.9031 fuenfzehn minuten daran
+-0.9031 fuenfzehn minuten einen
+-0.3010 fuer dreissig minuten
+-0.3010 fuer eine stunde
+-0.6021 fuer heute </s>
+-0.9031 fuer heute um
+-0.9031 fuer heute zwanzig
+-0.6021 fuer morgen </s>
+-0.6021 fuer morgen neunzehn
+-0.3010 fuer spracherkennung </s>
+-0.3010 fuer uebermorgen </s>
+-0.3010 fussball aus </s>
+-0.3010 fussball ergebnisse </s>
+-0.3010 geburtstag zu erinnern
+-0.4771 geht ab </s>
+-0.7782 geht ab ila
+-0.3010 geht es dir
+-0.3010 gehts dir </s>
+-0.3010 gehts nach hause
+-0.3010 gehts wie stehts
+-0.3010 gerne musik von
+-1.0000 gibt es eine
+-1.0000 gibt es einen
+-0.5229 gibt es neues
+-0.6021 gibts im fernsehen
+-0.6021 gibts im tv
+-0.6021 gibts in den
+-0.6021 gibts in der
+-0.6021 gibts neues </s>
+-0.6021 gibts neues in
+-0.3010 ging schnell </s>
+-0.3010 golem news </s>
+-0.3010 google das </s>
+-0.3010 gramm sind ein
+-0.3010 grenzwert der spracherkennung
+-0.3010 grenzwert fuer spracherkennung
+-0.3010 gucken was du
+-0.3010 gut gut </s>
+-0.3010 gute tv serie
+-0.4771 guten morgen </s>
+-0.7782 guten morgen ila
+-0.4771 guten tag </s>
+-0.7782 guten tag ila
+-0.3010 habe eine frage
+-0.3010 habe gesagt </s>
+-0.6021 habe ich verpasst
+-0.6021 habe ich was
+-0.3010 haben wir </s>
+-0.3010 haha lustig </s>
+-0.3010 haha manchmal bist
+-0.3010 hallo ila </s>
+-0.3010 hamburg nach frankfurt
+-0.6021 hast du drauf
+-0.6021 hast du gespeichert
+-0.9031 hat dich erschaffen
+-0.9031 hat dich gemacht
+-0.9031 hat dich geschaffen
+-0.9031 hat dich programmiert
+-0.3010 hause bitte </s>
+-0.3010 hause bringen </s>
+-0.3010 hause komme </s>
+-0.3010 heisse ich </s>
+-0.3010 heisst das </s>
+-0.6021 heisst du </s>
+-0.6021 heisst du nochmal
+-0.3010 heisst ila </s>
+-0.3010 helfen ila </s>
+-0.3010 hendrix rockt einfach
+-0.3010 herd auszuschalten </s>
+-0.3010 heute fussball </s>
+-0.3010 heute um achtzehn
+-0.3010 heute zwanzig uhr
+-1.3424 hey ila </s>
+-1.3424 hey ila aktualisiere
+-1.3424 hey ila dies
+-0.8653 hey ila kannst
+-1.0414 hey ila lies
+-1.3424 hey ila welche
+-1.3424 hey ila wie
+-1.3424 hey ila zeig
+-0.3010 hi ila </s>
+-0.3010 hi wie gehts
+-0.3010 hier nach hause
+-0.3010 hier zur arbeit
+-0.3010 hoer mir zu
+-0.3010 ich arbeite </s>
+-0.6021 ich bin beeindruckt
+-0.9031 ich bin mal
+-0.9031 ich bin wieder
+-0.3010 ich frage mich
+-0.3010 ich gehe </s>
+-0.6021 ich habe eine
+-0.6021 ich habe gesagt
+-0.3010 ich heisse </s>
+-0.4771 ich moechte dir
+-0.7782 ich moechte eine
+-0.6021 ich muss gehen
+-0.6021 ich muss los
+-0.3010 ich nach hause
+-0.3010 ich sagte </s>
+-0.3010 ich suche einen
+-0.6021 ich verpasst </s>
+-0.6021 ich verpasst habe
+-0.3010 ich versuche mich
+-0.3010 ich was verpasst
+-0.3010 ich weg bin
+-0.3010 ich wieder da
+-0.3010 ich wiederhole </s>
+-0.3010 ich will dir
+-0.3010 ich wohne </s>
+-0.3010 ich wuerde gerne
+-0.3010 ila aktualisiere meinen
+-0.3010 ila bitte lade
+-0.3010 ila bring mich
+-0.3010 ila dies ist
+-0.3010 ila ich habe
+-0.3010 ila kannst du
+-0.6021 ila lies bitte
+-0.6021 ila lies meine
+-0.3010 ila noch mal
+-0.3010 ila voice </s>
+-0.3010 ila welche befehle
+-0.3010 ila wie wird
+-0.3010 ila zeig mir
+-0.3010 im fernsehen </s>
+-0.3010 im tv </s>
+-0.3010 im web </s>
+-0.3010 in berlin </s>
+-0.3010 in den nachrichten
+-0.6021 in der bundesliga
+-0.9031 in der liga
+-0.9031 in der physik
+-0.7782 in drei jahren
+-1.0792 in drei minuten
+-0.7782 in drei stunden
+-1.0792 in drei tagen
+-0.3010 in dreissig minuten
+-0.4771 in einem jahr
+-0.7782 in einem tag
+-0.9031 in einer minute
+-0.4260 in einer stunde
+-0.3010 in essen wird
+-0.3010 in frankfurt </s>
+-0.3010 in fuenf minuten
+-0.3010 in fuenfundvierzig minuten
+-0.3010 in fuenfzehn minuten
+-0.3010 in hamburg </s>
+-0.3010 in muenchen </s>
+-0.3010 in vier jahren
+-0.3010 in vierzig minuten
+-0.3010 in zehn minuten
+-0.3010 in zwanzig minuten
+-0.7782 in zwei jahren
+-1.0792 in zwei minuten
+-0.7782 in zwei stunden
+-1.0792 in zwei tagen
+-0.3010 in zwoelf stunden
+-0.3010 internet verbindung </s>
+-0.7782 ist das nicht
+-0.4771 ist das wetter
+-0.3010 ist dein name
+-0.3010 ist der sinn
+-0.3010 ist ein test
+-0.3979 ist es </s>
+-1.0000 ist es zur
+-0.3010 ist heute </s>
+-0.3010 ist mein name
+-0.3010 ja nett </s>
+-0.3010 jahr an den
+-0.6021 jahren an diesen
+-0.6021 jahren an unser
+-0.3010 jahren daran wie
+-0.3010 jetzt nicht </s>
+-0.3010 jim smith </s>
+-0.6021 jimi hendrix </s>
+-0.6021 jimi hendrix rockt
+-0.3010 joe smith </s>
+-1.6721 kannst du </s>
+-1.0189 kannst du bitte
+-1.6721 kannst du deutsch
+-1.6721 kannst du dich
+-1.9731 kannst du eine
+-1.6721 kannst du englisch
+-1.9731 kannst du erinnerung
+-1.6721 kannst du machen
+-1.9731 kannst du meinen
+-0.8592 kannst du mich
+-1.0189 kannst du mir
+-1.6721 kannst du so
+-1.9731 kannst du verstehen
+-0.3010 kannst starten und
+-0.3010 kein problem </s>
+-1.0000 kennst du arduino
+-1.3010 kennst du eine
+-1.0000 kennst du fussball
+-1.3010 kennst du fussballergebnisse
+-1.0000 kennst du meinen
+-1.0000 kennst du mich
+-0.3010 kinder abzuholen </s>
+-0.3010 komme ich nach
+-0.3010 kommst du her
+-0.3010 konzert zu gucken
+-0.3010 kurz weg </s>
+-0.3010 kyuss hoeren </s>
+-1.0414 lade die aktuellen
+-1.0414 lade die dritte
+-1.0414 lade die erste
+-1.0414 lade die neusten
+-0.8653 lade die zweite
+-0.4771 lade eine schlagzeile
+-0.7782 lade eine tv
+-0.3010 lade golem news
+-0.3010 lade lol </s>
+-1.0000 lade meine facebook
+-0.6990 lade meine news
+-1.0000 lade meine persoenlichen
+-1.0000 lade meine twitter
+-0.3010 lade meinen blog
+-0.6021 lade persoenliche nachrichten
+-0.6021 lade persoenliche news
+-0.3010 lade spiegel online
+-0.3010 lade und finde
+-0.3010 laden und finden
+-0.6021 laeuft im fernsehen
+-0.6021 laeuft im tv
+-0.3010 lange dauert es
+-0.3010 lass uns eine
+-0.3010 laufen gerade </s>
+-0.3010 lautet die uhrzeit
+-0.3010 leise bitte </s>
+-0.9031 lern modus aktivieren
+-0.9031 lern modus anschalten
+-0.9031 lern modus ausschalten
+-0.9031 lern modus deaktivieren
+-0.3010 lesen und reden
+-0.3010 lies bitte die
+-0.3010 lies meine persoenlichen
+-0.3010 lies und starte
+-0.3010 liste deiner befehle
+-0.3010 loesche erinnerung </s>
+-0.3010 loesche timer </s>
+-0.3010 lol starten ila
+-0.6021 machst du das
+-0.6021 machst du dies
+-0.3010 mal die erste
+-0.3010 mal gucken was
+-0.3010 mal kurz weg
+-0.3010 mal von vorne
+-0.3010 mal weg </s>
+-0.3010 mal wolfram alpha
+-0.3010 manchmal bist du
+-0.3010 matlab starten </s>
+-0.3010 meeting morgen um
+-0.3010 mehr zuhoeren </s>
+-0.3010 mein name </s>
+-0.3010 meine aktuellen schlagzeilen
+-0.6021 meine apps liste
+-0.6021 meine apps nach
+-0.3010 meine facebook seite
+-0.3010 meine lieblingsband </s>
+-0.3010 meine lieblingsserie </s>
+-0.3010 meine news </s>
+-0.4771 meine persoenlichen nachrichten
+-0.7782 meine persoenlichen news
+-0.3010 meine schlagzeilen </s>
+-0.3010 meine twitter seite
+-0.7782 meinen blog </s>
+-0.7782 meinen blog bitte
+-0.7782 meinen blog laden
+-0.3010 meinen musik mix
+-0.3010 meinen namen </s>
+-0.7782 meinen standort </s>
+-0.6021 meinen standort aktualisieren
+-1.0792 meinen standort und
+-0.3010 meiner lieblingsband </s>
+-0.3010 metal mix </s>
+-0.9031 mich an das
+-0.9031 mich an einen
+-0.9031 mich an etwas
+-0.9031 mich an unser
+-1.3424 mich bitte an
+-0.6435 mich bitte in
+-1.3424 mich bitte nach
+-0.7404 mich bitte um
+-0.3010 mich hoeren </s>
+-0.8451 mich in drei
+-1.1461 mich in dreissig
+-1.1461 mich in einem
+-1.1461 mich in einer
+-0.8451 mich in zwei
+-0.3010 mich nach hause
+-0.3010 mich was du
+-0.3010 mich zum krankenhaus
+-0.3010 minuten daran den
+-0.3010 minuten einen alarm
+-0.4771 mir aktuelle nachrichten
+-0.7782 mir aktuelle sportnachrichten
+-0.3010 mir alle erinnerungen
+-0.3010 mir bitte helfen
+-0.4771 mir das fernsehprogramm
+-0.7782 mir das wetter
+-0.3010 mir deine erinnerungen
+-1.2553 mir den aktuellen
+-0.3522 mir den weg
+-0.6990 mir die aktuellen
+-1.0000 mir die fussballergebnisse
+-1.0000 mir die uhrzeit
+-1.0000 mir die verpassten
+-1.0000 mir eine bahnverbindung
+-1.0000 mir eine busverbindung
+-1.0000 mir eine liste
+-0.6990 mir eine zugverbindung
+-0.3010 mir etwas vorlesen
+-0.3010 mir fussball ergebnisse
+-0.3010 mir fussballergebnisse </s>
+-0.6021 mir helfen </s>
+-0.6021 mir helfen ila
+-0.3010 mir mal die
+-0.6021 mir sagen wie
+-0.6021 mir sagen wo
+-0.3010 mir was von
+-0.3010 mir wie das
+-0.3010 mir zeigen wie
+-0.3010 mir zu </s>
+-0.3010 mir zuhoeren bitte
+-0.3010 mit mir </s>
+-0.6021 mitfahrgelegenheiten nach berlin
+-0.6021 mitfahrgelegenheiten nach essen
+-0.3010 modus aktivieren </s>
+-0.3010 modus anschalten </s>
+-0.3010 modus ausschalten </s>
+-0.3010 modus deaktivieren </s>
+-0.6021 moechte dir nichts
+-0.6021 moechte dir was
+-0.6021 moechte eine filmserie
+-0.6021 moechte eine serie
+-0.3010 morgen ila </s>
+-0.3010 morgen neunzehn uhr
+-0.6021 morgen um vierzehn
+-0.6021 morgen um zehn
+-0.3010 muenchen nach berlin
+-0.3010 musik bitte </s>
+-0.3010 musik mix </s>
+-0.3010 musik online </s>
+-0.3010 musik spielen </s>
+-1.2041 musik von deichkind
+-1.2041 musik von jimi
+-1.2041 musik von kyuss
+-1.2041 musik von meiner
+-1.2041 musik von metallica
+-1.2041 musik von paul
+-1.2041 musik von the
+-1.2041 musik von zz
+-0.3010 muss gehen </s>
+-0.3010 muss los </s>
+-0.3010 my electro mix
+-0.3010 my metal mix
+-0.3010 my rock mix
+-0.3010 na alles ok
+-0.3010 na wie gehts
+-0.4260 nach berlin </s>
+-0.9031 nach berlin bitte
+-0.3010 nach dortmund </s>
+-0.3010 nach duesseldorf </s>
+-0.3010 nach einem taschenrechner
+-0.4771 nach essen </s>
+-0.7782 nach essen bitte
+-0.3010 nach frankfurt </s>
+-0.3010 nach hamburg </s>
+-0.3802 nach hause </s>
+-1.5563 nach hause bitte
+-1.5563 nach hause bringen
+-1.5563 nach hause komme
+-0.3010 nach koeln </s>
+-0.3010 nach muenchen </s>
+-0.3010 nach updates </s>
+-0.3010 nachrichten vor </s>
+-0.3010 naechste tankstelle und
+-0.3010 naechsten krankenhaus </s>
+-0.3010 ne ila noch
+-0.6021 nein nein </s>
+-0.6021 nein nein nein
+-0.3010 neu laden </s>
+-0.3010 neues beim fussball
+-0.3010 neues in der
+-0.6021 neun uhr </s>
+-0.6021 neun uhr daran
+-0.3010 neunzehn uhr </s>
+-0.3010 neusten schlagzeilen </s>
+-0.3010 news bitte </s>
+-0.3010 nicht cool oder
+-0.3010 nicht mehr zuhoeren
+-0.3010 nichts beibringen </s>
+-0.3010 no problemo </s>
+-0.6021 noch mal </s>
+-0.6021 noch mal von
+-0.3010 nummer drei </s>
+-0.4771 nummer eins </s>
+-0.7782 nummer eins entfernen
+-0.3010 nummer fuenf </s>
+-0.3010 nummer vier </s>
+-0.4771 nummer zwei </s>
+-0.7782 nummer zwei entfernen
+-0.3010 oeffne bing </s>
+-0.3010 oeffne den browser
+-0.8239 oeffne die dritte
+-1.0000 oeffne die einstellungen
+-0.8239 oeffne die erste
+-1.0000 oeffne die zweite
+-0.7782 oeffne eine app
+-0.7782 oeffne eine email
+-0.7782 oeffne eine schlagzeile
+-0.3010 oeffne einstellungen </s>
+-0.3010 oeffne facebook </s>
+-0.3010 oeffne google </s>
+-0.3010 oeffne lol </s>
+-0.3010 oeffne maps </s>
+-0.7782 oeffne meine apps
+-0.7782 oeffne meine lieblingsserie
+-0.7782 oeffne meine schlagzeilen
+-0.3010 oeffne meinen blog
+-0.3010 oeffne twitter </s>
+-0.3010 oeffne und lade
+-0.3010 oeffne youtube </s>
+-0.3010 oeffnen und laden
+-0.3010 ofen auszuschalten </s>
+-0.3010 ofen zu pruefen
+-0.3010 offline spracherkennung aktivieren
+-0.3010 ok bei dir
+-0.3010 ok eine frage
+-0.3010 online rss feed
+-0.3010 online spracherkennung aktivieren
+-0.3010 passiert hier </s>
+-0.3010 paul kalkbrenner </s>
+-0.3010 pc herunterfahren </s>
+-0.6021 persoenliche daten aendern
+-0.6021 persoenliche daten eingeben
+-0.3010 persoenliche nachrichten </s>
+-0.3010 persoenliche news </s>
+-0.3010 persoenlichen nachrichten vor
+-0.3010 persoenlichen news bitte
+-0.3010 physik nachrichten vor
+-0.3010 powerpoint bitte </s>
+-0.3010 programm oeffnen </s>
+-0.3010 programm starten </s>
+-0.3010 pruefe die internet
+-0.3010 qualitaet des sounds
+-0.3010 rede mit mir
+-0.3010 rock mix </s>
+-0.3010 rockt einfach total
+-0.3010 rss feed </s>
+-0.3010 sag deinen namen
+-0.3010 sag mir die
+-0.3010 sagen wie das
+-0.3010 sagen wo wir
+-0.3010 schlafen zu gehen
+-0.3010 schlagzeile ila </s>
+-0.3010 schlagzeilen oeffnen </s>
+-0.3010 schliesse den browser
+-0.3010 schluss fuer heute
+-0.3010 schoen zu hoeren
+-0.3010 schoenste zeit </s>
+-0.3010 sechs uhr </s>
+-0.3010 sei laut </s>
+-0.3010 sei leise bitte
+-0.3010 seite bitte </s>
+-0.3010 serie gucken </s>
+-0.3010 setze einen timer
+-0.6021 sieben uhr </s>
+-0.6021 sieben uhr an
+-0.3010 sieht das wetter
+-0.3010 siehts beim fussball
+-0.3010 siehts in der
+-0.3010 sind die wichtigsten
+-0.3010 sind ein kilo
+-0.6021 sind wir </s>
+-0.6021 sind wir hier
+-0.3010 sinn des lebens
+-0.3010 so kannst </s>
+-0.3010 sollst deutsch sprechen
+-0.3010 sound neu laden
+-0.3010 spiegel online rss
+-0.3010 spiel erinnern </s>
+-0.3010 spiel mir was
+-0.3010 spiel was von
+-0.3010 spiele bitte musik
+-0.4771 spiele etwas musik
+-0.7782 spiele etwas von
+-0.7782 spiele musik </s>
+-0.4771 spiele musik von
+-0.3010 spiele von bosse
+-0.3010 spiele was von
+-0.3010 spielt heute fussball
+-0.3010 spotify nach </s>
+-0.3010 spracherkennung aktivieren </s>
+-0.3010 spracherkennung waehlen </s>
+-0.3010 sprachqualitaet bitte </s>
+-0.3010 sprich deutsch </s>
+-0.6021 sprich englisch </s>
+-0.6021 sprich englisch bitte
+-0.3010 standard spracherkennung waehlen
+-0.3010 standort aktualisieren </s>
+-0.3010 standort laden </s>
+-0.3010 standort und dann
+-0.3010 starte bitte excel
+-0.3010 starte eine app
+-0.6990 starte einen alarm
+-1.0000 starte einen test
+-0.6990 starte einen timer
+-0.3010 starte facebook bitte
+-0.3010 starte lol </s>
+-0.3010 starte matlab </s>
+-0.3010 starte meine lieblingsband
+-0.3010 starte meinen musik
+-0.3010 starte musik von
+-0.3010 starte powerpoint bitte
+-0.3010 starte und oeffne
+-0.3010 starten ila </s>
+-0.3010 starten und oeffnen
+-0.3010 steht das </s>
+-0.3010 steht es aktuell
+-0.3010 steht ila </s>
+-0.3010 stehts beim fussball
+-0.3010 stehts in der
+-0.3010 stripes hoeren </s>
+-0.3010 stunde an das
+-0.3010 stunde daran erinnern
+-0.3010 stunden daran erinnern
+-0.3010 such das im
+-0.3010 such mir eine
+-0.3010 suche alle mitfahrgelegenheiten
+-0.3010 suche bei spotify
+-0.3010 suche bilder </s>
+-0.6021 suche danach im
+-0.6021 suche danach online
+-0.3010 suche das im
+-0.3010 suche den weg
+-0.7782 suche eine bahn
+-0.4771 suche eine zugverbindung
+-0.6021 suche einen bus
+-0.6021 suche einen zug
+-0.3010 suche musik online
+-0.3010 suche nach updates
+-0.3010 suche online </s>
+-0.3010 suche und zeige
+-0.3010 suchen und zeigen
+-0.3010 tag ila </s>
+-0.3010 tag ist heute
+-0.3010 tankstelle und dann
+-0.6021 test der spracherkennung
+-0.6021 test der sprachqualitaet
+-0.3010 teste bitte die
+-0.3010 the white stripes
+-0.3010 timer anhalten </s>
+-0.7782 timer fuer dreissig
+-0.4771 timer fuer eine
+-0.3010 timer in fuenfzehn
+-0.3010 timer laufen gerade
+-0.3010 total cool ila
+-0.3010 treffen morgen um
+-0.3010 tschuess ila </s>
+-0.3010 tv programm </s>
+-0.3010 tv serie </s>
+-0.3010 twitter oeffnen </s>
+-0.3010 twitter seite bitte
+-0.3010 uhr an den
+-0.3010 uhr aufwecken </s>
+-0.3010 uhr daran erinnern
+-0.3010 uhr ist es
+-0.3010 um acht uhr
+-0.3010 um achtzehn uhr
+-0.3010 um drei uhr
+-0.3010 um ein uhr
+-0.3010 um elf uhr
+-0.3010 um fuenf uhr
+-0.3010 um neun uhr
+-0.3010 um sechs uhr
+-0.3010 um sieben uhr
+-0.3010 um vier uhr
+-0.3010 um vierzehn uhr
+-0.3010 um zehn uhr
+-0.3010 um zwanzig uhr
+-0.3010 um zwei uhr
+-0.3010 um zweiundzwanzig uhr
+-0.3010 um zwoelf uhr
+-0.7782 und dann machst
+-0.4771 und dann zeig
+-0.3010 und finde und
+-0.3010 und finden und
+-0.3010 und lade und
+-0.3010 und laden und
+-0.3010 und lesen und
+-0.3010 und oeffne und
+-0.3010 und oeffnen und
+-0.3010 und rede mit
+-0.3010 und reden </s>
+-0.3010 und starte und
+-0.3010 und suche und
+-0.3010 und suchen und
+-0.3010 und tschuess </s>
+-0.3010 und zeige und
+-0.3010 und zeigen und
+-0.6021 uns eine filmserie
+-0.6021 uns eine serie
+-0.6021 unser treffen </s>
+-0.6021 unser treffen morgen
+-0.3010 vergangen ist </s>
+-0.3010 verpasst habe </s>
+-0.3010 verpassten erinnerungen </s>
+-0.3010 versteck dich </s>
+-0.3010 verstehen kannst </s>
+-0.3010 versuche mich an
+-0.3010 viel uhr ist
+-0.3010 viel zeit vergangen
+-0.3010 vier jahren an
+-0.3010 vier uhr </s>
+-0.3010 vierzehn uhr </s>
+-0.3010 vierzig minuten </s>
+-0.3010 von bb king
+-0.3010 von berlin nach
+-0.3010 von bochum nach
+-0.3010 von bosse das
+-0.6021 von deichkind </s>
+-0.6021 von deichkind spielen
+-0.3010 von der arbeit
+-0.3010 von essen nach
+-0.3010 von frankfurt nach
+-0.3010 von hamburg nach
+-0.5229 von hier nach
+-0.6990 von hier zur
+-0.3010 von jimi hendrix
+-0.3010 von kyuss hoeren
+-0.3010 von meiner lieblingsband
+-0.3010 von metallica </s>
+-0.3010 von muenchen nach
+-0.3010 von paul kalkbrenner
+-0.3010 von the white
+-0.3010 von vorne </s>
+-0.3010 von zz top
+-0.3010 vorlesen bitte </s>
+-0.3010 waesche zu holen
+-0.3010 war die schoenste
+-0.3010 warum sind wir
+-0.3010 was beibringen </s>
+-0.6021 was du kannst
+-0.6021 was du so
+-0.3010 was geht ab
+-0.3010 was gibt es
+-0.7782 was gibts im
+-0.7782 was gibts in
+-0.7782 was gibts neues
+-0.3010 was habe ich
+-0.3010 was hast du
+-0.6021 was heisst das
+-0.6021 was heisst ila
+-0.3010 was ist der
+-0.3010 was kannst du
+-0.3010 was laeuft im
+-0.3010 was passiert hier
+-0.3010 was verpasst </s>
+-0.7782 was von bb
+-0.7782 was von meiner
+-0.7782 was von metallica
+-0.3010 web suche </s>
+-0.3010 wechseln bitte </s>
+-0.3010 wecker stellen </s>
+-0.3010 weg bin </s>
+-0.3010 weg dort hin
+-0.3010 weg nach hause
+-1.1461 weg von berlin
+-1.1461 weg von bochum
+-1.1461 weg von der
+-1.1461 weg von essen
+-1.1461 weg von frankfurt
+-0.8451 weg von hier
+-0.3010 weg zum naechsten
+-0.7782 weisst du wie
+-0.4771 weisst du wo
+-0.3010 weit ist es
+-0.3010 welche befehle kannst
+-0.3010 welche erinnerungen hast
+-0.3010 welche timer laufen
+-0.3010 welcher tag ist
+-0.3010 welches datum haben
+-0.3010 welches sind die
+-0.7782 wenn ich gehe
+-0.7782 wenn ich weg
+-0.7782 wenn ich wieder
+-0.3010 wer bin ich
+-0.3010 wer bist du
+-0.3010 wer hat dich
+-0.3010 wer spielt heute
+-0.3010 wetter aus in
+-0.3010 wetter gleich </s>
+-0.3010 wetter heute </s>
+-0.9031 wetter in berlin
+-0.9031 wetter in essen
+-0.9031 wetter in hamburg
+-0.9031 wetter in muenchen
+-0.3010 wetter morgen </s>
+-0.3010 wetter wird </s>
+-0.3010 white stripes hoeren
+-0.3010 wichtigsten befehle die
+-0.3010 wie alt bist
+-0.3010 wie das wetter
+-0.3010 wie geht es
+-0.5643 wie gehts </s>
+-1.0414 wie gehts dir
+-1.0414 wie gehts nach
+-1.3424 wie gehts wie
+-0.3010 wie heisse ich
+-0.3010 wie heisst du
+-0.4771 wie ich heisse
+-0.7782 wie ich nach
+-0.7782 wie ist das
+-0.7782 wie ist dein
+-0.7782 wie ist mein
+-0.3010 wie komme ich
+-0.3010 wie lange dauert
+-0.3010 wie lautet die
+-0.3010 wie sieht das
+-0.6021 wie siehts beim
+-0.6021 wie siehts in
+-0.3010 wie steht es
+-1.0000 wie stehts </s>
+-0.6990 wie stehts beim
+-0.6990 wie stehts in
+-0.4771 wie viel uhr
+-0.7782 wie viel zeit
+-0.3010 wie weit ist
+-0.3590 wie wird das
+-1.2041 wie wird denn
+-0.6021 wieder da </s>
+-0.6021 wieder da bin
+-0.3010 wieder sprechen </s>
+-0.3010 wiedersehen ila </s>
+-0.3010 wieviel gramm sind
+-0.3010 wieviel uhr ist
+-0.3010 will dir nichts
+-0.3010 windows herunterfahren </s>
+-0.3010 wir hier </s>
+-0.3010 wir sind </s>
+-0.3010 wird das wetter
+-0.3010 wird denn eigentlich
+-0.3010 wo arbeite ich
+-0.3010 wo bin ich
+-0.6021 wo ich arbeite
+-0.6021 wo ich wohne
+-0.3010 wo kommst du
+-0.3010 wo sind wir
+-0.3010 wo wir sind
+-0.3010 wo wohne ich
+-0.6021 wofuer steht das
+-0.6021 wofuer steht ila
+-0.3010 wohne ich </s>
+-0.3010 wolfram alpha </s>
+-0.3010 word starten </s>
+-0.3010 wow das ging
+-0.3010 wuerde gerne musik
+-0.4771 zehn minuten </s>
+-0.7782 zehn minuten daran
+-0.3010 zehn uhr </s>
+-1.3291 zeig mir aktuelle
+-1.8062 zeig mir alle
+-1.0280 zeig mir das
+-1.5051 zeig mir deine
+-0.8519 zeig mir den
+-1.2041 zeig mir die
+-1.5051 zeig mir eine
+-1.5051 zeig mir fussball
+-1.8062 zeig mir fussballergebnisse
+-1.8062 zeig mir mal
+-1.8062 zeig mir wie
+-0.6021 zeige alle erinnerungen
+-0.6021 zeige alle verpassten
+-0.6021 zeige das fernsehprogramm
+-0.6021 zeige das tv
+-0.3010 zeige und rede
+-0.3010 zeigen und lesen
+-0.3010 zeigen wie ich
+-0.3010 zeit vergangen ist
+-0.3010 zu deutsch wechseln
+-0.3010 zu englisch wechseln
+-0.3010 zu erinnern </s>
+-0.3010 zu gehen </s>
+-0.3010 zu gucken </s>
+-0.3010 zu hoeren </s>
+-0.3010 zu holen </s>
+-0.3010 zu pruefen </s>
+-0.3010 zug erinnern </s>
+-0.7782 zug von berlin
+-0.7782 zug von essen
+-0.7782 zug von hamburg
+-0.3010 zugverbindung bitte </s>
+-0.7782 zugverbindung von berlin
+-0.7782 zugverbindung von hier
+-0.7782 zugverbindung von muenchen
+-0.3010 zuhoeren bitte </s>
+-0.3010 zum krankenhaus </s>
+-0.3010 zum naechsten krankenhaus
+-0.3010 zur arbeit </s>
+-0.3010 zwanzig minuten </s>
+-0.3010 zwanzig uhr </s>
+-0.3010 zwei entfernen </s>
+-0.6021 zwei jahren </s>
+-0.6021 zwei jahren an
+-0.3010 zwei minuten </s>
+-0.6021 zwei stunden </s>
+-0.6021 zwei stunden daran
+-0.3010 zwei tagen </s>
+-0.3010 zwei uhr </s>
+-0.3010 zweite schlagzeile </s>
+-0.3010 zweiundzwanzig uhr daran
+-0.3010 zwoelf stunden daran
+-0.3010 zwoelf uhr </s>
+-0.3010 zz top </s>
+
+\end\

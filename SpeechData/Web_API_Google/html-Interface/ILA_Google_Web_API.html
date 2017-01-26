@@ -1,0 +1,458 @@
+<!DOCTYPE html>
+
+<meta charset="utf-8" />
+
+<title>ILA Google interface</title>
+<style>
+  * {
+    font-family: sans-serif;
+  }
+  a:link {
+    color:#000;
+  }
+  a:visited {
+    color:#000;
+  }
+  a:hover {
+    color:#33F;
+  }
+  .frame {
+	border: 0px solid black;
+  }
+  .w_space {
+	background-color: #fff;
+	width: 100%;
+	height: 15px;
+	border: 1px solid #000;
+  }
+  .head {
+	text-align: center;
+	background-color: #3285FF;
+	color: #fff;
+	width: 100%;
+	min-height: 60px;
+	border: 1px solid #3285FF;
+  }
+  .sub_head {
+	position: relative;
+	background-color: #1E67CD;
+	color: #fff;
+	font-size: 14px;
+	font-weight: bold;
+	border: 1px solid #1E67CD;
+	width: 98%;
+	min-height: 120px;
+    left: 0px;
+	text-align: center;
+	padding: 1%;
+  }
+  #start_img {
+    float: middle;
+	border: 0;
+	height:64px;
+	margin: -28px 0px;
+	padding: 0;
+  }
+  #start_button {
+	float: middle;
+    background-color: #32FF85;
+    border: 0px solid #32FF85;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 13px;
+    font-weight: bold;
+    text-align: center;
+	width:100px;
+	height:54px;
+	margin: 2px 0px 15px 0px;
+	padding: 0;
+  }
+  #output {
+    position: relative;
+	border: 1px solid #000;
+	width: 98%;
+    left: 0px;
+	padding: 1%;
+    background-color: #fff;
+  }
+  .bottom {
+    position: relative;
+	text-align: center;
+	border: 0px solid black;
+    left: 0px;
+	width: 100%;
+    background-color: #fff;
+  }
+</style>
+
+<script language="javascript" type="text/javascript">
+
+  //var wsUri = "ws://echo.websocket.org/";
+  var wsUri = "ws://localhost:8080/p5websocket";
+  var output;
+  var last_pre;
+  var rec_btn;
+  
+  //OS
+  var is_chrome = ( navigator.userAgent.match(/(Chrome|Chromium)/ig) ? true : false );
+  var is_safari = ( navigator.userAgent.match(/(Safari)/ig) ? true : false );
+  
+  var recognition;
+  var voiceout;
+  var voice_speed = 1.0;
+  var voice_name = "Google US English";
+  var voice_lang = "en-US";
+  var is_speaking = false;
+  var abort_speech = false;
+  var speech_supported = true;
+  var voiceout_supported = true;
+  var language = "en-US";
+  var final_transcript = '';
+  var recognizing = false;
+  var ignore_onend = false;
+  var start_timestamp;
+
+  function init()
+  {
+    output = document.getElementById("output");
+	rec_btn = document.getElementById("start_button");
+    testWebSocket();
+	if (!('speechSynthesis' in window)){
+		voiceout_supported = false;
+	}
+	if (('webkitSpeechRecognition' in window)){
+		recognition = new webkitSpeechRecognition();
+	}else{
+		speech_supported = false;
+		writeToScreen("Speech recognition is not supported by your browser :-( sorry. This interface is optimized for Google Chrome/Chromium but should work with any other browser that supports the web speech API.");
+	}	
+  }
+
+  function testWebSocket()
+  {
+    websocket = new WebSocket(wsUri);
+    websocket.onopen = function(evt) { onOpen(evt) };
+    websocket.onclose = function(evt) { onClose(evt) };
+    websocket.onmessage = function(evt) { onMessage(evt) };
+    websocket.onerror = function(evt) { onError(evt) };
+  }
+
+  function onOpen(evt)
+  {
+    writeToScreen("CONNECTED");
+  }
+
+  function onClose(evt)
+  {
+	recognition.stop();
+    writeToScreen("DISCONNECTED");
+  }
+
+  function onMessage(evt)
+  {
+    writeToScreen('<span style="color: blue;">SERVER: ' + evt.data+'</span>');
+	if (evt.data=="-STOP-"){
+		doSend("-STOPPED-");
+		recognition.stop();
+		writeToScreen('<span style="color: blue;">CLIENT: Recognition -STOPPED- , finalizing ...</span>');
+		writeToScreen(' ');
+	}
+	else if (evt.data=="-START-"){
+		//writeToScreen('<span style="color: blue;">CLIENT: Recognition -STARTED-</span>');
+		//writeToScreen(' ');
+		recognizeSpeech();
+		doSend("-STARTED-");
+	}
+	else if (evt.data=="-CLOSE-"){
+		writeToScreen('<span style="color: blue;">CLIENT: WebSocket -CLOSING-</span>');
+		writeToScreen(' ');
+		doSend("-CLOSING-");
+		websocket.close();
+	}
+	else if (evt.data=="-CLEAR-"){
+		clear();
+	}
+	else if (evt.data.search(/-LANG-/i)>-1){
+		language=evt.data.replace(/-LANG- /i, "");
+		writeToScreen('<span style="color: blue;">CLIENT: Language set to: '+ language);
+		writeToScreen(' ');
+		setVoice();
+		doSend("-LANGUAGE SET-");
+	}
+	else if (evt.data.search(/-SPEAK-/i)>-1){
+		var message=evt.data.replace(/-SPEAK- /i, "");
+		writeToScreen('<span style="color: blue;">CLIENT: Voiceout LOADING.</span>');
+		writeToScreen(' ');
+		setVoice();
+		speak(message);
+		doSend("-SPEAKING-");
+	}
+	else if (evt.data=="-STOP VOICEOUT-"){
+		writeToScreen('<span style="color: blue;">CLIENT: Voiceout STOPPING.</span>');
+		writeToScreen(' ');
+		stopVoiceout();
+	}
+  }
+
+  function onError(evt)
+  {
+	if (typeof evt.data == 'undefined'){
+		writeToScreen('<span style="color: red;">ERROR:</span> ' + "Websocket can't connect to ILA.");
+		writeToScreen(' ');
+		websocket.send('-ERROR- '+ evt.data);
+	}else{
+		writeToScreen('<span style="color: red;">ERROR:</span> ' + evt.data);
+		writeToScreen(' ');
+		websocket.send('-ERROR- ');
+	}
+  }
+  
+  function startButton(event) {
+	  if (recognizing) {
+		recognition.stop();
+		writeToScreen('<span style="color: blue;">CLIENT: Recognition -STOPPED- , finalizing ...</span>');
+		writeToScreen(' ');
+		return;
+	  }
+	  clear();
+	  recognizeSpeech();
+  }
+
+  function doSend(message)
+  {
+    websocket.send(message);
+  }
+  function doSend_with_Log(message)
+  {
+    websocket.send(message);
+	writeToScreen("Sending: " + message);
+  }
+
+  function writeToScreen(message)
+  {
+    var pre = document.createElement("p");
+    pre.style.wordWrap = "break-word";
+    pre.innerHTML = message;
+    output.appendChild(pre);
+	last_pre=pre;
+  }
+  function updateScreen(message)
+  {
+	last_pre.innerHTML = message;
+  }
+  function clear()
+  {
+	output.innerHTML = '';
+  }
+  
+  //Speech recognition
+  function recognizeSpeech()
+  {
+	start_img.src = 'https://sites.google.com/site/ilavoiceassistant/_/rsrc/1434490059490/news-and-comments/ILA_128m.png';
+	rec_btn.style.backgroundColor= '#FF3270';
+	rec_btn.innerHTML = 'STOP';
+	final_transcript = '';
+	ignore_onend = false;
+	recognizing = false;
+	
+	if (!('webkitSpeechRecognition' in window)) {
+		writeToScreen("Recognition not supported by your browser :-(. Please use Google Chrome/Chromium.");
+	} else {
+		writeToScreen('<span style="color: blue;">CLIENT: Recognition -STARTED-</span>');
+		writeToScreen(' ');
+		
+		recognition.continuous = true;
+		recognition.interimResults = true;
+		
+		//ON START
+		recognition.onstart = function(event) {
+			recognizing = true;
+			doSend("-RECORDING-");
+			writeToScreen('<span style="color: red;">-RECORDING- Speak now!</span>');
+			writeToScreen(' ');
+			start_timestamp = event.timeStamp;
+		};
+		
+		//ON ERROR
+		recognition.onerror = function(event) {
+			if (event.error == 'no-speech') {
+				doSend_with_Log('-ERROR- no speech!');
+				writeToScreen(' ');
+				ignore_onend = true;
+			}
+			if (event.error == 'audio-capture') {
+				doSend_with_Log('-ERROR- no microphone found!');
+				writeToScreen(' ');
+				ignore_onend = true;
+			}
+			if (event.error == 'not-allowed') {
+				if (event.timeStamp - start_timestamp < 100) {
+					doSend_with_Log('-ERROR- Permission to use microphone was blocked');
+					doSend_with_Log('-ERROR- To change, go to chrome://settings/contentExceptions#media-stream');
+					writeToScreen(' ');
+				} else {
+					doSend_with_Log('-ERROR- Permission to use microphone was denied');
+					doSend_with_Log('-ERROR- To change, go to chrome://settings/contentExceptions#media-stream');
+					writeToScreen(' ');
+				}
+			ignore_onend = true;
+			}
+			start_img.src = 'https://sites.google.com/site/ilavoiceassistant/_/rsrc/1434490059490/news-and-comments/ILA_128m.png';
+			rec_btn.style.backgroundColor= '#32FF85';
+			rec_btn.innerHTML = 'TEST';
+		};
+		
+		//ON END
+		recognition.onend = function() {
+			recognizing = false;
+			writeToScreen("Final RESULT: ");
+			doSend_with_Log("<final>"+final_transcript);
+			doSend("-END-");
+			writeToScreen('<span style="color: green;">Recording -END-</span>');
+			writeToScreen(' ');
+			start_img.src = 'https://sites.google.com/site/ilavoiceassistant/_/rsrc/1434490059490/news-and-comments/ILA_128m.png';
+			rec_btn.style.backgroundColor= '#32FF85';
+			rec_btn.innerHTML = 'TEST';
+			if (ignore_onend) {
+				writeToScreen('-END- ignore on end');
+				writeToScreen(' ');
+				return;
+			}
+			if (!final_transcript) {
+				writeToScreen('-END- not final transcript(?)');
+				writeToScreen(' ');
+				return;
+			}
+			writeToScreen('');
+    	};
+  
+		//ON RESULT
+		recognition.onresult = function(event) {
+			var interim_transcript = '';
+			for (var i = event.resultIndex; i < event.results.length; ++i) {
+				if (event.results[i].isFinal) {
+					final_transcript += event.results[i][0].transcript;
+				} else {
+					interim_transcript += event.results[i][0].transcript;
+				}
+			}
+			doSend("<final>"+final_transcript);
+			doSend("<interim>"+interim_transcript);
+			updateScreen(final_transcript + " " + interim_transcript);
+		};
+		
+		//recognition.lang = "en-GB";
+		recognition.lang = language;
+		recognition.start();
+		//writeToScreen("Recognizing");
+	}
+  }
+  
+  //Voice Output
+  function setVoice(){
+	if (voiceout_supported){
+		var voices = window.speechSynthesis.getVoices();
+		if (language.match(/(\bDeutsch\b|\bde-DE\b|\bde\b|\bde-)/i) != null){
+			voice_speed = 1.0;
+			voice_name = voices.filter(function(voice) { return (voice.name.match(/(\bDeutsch\b|\bde\b|\bde-DE\b|\bde-)/i) != null); })[0];
+			if (typeof voice_name == 'undefined'){
+				voice_name = "Google Deutsch";
+			}
+			voice_lang = "de-DE";
+
+		}else if (language.match(/(\bEnglish\b|\ben-US\b|\ben\b|\ben-)/i) != null){
+			voice_speed = 1.0;
+			voice_name = voices.filter(function(voice) { return (voice.name.match(/(\bUS English\b|\ben-US\b|\ben\b|\benglish\b|\ben-)/i) != null); })[0];
+			if (typeof voice_name == 'undefined'){
+				voice_name = "Google US English";
+			}
+			voice_lang = "en-US";
+		}
+	}
+  }
+  function speak(message){
+	if (voiceout_supported){
+		abort_speech = false;
+		is_speaking = true;
+		//writeToScreen('<b><u>I.L.A. speaks</u>:</b> ' + message);
+		message = message.replace(/(?:<b>|<\/b>)/g,"").replace(/:-\(|:-\)/g, "").replace("I.D.A.","Ida").replace("I.L.A.","Ila");
+		//max 300 chars
+		var limit = message.match(/[\s\S]{1,290}/g) || [];
+		message = limit[0];
+
+		voiceout = new SpeechSynthesisUtterance();
+		voiceout.text = message;
+		voiceout.rate = voice_speed;
+		voiceout.lang = voice_lang;
+		voiceout.voice = voice_name;
+		voiceout.onend = function(event) { 
+			//writeToScreen('-voice out finished-');
+			is_speaking = false;
+			reportVoiceStop();
+		}
+		voiceout.onerror = function(event) { 
+			//writeToScreen('-voice out finished-');
+			is_speaking = false;
+			reportVoiceStop();
+		}
+		voiceout.onpause = function(event) { 
+			//writeToScreen('-voice out finished-');
+			is_speaking = false;
+			reportVoiceStop();
+		}
+		voiceout.onboundary = function(event) { 
+			//writeToScreen('-voice out finished-');
+			is_speaking = false;
+			reportVoiceStop();
+		}
+		
+		speechSynthesis.cancel();			//abort all running voice out
+		speechSynthesis.speak(voiceout);	//speak now
+	}else{
+		is_speaking = false;
+		reportVoiceStop();
+	}
+  }
+  function reportVoiceStop(){
+	doSend("-VOICEOUT END-");
+  }
+  function isILAspeaking(){
+	return is_speaking;
+  }
+  function stopVoiceout(){
+	if (voiceout_supported){
+		speechSynthesis.cancel();			//abort all running voice out
+	}
+  }
+
+  
+  //on start
+  window.addEventListener("load", init, false);
+
+</script>
+<body>
+
+<div class="frame">
+
+	<div class="w_space"></div>
+
+	<div class="head">
+		<h3>ILA interface for web speech API</h3>
+	</div>
+
+	<div class="sub_head">
+		<p>Please keep this window open while ILA is running.</p>
+		<img id="start_img" src="https://sites.google.com/site/ilavoiceassistant/_/rsrc/1434490059490/news-and-comments/ILA_128m.png" alt="ILA Logo">
+		<button id="start_button" onclick="startButton(event)">TEST</button>
+	</div>
+
+	<div id="output"></div>
+
+</div>
+
+<div class="bottom">
+	<p></p>
+	<a href="http://www.freecounterstat.com" title="free web page counter"><img src="http://counter7.statcounterfree.com/private/freecounterstat.php?c=0d6711163ec5b643bb5b7f17d4e4803b" border="0" title="free web page counter" alt="free web page counter"></a>
+</div>
+
+</body>

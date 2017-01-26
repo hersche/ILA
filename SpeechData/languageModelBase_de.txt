@@ -1,0 +1,486 @@
+Hey ILA
+Hallo
+Hallo ILA
+Guten Morgen
+Guten Morgen ILA
+Hi
+Hi ILA
+guten tag
+guten tag ILA
+tschuess
+tschuess ILA
+schluss fuer Heute
+auf wiedersehen
+auf wiedersehen ILA
+danke und tschuess
+ne ILA noch mal von vorne
+ne ILA noch mal
+ich wiederhole
+ILA ich habe gesagt
+ich habe gesagt
+ich sagte
+nein nein nein
+beenden
+bist du da
+kannst du mich hoeren
+ja
+nein
+ok
+abbrechen
+abort
+jetzt nicht
+abbrechen
+spaeter
+eine Frage
+ok eine frage
+ich habe eine Frage
+wofuer steht das
+was heisst das
+kannst du mir bitte helfen
+danke
+cool
+sorry
+du bist ja nett
+was heisst ILA
+wofuer steht ILA
+na wie gehts
+na
+Wie geht es dir
+Wie gehts
+Hi wie gehts
+was geht ab
+Alles gut
+mal gucken was du kannst
+wie
+warum
+kein Problem
+no problemo
+schoen zu hoeren
+ach so
+gut gut
+Was passiert hier
+wie wird das Wetter Heute
+Wie wird das Wetter Morgen
+Wie wird das Wetter
+wie ist das Wetter in Berlin
+wie ist das Wetter in Muenchen
+zeig mir wie das Wetter in Essen wird
+wie sieht das Wetter aus in Frankfurt
+zeig mir das Wetter in Hamburg
+Matlab starten
+starte Matlab
+starte Powerpoint bitte
+kannst du bitte Word starten
+starte bitte Excel
+wo bin ich
+wo sind wir
+bring mich nach Hause
+Wie komme ich nach Hause
+Wie gehts nach Hause
+zeig mir den Weg nach Hause bitte
+ich suche einen Zug
+finde einen Zug von Essen nach Berlin
+suche eine Zugverbindung von hier zur Arbeit
+finde eine Busverbindung nach Hause
+finde eine Bahnverbindung nach Hause
+gibt es einen Bus von hier nach Hause
+gibt es eine Bahn von hier nach Hause
+zeig mir eine Zugverbindung von Muenchen nach Berlin
+finde einen Zug von Hamburg nach Frankfurt
+suche eine Zugverbindung von Berlin nach Duesseldorf
+finde eine Bahn von Bochum nach Dortmund
+suche einen Bus von Bochum nach Essen
+suche eine Bahn von Essen nach Koeln
+such mir eine Busverbindung bitte
+such mir eine Zugverbindung bitte
+such mir eine Bahnverbindung bitte
+suche alle Mitfahrgelegenheiten nach Berlin bitte
+finde alle Mitfahrgelegenheiten nach Essen bitte
+ich suche einen Bus
+wecker stellen
+was kannst du
+was kannst du so
+was kannst du machen
+Was gibts im TV
+was laeuft im tv
+was gibts im fernsehen
+was laeuft im fernsehen
+zeig mir das fernsehprogramm
+was gibts neues
+aktuelle news
+aktuelle nachrichten
+zeig mir aktuelle nachrichten
+was gibts in den nachrichten
+Kennst du Fussball Ergebnisse
+wie stehts beim fussball
+wie siehts beim fussball aus
+wer spielt heute fussball
+wie stehts in der liga
+was gibts in der bundesliga
+wie siehts in der bundesliga aus
+wer bist du
+wie heisst du
+wie ist dein Name
+wie heisst du nochmal
+sag deinen namen
+suche
+web suche
+wie alt bist du
+bilder
+suche Bilder
+haha manchmal bist du lustig
+du bist lustig
+haha lustig
+was ist der Sinn des Lebens
+warum sind wir hier
+kannst du englisch sprechen
+kannst du deutsch sprechen
+zu deutsch wechseln bitte
+du sollst deutsch sprechen
+sprich deutsch
+sprich englisch
+sprich englisch bitte
+zu englisch wechseln bitte
+ich bin beeindruckt
+wow das ging schnell
+pruefe die internet verbindung
+zeig mir deine Erinnerungen
+wo kommst du her
+alle timer anhalten
+welche timer laufen gerade
+sei leise bitte
+du darfst wieder sprechen
+sei laut
+lern modus anschalten
+lern modus ausschalten
+lern modus aktivieren
+lern modus deaktivieren
+ich moechte dir was beibringen
+ich will dir nichts beibringen
+ich moechte dir nichts beibringen
+energie sparen
+energiesparmodus
+energiesparmodus ein
+energiesparmodus aktivieren
+Energiesparmodus einschalten
+energiesparmodus deaktivieren
+energiesparmodus ausschalten
+energiesparmodus aus
+oeffne google
+oeffne bing
+oeffne maps
+aendere grenzwert fuer spracherkennung
+aendere den grenzwert der spracherkennung
+persoenliche daten aendern
+persoenliche daten eingeben
+wer hat dich geschaffen
+wer hat dich erschaffen
+wer hat dich programmiert
+wer hat dich gemacht
+wie heisse ich
+wer bin ich
+kennst du meinen namen
+kennst du mich
+wie ist mein name
+weisst du wie ich heisse
+weisst du wo ich wohne
+wo wohne ich
+weisst du wo ich arbeite
+wo arbeite ich
+suche danach im web
+suche danach online
+suche das im web
+google das
+ein Programm oeffnen
+ein Programm starten
+email senden
+oeffne eine email
+sound neu laden
+du nervst
+das nervt
+langweilig
+standort laden
+standort aktualisieren
+meinen standort aktualisieren
+aktualisiere standort
+aktualisiere meinen standort
+ach nichts
+nix
+standard Spracherkennung waehlen
+online Spracherkennung aktivieren
+offline Spracherkennung aktivieren
+wieviel Uhr ist es
+wie lautet die Uhrzeit
+welches Datum haben wir
+welcher Tag ist Heute
+was gibt es neues
+wie viel uhr ist es
+such das im web
+versteck dich
+haha
+frag das mal wolfram alpha
+schliesse den browser
+suche bei spotify nach
+zeig mir das fernsehprogramm
+zeig mir fussball ergebnisse
+zeige das tv programm
+zeige das fernsehprogramm
+kennst du arduino
+nicht mehr zuhoeren
+hoer mir zu
+zuhoeren bitte
+suche nach updates
+kannst du dich updaten
+test
+wie gehts dir
+lade Spiegel online rss feed
+lade golem news
+lade persoenliche nachrichten
+lade persoenliche news
+oeffne die erste schlagzeile
+oeffne die zweite schlagzeile
+oeffne die dritte schlagzeile
+lade die neusten schlagzeilen
+den pc herunterfahren
+den computer herunterfahren
+windows herunterfahren
+aendere die sprache
+suche musik online
+suche online
+oeffne eine app
+was gibts neues in der physik
+lade die erste schlagzeile
+lade die zweite schlagzeile
+lade die dritte schlagzeile
+lade meine news
+lade eine schlagzeile
+oeffne eine schlagzeile
+Hey ILA kannst du mir helfen
+Hey ILA zeig mir den Weg von hier nach Hause
+ILA bring mich nach Hause
+hey ILA kannst du mich bitte nach Hause bringen
+ich suche einen Zug von Berlin nach Muenchen
+wie geht es dir ila
+kannst du mir helfen ILA
+bitte zeig mir den aktuellen standort
+hey ILA wie wird das Wetter Heute
+kannst du mir sagen wo wir sind
+kannst du mir sagen wie das wetter wird
+kannst du mir zeigen wie ich nach hause komme
+lade meine persoenlichen news bitte
+oeffne meine schlagzeilen
+oeffne die erste schlagzeile
+lade die zweite schlagzeile 
+oeffne die dritte schlagzeile
+zeig mir mal die erste schlagzeile ILA
+hey ila kannst du bitte meine aktuellen schlagzeilen oeffnen
+ila bitte lade die aktuellen nachrichten
+ila kannst du bitte musik spielen
+kannst du bitte musik von deichkind spielen
+spiele bitte musik von metallica
+ich wuerde gerne musik von the white stripes hoeren
+spiele bitte musik von jimi hendrix
+spiele etwas musik bitte
+starte meinen musik mix
+oeffne lol
+lade lol
+starte lol
+kannst du bitte lol starten ILA
+starte einen Alarm in zehn minuten
+setze einen timer fuer dreissig minuten
+starte einen timer in fuenfzehn minuten
+setze einen timer fuer eine stunde
+kannst du bitte in fuenfzehn minuten einen alarm starten
+starte einen timer fuer eine stunde
+spiele etwas von Deichkind
+alles ok bei dir
+hey ILA welche Befehle kannst du verstehen
+welches sind die wichtigsten Befehle die du verstehen kannst
+zeig mir eine liste deiner Befehle
+wieviel Gramm sind ein Kilo
+erst machst du dies und dann machst du das bitte
+wie wird denn eigentlich das Wetter gleich
+wie weit ist es zur Arbeit
+wie lange dauert es bis zur Arbeit
+kannst du mir etwas vorlesen bitte
+hey ILA lies meine persoenlichen Nachrichten vor 
+hey ILA lies bitte die aktuellen physik nachrichten vor
+du kannst starten und oeffnen und laden und finden und suchen und zeigen und lesen und reden
+also lies und starte und oeffne und lade und finde und suche und zeige und rede mit mir
+hey ILA dies ist ein Test
+starte einen Test der Sprachqualitaet bitte
+dies ist ein Test der Spracherkennung
+teste bitte die qualitaet des sounds
+starte eine App
+durchsuche meine Apps nach einem Taschenrechner
+hey ILA aktualisiere meinen Standort und dann zeig mir den Weg nach Hause
+finde erst die naechste Tankstelle und dann zeig mir den Weg dort hin
+bring mich zum Krankenhaus
+zeig mir den weg zum naechsten Krankenhaus
+mal gucken was du so kannst
+na alles ok
+was hast du drauf ILA
+wie gehts wie stehts
+was geht ab ILA
+spiel mir was von BB King
+starte musik von paul kalkbrenner
+Jimi Hendrix rockt einfach total
+du bist total cool ILA
+ist das nicht cool oder
+spiele von Bosse das war die schoenste Zeit
+zuhoeren bitte
+kannst du mir zuhoeren bitte
+oeffne die Einstellungen
+Einstellungen
+starte Facebook bitte
+oeffne Facebook
+lade meine Facebook Seite
+lade meine Twitter Seite bitte
+oeffne Twitter
+lade meinen Blog bitte
+oeffne meinen Blog
+kannst du bitte meinen Blog laden
+kannst du bitte Facebook oeffnen
+bitte Twitter oeffnen
+oeffne meine apps liste
+ich moechte eine Filmserie gucken
+ich moechte eine Serie gucken
+lass uns eine Serie gucken
+lass uns eine Filmserie gucken
+kennst du eine gute TV Serie
+lade eine TV Serie
+oeffne meine Lieblingsserie
+starte meine Lieblingsband
+spiele Musik von meiner Lieblingsband
+spiel was von meiner Lieblingsband
+zeig mir den Weg von hier zur Arbeit
+zeig mir den Weg von der Arbeit nach Hause
+suche den Weg nach Hause
+suche den Weg von Essen nach Berlin
+zeig mir den Weg von Frankfurt nach Hamburg
+finde den Weg von Berlin nach Muenchen
+finde den Weg von Bochum nach Essen
+minute
+minuten
+sekunde
+sekunden
+stunde
+stunden
+tag
+tage
+uhr
+komma
+punkt
+doppelpunkt
+die erste
+die zweite
+die dritte
+der erste
+der zweite
+der dritte
+das erste
+das zweite
+das dritte
+der letzte
+die letzte
+das letzte
+eins
+zwei
+drei
+vier
+fuenf
+sechs
+sieben
+acht
+neun
+zehn
+elf
+zwoelf
+dreizehn
+vierzehn
+fuenfzehn
+sechzehn
+siebzehn
+achtzehn
+neunzehn
+zwanzig
+einundzwanzig
+zweiundzwanzig
+dreiundzwanzig
+vierundzwanzig
+fuenfundzwanzig
+dreissig
+fuenfunddreissig
+vierzig
+fuenfundvierzig
+nummer eins
+nummer zwei
+nummer drei
+nummer vier
+nummer fuenf
+in einer minute
+in zwei minuten
+in drei minuten
+in fuenf minuten
+in zehn minuten
+in fuenfzehn minuten
+in zwanzig minuten
+in dreissig minuten
+in vierzig minuten
+in fuenfundvierzig minuten
+in einer stunde
+in zwei stunden
+in drei stunden
+in einem tag
+in zwei tagen
+in drei tagen
+in einem jahr
+in zwei jahren
+in drei jahren
+um ein uhr
+um zwei uhr
+um drei uhr
+um vier uhr
+um fuenf uhr
+um sechs uhr
+um sieben uhr
+um acht uhr
+um neun uhr
+um zehn uhr
+um elf uhr
+um zwoelf uhr
+um zwanzig uhr
+beim starten
+beim beenden
+irgendwann
+wenn ich gehe
+wenn ich wieder da bin
+wenn ich weg bin
+kannst du mich in einer stunde daran erinnern den ofen auszuschalten
+kannst du mich in zwei stunden daran erinnern die kinder abzuholen
+kannst du mich in drei stunden daran erinnern die waesche zu holen
+kannst du mich bitte in zwoelf stunden daran erinnern schlafen zu gehen
+erinnere mich in einem jahr an den geburtstag
+erinnere mich in zwei jahren an unser treffen
+erinnere mich in drei jahren daran wie viel zeit vergangen ist
+erinnere mich bitte in vier jahren an diesen moment
+erstelle eine erinnerung fuer uebermorgen
+erstelle eine erinnerung fuer morgen
+erstelle eine erinnerung fuer heute um achtzehn uhr
+erstelle eine erinnerung fuer heute zwanzig uhr
+erstelle bitte eine erinnerung fuer morgen neunzehn uhr
+erinnere mich in dreissig minuten daran den fernseher einzuschalten
+kannst du mich bitte in einer stunde an das spiel erinnern
+kannst du mich bitte um zweiundzwanzig uhr daran erinnern das konzert zu gucken
+kannst du mich bitte um sieben uhr an den zug erinnern
+kannst du mich bitte um acht uhr aufwecken
+kannst du mich bitte um neun uhr daran erinnern aufzustehen
+entferne erinnerung nummer eins
+entferne bitte erinnerung nummer zwei
+entferne erinnerung nummer drei
+kannst du bitte erinnerung nummer eins entfernen
+kannst du erinnerung nummer zwei entfernen
+erinnere mich an unser treffen morgen um zehn uhr
+erinnere mich bitte an das meeting morgen um vierzehn uhr
+erinnere mich bitte in zehn minuten daran den ofen zu pruefen
+erinnere mich bitte in fuenfzehn minuten daran den herd auszuschalten

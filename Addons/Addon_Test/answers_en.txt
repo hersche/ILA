@@ -1,0 +1,11 @@
+test_addon;<1>I tested the add-on and it worked
+test_addon;<2>The add-on test worked <username>
+test_addon;<100>yes it still works <username>
+test_addon;<200>come on how often do you want me to check if it works?
+test_addon_switch_super_context;<1>Alright I switched the super context to addon test.
+test_addon_switch_super_context;<100>super context is still addon test.
+test_addon_switch_super_context;<200>we just did that. No need to do it again.
+test_addon_end_super_context;<1>Alright I quit the addon super context test.
+test_addon_super_context0;<1>Congratulation you reached the super context addon test. Proceed?
+test_addon_super_context1a;<1>Sorry but there is nothing to do yet.
+test_addon_super_context1b;<1>Ok maybe later.

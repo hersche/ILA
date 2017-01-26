@@ -1,0 +1,26 @@
+#JSGF V1.0;
+
+grammar input;
+
+public <command> = 	[open|start] (<programs>) [please];
+
+<programs> = 
+windows|
+linux|
+mac|
+arduino|
+creo|
+creo elements|
+[adobe|pdf] reader|
+matlab|
+igor|
+imagej|
+calculator|
+[microsoft] word|
+[microsoft] powerpoint|
+[microsoft] excel|
+spotify|
+music player|
+firefox|
+facebook|
+itunes;

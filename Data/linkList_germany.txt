@@ -1,0 +1,49 @@
+<geolocation>		http://ip-api.com/xml	code=5,7,13,11,15,17,19,21,29
+<google1>		https://www.google.de/search?q=***
+<google0>		http://google.de
+<bing1>			https://www.bing.com/search?q=***
+<bing0>			http://bing.com
+<wikisearch1><noUTF><space:_>	http://de.wikipedia.org/wiki/Special:Search/***
+<wikisearch0>			http://de.wikipedia.org
+<wolframsearch1>	http://www.wolframalpha.com/input/?i=***
+<wolframsearch0>	http://www.wolframalpha.com
+<defaultsearch1>	https://www.google.de/search?q=***
+<defaultsearch0>	https://www.google.de
+<amazon1>		http://www.amazon.de/s/keywords=***
+<amazon0>		http://www.amazon.de
+<checkprice1>		http://www.idealo.de/preisvergleich/MainSearchProductCategory.html?q=***
+<checkprice0>		http://www.idealo.de
+<pictures1>		https://www.bing.com/images/search?q=***
+<pictures0>		https://www.flickr.com/explore/
+<videos1>		https://www.youtube.com/results?search_query=***
+<videos0>		https://www.youtube.com
+<location2>		https://www.google.de/maps/search/***
+<location1>		http://maps.google.de/maps?saddr=loc:***+***
+<location0>		https://www.google.de/maps/search/Mein+Standort
+<direction1>		http://maps.google.de/maps?saddr=***&daddr=***
+<direction0>		https://www.google.de/maps/
+<trainsearch1>		http://reiseauskunft.bahn.de/bin/query.exe/dn?REQ0JourneyStopsS0A=3&S=***&REQ0JourneyStopsZ0A=3&Z=***&REQ0&start=1
+<trainsearch0>		http://reiseauskunft.bahn.de
+<mitfahrgelegenheit2><noUTF><space:->	http://www.blablacar.de/mitfahren/***/***/#?fn=***&tn=***&db=***
+<mitfahrgelegenheit1><noUTF><space:->	http://www.blablacar.de/mitfahren/***/***/#?fn=***&tn=***
+<mitfahrgelegenheit0>			http://www.blablacar.de
+<weatherT>		http://openweathermap.org/find?q=***
+<weatherW>		http://openweathermap.org/find?q=***
+<weather0>		https://weather.yahoo.com/
+<musicsearch1>		http://www.jango.com/music/***
+<musicsearch0>		http://www.jango.com
+<transvocable1>		http://www.dict.cc/?s=***
+<transvocable0>		http://www.dict.cc
+<soccer0>		http://www.sport1.de/de/fussball/
+<soccerplayer1>		http://www.transfermarkt.de/schnellsuche/ergebnis/schnellsuche?query=***
+<soccerplayer0>		http://www.transfermarkt.de
+<news0>			http://www.bing.com/news
+<tvprogram0>		http://www.tvspielfilm.de/tv-programm/sendungen/jetzt.html
+<personalfeedmain>  <lang:de>	http://www.spiegel.de/schlagzeilen/tops/index.rss
+<personalfeedsports><lang:de>	http://www.sportschau.de/sportschauindex100_type-rss.feed
+<personalfeedteam>  <lang:de>	http://rss.kicker.de/team/werderbremen
+<personalfeedgames> <lang:de>	http://golem.de.dynamic.feedsportal.com/pf/578068/http://rss.golem.de/rss.php?tp=games&feed=RSS2.0
+<personalfeedmusic> <lang:de>	http://www.rollingstone.de/news/?widget=rssfeed&view=feed&contentId=123346
+<personalfeedcinema><lang:de>	http://www.cinema.de/kino/neu-im-kino/rss.xml
+<personalfeedtech>  <lang:de>	http://www.weltderphysik.de/RSS-Forschung
+<personalfeedphysics><lang:en>	http://phys.org/rss-feed/breaking/physics-news/physics/

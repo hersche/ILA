@@ -1,0 +1,11 @@
+xbmc_kodi_controls_0;<1>Sorry <username> I hab kein Zugriff auf den Kodi Player irgendwie.
+xbmc_kodi_controls_stop0;<1><username> es sieht so aus als läuft da nix in Kodi.
+xbmc_kodi_controls_stop1;<1>Alles klar, hab die Musik angehalten.
+xbmc_kodi_controls_stop2;<1>Ok, hab das Video beendet.
+xbmc_kodi_controls_stop3;<1>Kein Problem ich stoppe die Bilder Ansicht.
+xbmc_kodi_controls_stop4;<1>Sorry ich bin etwas verwirrt. Ich kann nicht erkennen was Kodi gerade abspielt.
+xbmc_kodi_controls_play0;<1>Sorry aber der Ordner, den du mir gezeigt hast scheint nicht zu existieren.
+xbmc_kodi_controls_play0b;<1>Sorry aber ich konnte nix abspielen. Vielleicht ein Problem mit dem Ordner oder der Verbindung.
+xbmc_kodi_controls_play1;<1>Ok los gehts.
+xbmc_kodi_controls_play1;<2>Alles klar, dann lass uns mal ein wenig gute Musik hören.
+xbmc_kodi_controls_play1;<3>Ok hab deine Playlist gestartet..

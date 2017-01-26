@@ -1,0 +1,384 @@
+#JSGF V1.0;
+
+grammar dialog;
+
+<greet> = [[hi|hello|hey|good day|good morning] [ila]|ok ila|hey ila];
+
+<basic_command> = can you hear me							|
+				 [how is|show] [the] weather [at home|at work] |
+				 (start|load) [a|the] program				|
+				 (start|open) [a|the] <programs>			|
+				 [send|start|create|write|open] [an] email [to <names>] |
+				 [start|play] [some] music					|
+				 [what's|what is] my name					|
+				 do you know my name						|
+				 my name is <names>							|
+				 where do i live							|
+				 do you know where i live					|
+				 where do i work							|
+				 do you know where i work					|
+				 [(what's|what is) the [current]] time		|
+				 (what's|what is) on (tv|television)		|
+				 [show] [the] tv program					|
+				 update [my] [current] location				|
+				 where am i									|
+				 show [my] location							|
+				 bring me home								|
+				 get directions								|
+				 (get directions|show me the way|bring me) from (here|work|home) to (here|work|home)	|
+				 [find a] (bus|train) from (here|work|home) to (here|work|home)	|
+				 open [the|a] map							|
+				 (get|find|show) directions					|
+				 find a (bus|train)							|
+				 [at] my place | [at] [my] home | [at] [my] work | here					|
+				 set a timer (to|for) <numbers> minutes 	|
+				 set a timer (to|for) <numbers> hours 		|
+				 set a timer (to|for) <numbers> seconds 	|
+				 stop all timers							|
+				 abort continuous speech					|
+				 activate continuous speech					|
+				 activate hey ila recognition				|
+				 set [the] [default] speech engine			|
+				 activate advanced speech recognition 		|
+				 switch to basic speech recognition 		|
+				 (shutdown|shut down) [the] (computer|pc)	|
+				 yes|no										|
+				 abort|cancel								|
+				 thank you [and goodbye]					|
+                 exit|goodbye|bye|see you [later]	 		;
+
+<polite> = [please];
+
+<names> = (alexander|azize|carla|christian|christoph|elke|florian|isabella|manuel|mathias|marvin|michael|mehdi|jens|jessica|jessy|johannes|joe|stefan|frank|klaus|uwe|simon|tommy|thomas|benedikt|philipp|dennis|wolfgang);
+
+<programs> = (windows|linux|mac|arduino|creo|creo elements|[adobe|pdf] reader|matlab|igor|imagej|calculator|[microsoft] word|[microsoft] powerpoint|[microsoft] excel|
+			spotify|music player|firefox|facebook);
+
+<numbers> = (one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|twenty|twenty five|thirty|thirty five|forty|forty five);
+
+<old_command> = <greet> | [<basic_command> [<polite>]] | <teachit>;
+public <command> = <greet> | [<greet>] <basic_command> [<polite>] | [<greet>] <teachit> [<polite>];
+
+<teachit> = 
+nan|
+hi|
+hi ila|
+hey|
+good morning|
+good morning ila|
+hello|
+hello ila|
+ila|
+i repeat|
+no ila let's start again|
+ila i said|
+i said|
+no no no|
+bye|
+goodbye|
+good-bye|
+ok bye bye|
+bye bye|
+see you|
+see you later|
+end|
+quit|
+exit|
+done|
+can you hear me|
+ok let's go|
+ok sounds good|
+yes|
+yes i will|
+ok|
+no|
+no i won't|
+abort|
+cancel|
+one question|
+i have a question|
+a question|
+can i ask you something|
+what does that mean|
+what does it mean|
+can you help me please|
+thanks|
+cool|
+sorry|
+you are nice|
+thank you|
+what does ila stand for|
+how are you|
+how are you today|
+what's up ila|
+let's see what you can do|
+how|
+why|
+no problemo|
+no problem|
+nice to hear|
+can you show me the weather|
+what is the weather like tomorrow|
+what is the weather like today|
+how is the weather today|
+how is the weather tomorrow|
+how is the weather|
+show the weather|
+where am i|
+where are we|
+show my location|
+update my location|
+bring me home|
+i'm looking for a train|
+i am looking for a bus|
+set an alarm|
+what can you do|
+whats on tv|
+what is on tv|
+whats on the television|
+show the tv program|
+show tv program|
+test|
+what's on the news|
+what's on the news today|
+show me the news|
+news|
+do you know soccer results|
+who is playing soccer today|
+show me the bundesliga results|
+who is playing in the bundesliga today|
+who are you|
+what's your name again|
+what is your name|
+what's your name|
+say your name|
+google|
+how old are you|
+what is your age|
+pictures|
+search pictures|
+you are funny|
+you're so funny sometimes|
+what is the meaning of life|
+why are we here|
+can you speak english|
+can you speak german|
+switch to german please|
+can you speak german please|
+speak german please|
+switch the language|
+change the language|
+switch language to german|
+speak english please|
+switch to english please|
+change language to english|
+change language to australian|
+change language to british|
+change language to canadian|
+change language to indian|
+wow that was fast|
+i am impressed|
+check internet connection|
+are you connected to the internet|
+show me your memory|
+where are you from|
+start recording|
+stop recording|
+stop all timers|
+are there timers running|
+show all running timers|
+quiet please|
+be quiet|
+be silent|
+talk to me|
+you may speak again|
+be loud|
+silent mode off|
+disable teach mode|
+stop learning|
+start learning|
+activate teach mode|
+teach mode off|
+teach mode on|
+deactivate teach mode|
+enable teach mode|
+i would like to teach you|
+i don't want to teach you|
+save some power|
+save power|
+save energy|
+go to power saver mode|
+energy saver mode on|
+energy saver mode off|
+go to full power|
+energy saving off|
+power saving off|
+open google|
+open bing|
+open maps|
+change voice threshold|
+set voice threshold|
+set a new voice threshold|
+set personal data|
+enter personal data|
+who created you|
+who made you|
+who programmed you|
+whats my name|
+what is my name|
+who am i|
+do you know me|
+do you know my name|
+do you know where i live|
+where do i live|
+where do i work|
+do you know where i work|
+google that|
+search that online|
+search it on the web|
+can you search that on the web|
+search that on the web|
+search it on the web|
+open a program|
+start a program|
+start program|
+send email|
+open email|
+reload audio engine|
+reload sound engine|
+that's annoying|
+boring|
+it's annoying|
+update geo location|
+update location|
+update my location|
+nothing|
+set default speech engine|
+activate advanced speech recognition|
+switch to basic speech recognition|
+thank you and goodbye|
+set speech engine|
+whats the time|
+what is the time|
+what day is it|
+whats the date today|
+whats the date|
+how is it going|
+good|
+how are you feeling|
+hide yourself|
+any news on cats|
+close last process|
+close the browser|
+hey ho|
+run a self test|
+shutdown windows|
+ask this wolfram alpha|
+ask that online|
+search music of the best guitar player ever|
+do you know arduino|
+please update my location|
+date|
+time|
+search for updates|
+look for updates|
+stop listening|
+start to listen|
+listen to me|
+open headline three|
+open headline two|
+open headline one|
+search music online|
+open a headline|
+load a headline|
+open my news|
+load my personal news|
+give me some physics news|
+my name|
+what are you able to do|
+what can i ask you|
+play music|
+play some music|
+i would like to hear some music|
+can you play some music|
+music|
+i'd like to hear some music|
+can you show me the tv program|
+do a speaker adaptation|
+search online|
+open settings|
+open the settings|
+can you update my location|
+check for updates|
+open the browser|
+show me some sports news|
+show me the third headline|
+open the third headline|
+show me the second headline|
+open the second headline|
+show me the first headline|
+open the first headline|
+can you open a program|
+i'd say you are pretty cool don't you think|
+read me some sports news|
+read me some science news|
+show me some science news|
+show me some music news|
+can you tell me what time it is|
+i wonder what you can do|
+read me my personal news|
+help|
+open facebook|
+open youtube|
+read me the news|
+show me the weather|
+test accuracy|
+everything alright|
+set a timer|
+set a timer please|
+close all timers|
+show all timers|
+stop a timer|
+set a reminder|
+show all reminders|
+remove a reminder|
+show all missed reminders|
+remove all reminders i've missed|
+remove reminder number|
+can you remind me of something|
+what did i miss|
+did i miss something|
+show me all reminders|
+can you remove this reminder|
+show me the active reminders|
+remove reminder|
+remind me to attend the meeting|
+remove all missed reminders|
+i'm leaving|
+i'm gone for a while|
+i'm back|
+i'm trying to remember a birthday|
+i have to leave|
+show reminders|
+good day|
+i have to go|
+do you have the latest soccer results|
+can you get directions|
+do you know|
+who is|
+what is|
+calculate|
+you are|
+you are cool|
+no you are cool|
+open the first|
+open the second|
+open the third|
+load the first|
+load the second|
+load the third|
+read me the recent news|
+show me the recent news|
+i guess you're right|
+whats the sense of life|
+make some noise;

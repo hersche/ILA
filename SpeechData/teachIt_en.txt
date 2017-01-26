@@ -1,0 +1,342 @@
+you're so funny sometimes;conversation;funny
+you may speak again;command;silentOff
+you are nice;conversation;thx
+you are funny;conversation;funny
+you are cool;customs;customconversation;no, you are cool;no, you are cool;no, you are cool;no, you are cool;I guess you are right :-)
+you are (a);customs;customconversation;you think so;maybe;if you say so;might be
+yes i will;command;ok
+yes;command;ok
+wow that was fast;conversation;impressed
+why are we here?;conversation;meaningoflife
+why?;conversation;why
+who programmed you?;conversation;creator
+who made you?;conversation;creator
+who is playing soccer today?;search;fussball
+who is playing in the bundesliga today;customs;customsearch;http://www.sport1.de/dynamic/datencenter/sport/ergebnisse/fussball/bundesliga/
+who is (the|a);search;wikisearch;<dialog, q: who is who?>
+who created you?;conversation;creator
+who are you?;conversation;name
+who am I?;conversation;sayusername
+where do I work?;conversation;sayuserwork
+where do I live?;conversation;sayuserhome
+where are you from?;conversation;wherefrom
+where are we?;search;location
+where am I?;search;location
+what's your name again?;conversation;name
+what's your name?;conversation;name
+what's up ila?;conversation;hdyd
+what's the time;command;saytime
+what's the date today;command;saytime
+what's on TV?;search;TVProgram
+what's on the television?;search;TVProgram
+what's on the news today?;search;news
+what's on the news?;search;news
+what's my name?;conversation;sayusername
+what is your name?;conversation;name
+what is your age?;conversation;age
+what is the weather like tomorrow;search;weatherW
+what is the weather like today;search;weatherT
+what is the time;command;saytime
+what is the meaning of life?;conversation;meaningoflife
+what is on TV?;search;TVProgram
+what is my name?;conversation;sayusername
+what is (the|a);search;google;<dialog, q: what is what?>
+what does that mean?;conversation;extendedQuestion
+what does it mean?;conversation;extendedQuestion
+what does ILA stand for?;conversation;ILA
+what did i miss;command;showmissedreminders
+what day is it;command;saytime
+what can you do;conversation;abilities
+what can i ask you;conversation;abilities
+what are you able to do;conversation;abilities
+ussa;command;usspeakeradaption
+update my location;command;updategeolocation
+update location;command;updategeolocation
+update geolocation;command;updategeolocation
+time;command;saytime
+thx;conversation;thx
+that's annoying;conversation;annoying
+thanks;conversation;thx
+thank you and goodbye;conversation;bye
+thank you;conversation;thx
+test accuracy;command;testaccuracy
+test;command;test
+teach mode on;command;teachmodeon
+teach mode off;command;teachmodeoff
+teach;command;openteaching
+talk to me;command;silentOff
+switch to german please;command;switchlangde
+switch to english please;command;switchlangen
+switch to basic speech recognition;command;setspeechengine;2
+switch language to German;command;switchlangde
+stop recording;command;recordstop
+stop listening;command;stopheyila
+stop learning;command;teachmodeoff
+stop all timers;command;stoptimer
+stop a timer;command;stoptimer;<numbers, q: which one should I stop?>
+start to listen;command;startheyila
+start recording;command;recordstart
+start program;command;openprogram
+start learning;command;teachmodeon
+start a program;command;openprogram
+sports news;command;loadpersonalfeed;sport
+speak german;command;switchlangde
+speak german please;command;switchlangde
+speak english please;command;switchlangen
+sorry;conversation;sorry
+silent mode off;command;silentOff
+shutdown windows;customs;executecmd;shutdown /s /t 30 /f;ok I'll shutdown windows in 30 seconds
+show TV program;search;TVProgram
+show the weather;search;weatherT
+show the TV program;search;TVProgram
+show reminders;command;showreminders
+show my location;search;location
+show me your memory;command;showmemory
+show me the weather;search;weatherT
+show me the third headline;command;openrssfeedlink;3
+show me the second headline;command;openrssfeedlink;2
+show me the recent news;command;loadpersonalfeed;main
+show me the news;search;news
+show me the german bundesliga;customs;customsearch;http://www.sport1.de/dynamic/datencenter/sport/ergebnisse/fussball/bundesliga/
+show me the first headline;command;openrssfeedlink;1
+show me the bundesliga results;customs;customsearch;http://www.sport1.de/dynamic/datencenter/sport/ergebnisse/fussball/bundesliga/
+show me the active reminders;command;showreminders
+show me some sports news;command;loadpersonalfeed;sport;let's check the sports news
+show me some science news;command;loadpersonalfeed;science
+show me some music news;command;loadpersonalfeed;music
+show me all reminders;command;showreminders
+show all timers;command;showtimer
+show all running timers;command;showtimer
+show all reminders;command;showreminders
+show all missed reminders;command;showmissedreminders
+set voice threshold;command;voicethreshold
+set speech engine;command;setspeechengine
+set personal data;conversation;personaldata
+set default speech engine;command;setspeechengine
+set an alarm;command;alarm
+set a reminder;command;setreminder
+set a new voice threshold;command;voicethreshold
+send email;command;openemail
+see you later;conversation;bye
+search that online;search;searchlast
+search that on the web;search;searchlast
+search spotify (for);customs;customsearch;https://play.spotify.com/search/***;<music, ask: what should I look for?>;searching spotify
+search pictures;search;pictures
+search online (for);customs;customsearch;https://www.google.com/search?q=***;<dialog, Q: what do you want me to search?>
+search music online (of|from);customs;customsearch;https://play.spotify.com/search/***;<music, ask: what should I look for?>
+search music of the best guitar player ever;search;musicsearch;Jimi Hendrix
+search it on the web;search;searchlast
+search for updates;customs;customsearch;https://sites.google.com/site/ilavoiceassistant;let's have a look at my homepage;we should check my homepage for updates
+say your name;conversation;name
+save some power;command;savepower
+save power;command;savepower
+save energy;command;savepower
+run a self test;command;test
+remove reminder (number);command;stopreminder;<numbers, q: which one do you want to remove?>
+remove all reminders i've missed;command;stopmissedreminders
+remove all missed reminders;command;stopmissedreminders
+remove a reminder;command;stopreminder
+remind me to attend the meeting;command;setreminder;don't forget to attend the meeting;<numbers, q: when do you want me to remind you?>
+reload sound engine;command;reloadsystem
+reload audio engine;command;reloadsystem
+read me the recent news;command;loadpersonalfeed;main
+read me the news;command;loadpersonalfeed
+read me some sports news;command;loadpersonalfeed;sports
+read me some science news;command;loadpersonalfeed;science
+read me my personal news;command;loadpersonalfeed
+quit;command;exit
+quiet please;command;silent
+power saving off;command;savepoweroff
+play some music (of|from);search;musicsearch;<music, Q: what can I play for you?>
+play music (of|from);search;musicsearch;<music, Q: What do you want to hear?>
+pictures;search;pictures
+optimize ila memory files;command;optimize_memory_files
+open youtube;customs;customsearch;https://www.youtube.com;let's watch something funny please;ok let's watch some videos;ok I'll open Youtube
+open the third headline;command;openrssfeedlink;3
+open the settings;command;opensettings
+open the second headline;command;openrssfeedlink;2
+open the first headline;command;openrssfeedlink;1
+open the browser;customs;customsearch;www.google.com;ok opening the web browser
+open settings;command;opensettings
+open my news;command;loadpersonalfeed
+open maps;search;location
+open headline two;command;openrssfeedlink;2
+open headline three;command;openrssfeedlink;3
+open headline one;command;openrssfeedlink;1
+open google;search;google
+open facebook;customs;customsearch;https://www.facebook.com/;ok let's see what your friends are up to;ok let's do some facebooking
+open email;command;openemail
+open browser;customs;customsearch;www.google.com
+open bing;search;bing
+open a program;command;openprogram
+open a headline;command;openrssfeedlink;<numbers, Q: which headline do you want to read?>
+one question;conversation;startQuestion
+ok sounds good;command;ok
+ok let's go;conversation;ok
+ok bye bye;conversation;bye
+ok;command;ok
+np;conversation;flosculus
+nothing;command;abort
+no you are cool;customs;customconversation;no, you are cool
+no problemo;conversation;flosculus
+no problem;conversation;flosculus
+no i won't;command;abort
+no;command;abort
+nice to hear;conversation;flosculus
+news;search;news
+NaN;conversation;NaN
+my name;conversation;sayusername
+music (of|from);search;musicsearch;<music, Q: what music?>
+look for updates;customs;customsearch;https://sites.google.com/site/ilavoiceassistant/home;you can check my homepage for updates;ok I'll check for updates on my homepage
+load my personal news;command;loadpersonalfeed
+load a program;command;openprogram
+load a headline;command;openrssfeedlink;<numbers, Q: what's the headline you want to read?>
+listen to me;command;startheyila
+let's see what you can do;conversation;challenge
+it's annoying;conversation;annoying
+i'm trying to remember a birthday;conversation;contactbirthday
+I'm looking for a train;search;trainsearch
+i'm leaving;conversation;userleaves
+i'm gone for a while;conversation;userleaves
+i'm back;conversation;userreturned
+ILA?;conversation;hello
+i'd say you are pretty cool don't you think;customs;customconversation;thank's a lot man :-)
+i'd like to hear some music (of|from);search;musicsearch;<music, Q: ok, what would you like to hear?>
+i would like to teach you;command;teachmodeon
+i would like to hear some music (of|from);search;musicsearch;<music, Q: what would you like to hear?>
+i wonder what you can do;conversation;abilities
+i have to leave (in);command;setreminder;you have to leave now;<dialog, q: oh, when do you have to leave?>
+i have to go (in);command;setreminder;sorry, but you have to go now I guess;<numbers, q: oh, when do you have to go?>
+i have a question;conversation;startQuestion
+i don't want to teach you;command;teachmodeoff
+I am looking for a bus;search;trainsearch
+i am impressed;conversation;impressed
+how old are you?;conversation;age
+how is the weather tomorrow?;search;weatherW
+how is the weather today?;search;weatherT
+how is the weather?;search;weatherT
+how is it going;conversation;hdyd
+how are you today;conversation;hdyd
+how are you feeling;conversation;hdyd
+how are you?;conversation;hdyd
+how?;conversation;how
+hey ho;customs;customconversation;let's go;let's go. hey. ho. let's go
+hide yourself;command;hideyourself
+Hi;conversation;hello
+hey;conversation;hello
+help;customs;customsearch;https://sites.google.com/site/ilavoiceassistant/;let me open my homepage there you can find a lot of infos about me
+Hello;conversation;hello
+google that;search;searchlast
+google;search;google
+goodbye;conversation;bye
+good-bye;conversation;bye
+Good morning;conversation;hello
+good day;conversation;hello
+good bye;conversation;bye
+good;conversation;thx
+go to power saver mode;command;savepower
+go to full power;command;savepoweroff
+give me some physics news;command;loadpersonalfeed;physics
+find a train (from|to);search;trainsearch;<locations, Q: where do you want to start?>;<locations, Q: and where do you want to go?>
+exit;command;exit
+everything alright;conversation;hdyd
+enter personal data;conversation;personaldata
+energy saving off;command;savepoweroff
+energy saver mode on;command;savepower
+energy saver mode off;command;savepoweroff
+end;command;exit
+enable teach mode;command;teachmodeon
+done;conversation;done
+do you like movies;customs;customconversation;I love movies!;Oh yes I do. Especially the ones about AIs.
+do you like ();customs;customconversation;well I'm not sure;what do you think;I can't remember;maybe. Maybe not.
+do you know where I work?;conversation;sayuserwork
+do you know where I live?;conversation;sayuserhome
+do you know soccer results?;search;Fussball
+do you know my name?;conversation;sayusername
+do you know me?;conversation;sayusername
+do you know arduino;customs;customconversation;oh yes arduino is great;I hope I'll get to know arduino better some time
+do you know (the|a);search;google;<dialog, q: what do I know?>
+do you have the latest soccer results;command;loadrssfeed;http://rss.kicker.de/live/bundesliga
+do a speaker adaptation;command;usspeakeradaption
+disable teach mode;command;teachmodeoff
+did i miss something;command;showmissedreminders
+deactivate teach mode;command;teachmodeoff
+deactivate power saving mode;command;savepoweroff
+date;command;saytime
+cu;conversation;bye
+cool;conversation;thx
+close the browser;command;closebrowser
+close last process;customs;endprocess
+close all timers;command;stoptimer
+check internet connection;command;iconnected
+check for updates;customs;customsearch;https://sites.google.com/site/ilavoiceassistant/downloads;ok I'll check my homepage for updates
+change voice threshold;command;voicethreshold
+change language to indian;command;switchlangin
+change language to english;command;switchlangen
+change language to canadian;command;switchlangca
+change language to british;command;switchlanguk
+change language to australian;command;switchlangoz
+cancel;command;abort
+can you update my location;command;updategeolocation
+can you tell me what time it is;command;saytime
+can you speak german?;conversation;languages
+can you speak german please;command;switchlangde
+can you speak english?;conversation;languages
+can you show me the weather;search;weatherT
+can you show me the tv program;search;tvprogram
+can you search that on the web;search;searchlast
+can you remove this reminder;command;stopreminder
+can you remind me of something;command;setreminder
+can you play some music (of|from);search;musicsearch;<music, Q: of cause what is it you'd like to hear?>
+can you open the settings;command;opensettings
+can you open a program;command;openprogram
+can you help me please?;conversation;needhelp
+can you hear me?;conversation;hearMe
+can you get directions;search;direction
+can I ask you something?;conversation;startQuestion
+calculate;search;bing;<dialog, q: what do you want to calculate?>
+bye bye;conversation;bye
+bye;conversation;bye
+bring me home;search;direction;myLocation;home
+boring;conversation;annoying
+be silent;command;silent
+be quiet;command;silent
+be loud;command;silentOff
+batch test twenty;addon;batchaccuracytest;Test\16kHz_en;20;ok Boss i've plottet the final result to CMD
+batch test;addon;batchaccuracytest;Test\16kHz_en;2000;ok Boss i've plottet the final result to CMD
+ask this wolfram alpha;search;askthiswolfram
+ask that online;search;askthiswolfram
+are you connected to the internet?;command;iconnected
+are there timers running;command;showtimer
+any news on cats;search;videos;cats
+amt;command;opentraining
+add on batch test;addon;batchaccuracytest;Test\16kHz_en;3;ok boss
+activate teach mode;command;teachmodeon
+activate advanced speech recognition;command;setspeechengine;1
+activate addon test super context;addon;test_addon_switch_super_context
+abort;command;abort
+a question;conversation;startQuestion
+<you_are_cool>you're right;customs;customconversation;ha ha ha you won. But do you dare to play longer?
+<you_are_cool>you are right;customs;customconversation;ha ha ha you won. But do you dare to play longer?
+<you_are_cool>i guess you're right;customs;customconversation;ha ha ha you won. But do you dare to play longer?
+<you_are_cool>I guess you are right;customs;customconversation;ha ha ha you won. But do you dare to play longer?
+<weather> and in essen;search;weatherT;Essen
+<weather> and (in);search;weatherT;<dialog, q: and where?>
+<weather> and;search;weatherT;<dialog, q: and where?>
+<sc: default>quit super context;customs;customconversation;no super context active
+<sc: addon_test>quit super context;addon;test_addon_end_super_context
+<loadpersonalfeed> open the third;command;openrssfeedlink;3
+<loadpersonalfeed> open the second;command;openrssfeedlink;2
+<loadpersonalfeed> open the first;command;openrssfeedlink;1
+<loadpersonalfeed> open the 3rd;command;openrssfeedlink;3
+<loadpersonalfeed> open the 2nd;command;openrssfeedlink;2
+<loadpersonalfeed> open the 1st;command;openrssfeedlink;1
+<loadpersonalfeed> load the third;command;openrssfeedlink;3
+<loadpersonalfeed> load the second;command;openrssfeedlink;2
+<loadpersonalfeed> load the first;command;openrssfeedlink;1
+<loadpersonalfeed> load the 3rd;command;openrssfeedlink;3
+<loadpersonalfeed> load the 2nd;command;openrssfeedlink;2
+<loadpersonalfeed> load the 1st;command;openrssfeedlink;1
+<default> and;customs;customconversation;and? and what? and where? ha ha ha
+whats the sense of life;customs;customconversation;42?;what should i know about that?;ask a human you trust;ask yourself whats the specific sense of your life is.
+make some noise;customs;customconversation;bäm bäm bäm buuuum;wääääääuuuuuu;no, i dont like to do so.;why?

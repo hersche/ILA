@@ -1,0 +1,26 @@
+#JSGF V1.0;
+
+grammar input;
+
+public <command> = [in|auf|zu|von|bei|nach] (<locations>) ;
+
+<locations> = 
+hier|
+bei mir|
+mein standort|
+meinem standort|
+[mein|meinem] zu hause|
+zuhause|
+nach hause|
+[mein|meiner|meine] arbeit|
+berlin|
+muenchen|
+essen|
+duisburg|
+duesseldorf|
+dortmund|
+bochum|
+koeln|
+london|
+paris|
+amsterdam;

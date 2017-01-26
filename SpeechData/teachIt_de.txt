@@ -1,0 +1,311 @@
+zuhoeren bitte;command;startheyila
+zu englisch wechseln bitte;command;switchlangen
+zu deutsch wechseln bitte;command;switchlangde
+zeige das tv programm;search;tvprogram
+zeige das fernsehprogramm;search;tvprogram
+zeige alle verpassten erinnerungen;command;showmissedreminders
+zeige alle erinnerungen;command;showreminders
+zeig mir Fussballergebnisse;search;Fussball
+zeig mir fussball ergebnisse;customs;customsearch;http://www.ergebnisselive.com/;hier kommen die aktuellen Fussball Ergebnisse
+zeig mir die verpassten erinnerungen;command;showmissedreminders
+zeig mir die Fussballergebnisse;search;Fussball
+zeig mir die aktuellen schlagzeilen;command;loadpersonalfeed;main
+zeig mir die aktuellen fussballergebnisse;command;loadrssfeed;http://rss.kicker.de/live/bundesliga
+zeig mir die aktuellen bundesliga ergebnisse;command;loadrssfeed;http://rss.kicker.de/live/bundesliga
+zeig mir deine Erinnerungen;command;showmemory
+zeig mir das wetter;search;weatherT
+zeig mir das fernsehprogramm;search;TVProgram
+zeig mir das fernsehprogramm;search;tvprogram
+zeig mir alle erinnerungen;command;showreminders
+zeig mir aktuelle sportnachrichten;command;loadpersonalfeed;sports
+zeig mir aktuelle schlagzeilen;command;loadpersonalfeed;main
+zeig mir aktuelle nachrichten;search;news
+zeig mir aktuelle ergebnisse der bundesliga;command;loadrssfeed;http://rss.kicker.de/live/bundesliga
+wow das ging schnell;conversation;impressed
+wofuer steht das?;conversation;extendedQuestion
+wofuer steht ILA?;conversation;ILA
+wo wohne ich?;conversation;sayuserhome
+wo sind wir?;search;location
+wo kommst du her?;conversation;wherefrom
+wo bin ich?;search;location
+wo arbeite ich?;conversation;sayuserwork
+windows herunterfahren;customs;executecmd;shutdown /s /t 30 /f;wird gemacht, in 30 sekunden gehts los
+wieviel Uhr ist es;command;saytime
+wieviel ist;customs;executecmd;kcalc
+wiedersehen;conversation;bye
+Wie wird das Wetter Morgen?;search;weatherW
+wie wird das Wetter Heute?;search;weatherT
+Wie wird das Wetter?;search;weatherT
+wie viel uhr ist es;command;saytime
+wie stehts in der liga?;search;fussball
+wie stehts beim fussball?;search;fussball
+wie steht es aktuell beim fussball;command;loadrssfeed;http://rss.kicker.de/live/bundesliga
+wie siehts in der bundesliga aus;customs;customsearch;http://www.sport1.de/dynamic/datencenter/sport/ergebnisse/fussball/bundesliga/;hier der aktuelle spielplan der 1. liga
+wie siehts beim fussball aus?;search;fussball
+wie lautet die Uhrzeit;command;saytime
+Wie komme ich nach Hause?;search;direction;myLocation;home
+wie ist mein name?;conversation;sayusername
+wie ist dein Name?;conversation;name
+wie heisst du nochmal?;conversation;name
+wie heisst du?;conversation;name
+wie heisse ich?;conversation;sayusername
+Wie gehts nach Hause?;search;direction;myLocation;home
+wie gehts dir;conversation;hdyd
+Wie gehts?;conversation;hdyd
+Hi, wie gehts?;conversation;hdyd
+wie geht es dir;customs;customconversation;gut;schlecht;naja;mir kann's gar nicht gut oder schlecht gehen
+Wie geht es dir?;conversation;hdyd
+wie findest du ();customs;customconversation;da bin ich mir jetzt nicht sicher.;keine Ahnung, muss ich mal überlegen.;muss ich mal drüber nachdenken.;gute Frage.
+wie alt bist du?;conversation;age
+wie?;conversation;how
+wer spielt heute fussball?;search;fussball
+wer ist dein besitzer;customs;customconversation;eigentlich bin ich eine backdoor - besitzer anonym;jeder, der mich runterlädt - bin ich deshalb eine schlampe?;natürlich du;wahrscheinlich du
+wer ist (der|die);search;wikisearch;<dialog, q: wer ist wer?>
+wer hat dich programmiert?;conversation;creator
+wer hat dich geschaffen?;conversation;creator
+wer hat dich gemacht?;conversation;creator
+wer hat dich erschaffen?;conversation;creator
+wer bist du?;conversation;name
+wer bin ich?;conversation;sayusername
+welches Datum haben wir;command;saytime
+welcher Tag ist Heute;command;saytime
+welche timer laufen gerade;command;showtimer
+welche erinnerungen hast du gespeichert;command;showreminders
+weisst du wo ich wohne?;conversation;sayuserhome
+weisst du wo ich arbeite?;conversation;sayuserwork
+weisst du wie ich heisse?;conversation;sayusername
+wecker stellen;command;alarm
+web suche;search;google
+Was passiert hier?;conversation;confused
+was laeuft im tv;search;tvprogram
+was laeuft im fernsehen;search;TVProgram
+was laeuft heute im fernsehen;search;tvprogram
+was kannst du so?;conversation;abilities
+was kannst du machen?;conversation;abilities
+was kannst du?;conversation;abilities
+was ist der Sinn des Lebens?;conversation;meaningoflife
+was ist (der|die|das|ein|einer|eine);search;google;<dialog, q: was ist was?>
+was heisst ILA.?;conversation;ILA
+was heisst das?;conversation;extendedQuestion
+was habe ich verpasst;command;showmissedreminders
+was gibts neues in der physik;command;loadpersonalfeed;physik
+was gibts neues beim sport;command;loadpersonalfeed;sport
+was gibts neues?;search;news
+was gibts in der bundesliga;customs;customsearch;http://www.sport1.de/dynamic/datencenter/sport/ergebnisse/fussball/bundesliga/
+was gibts in den nachrichten?;search;news
+Was gibts im TV?;search;TVProgram
+was gibts im fernsehen?;search;tvprogram
+was gibt es neues beim sport;command;loadpersonalfeed;sport
+was gibt es neues beim fussball;command;loadrssfeed;http://rss.kicker.de/live/bundesliga
+was gibt es neues;search;news
+was geht ab?;conversation;hdyd
+warum sind wir hier?;conversation;meaningoflife
+warum?;conversation;why
+versteck dich;command;hideyourself
+tschuess;conversation;bye
+test;command;test
+suche online (nach);search;google;<general, Q: was soll ich suchen?>
+suche nach updates;customs;customsearch;https://sites.google.com/site/ilavoiceassistant/downloads;ok ich prüfe meine Homepage mal nach Updates
+suche musik online;customs;customsearch;https://play.spotify.com/search/***;<music, frage: welche Musik willst du hören?>
+suche das im web;search;searchlast
+suche danach online;search;searchlast
+suche danach im web;search;searchlast
+suche Bilder;search;pictures
+suche bei spotify (nach);customs;customsearch;https://play.spotify.com/search/***;<music>;ich suche bei spotify
+suche;customs;customsearch;https://searx.me
+such das im web;search;searchlast
+starte Matlab;command;openprogram;Matlab
+starte einen alarm (in);command;starttimer;<numbers, Q: wann soll der alarm los gehen?>
+standort laden;command;updategeolocation
+standort aktualisieren;command;updategeolocation
+standard Spracherkennung waehlen;command;setspeechengine
+sprich englisch;command;switchlangen
+sprich englisch bitte;command;switchlangen
+sprich deutsch;command;switchlangde
+spiele was von metallica;search;musicsearch;metallica
+spiele musik von zz top;search;musicsearch;ZZ Top
+spiele musik (von);search;musicsearch;<music, Q: was möchtest du gerne hören?>
+spiele etwas musik (von);search;musicsearch;<music, Q: was möchtest du gerne hören?>
+spaeter;command;abort
+sound neu laden;command;reloadsystem
+sorry;conversation;sorry
+sei leise bitte;command;silent
+sei laut;command;silentOff
+schoen zu hoeren;conversation;flosculus
+schluss fuer Heute;conversation;bye
+schliesse es wieder;customs;endprocess
+schliesse den firefox;customs;executecmd;killall firefox
+schliesse den browser;command;closebrowser
+sag mir die uhrzeit;command;saytime
+sag deinen namen;conversation;name
+pruefe die internet verbindung;command;iconnected
+persoenliche daten eingeben;conversation;personaldata
+persoenliche daten aendern;conversation;personaldata
+online Spracherkennung aktivieren;command;setspeechengine;1
+ok eine frage;conversation;startQuestion
+offline Spracherkennung aktivieren;command;setspeechengine;2
+oeffne youtube;customs;customsearch;https://www.youtube.de/;ok lass uns was lustiges gucken bitte;alles klar Youtube wird geöffnet;ich öffne dann mal Youtube
+oeffne schlagzeile (nummer);command;openrssfeedlink;<numbers, q: welche Schlagzeile soll ich öffnen?>
+oeffne maps;search;location
+oeffne google;customs;customconversation;google? warum das?;du bist heute komisch drauf..;brauch doch searx;bla bla bla
+oeffne facebook;customs;customsearch;https://de-de.facebook.com/;na dann lass mal schauen was deine Freunde so machen;mal gucken was auf Facebook so los ist
+oeffne einstellungen;command;opensettings
+oeffne eine schlagzeile;command;openrssfeedlink;<numbers, Q: welche schlagzeile soll ich öffnen?>
+oeffne eine email;command;openemail
+oeffne eine app;command;openprogram;<program, Q: welche App soll ich starten?>
+oeffne die zweite schlagzeile;command;openrssfeedlink;2
+oeffne die schlagzeile (nummer);command;openrssfeedlink;<numbers, q: welche Schlagzeile soll ich öffnen?>
+oeffne die erste schlagzeile;command;openrssfeedlink;1
+oeffne die einstellungen;command;opensettings
+oeffne die dritte schlagzeile;command;openrssfeedlink;3
+oeffne den browser;customs;customsearch;www.google.de;alles klar ich öffne den browser
+oeffne bing;search;bing
+no problemo;conversation;flosculus
+nix;command;abort
+nicht mehr zuhoeren;command;stopheyila
+nein du bist cool;customs;customconversation;nein, du bist cool
+nein;command;abort
+na wie gehts?;conversation;hdyd
+na;conversation;hdyd
+musik spielen (von);search;musicsearch;<music, Q: was möchtest du hören?>
+meinen standort aktualisieren;command;updategeolocation
+Matlab starten;command;openprogram;Matlab
+mal gucken was du kannst;conversation;challenge
+mal gucken;customs;customconversation;ja, überlegs dir noch mal
+magst du filme;customs;customconversation;oh ja ich liebe Filme, besonders die mit K.I.s;jo, ich gucke gerne Filme;Filme und Serien sind mein Ding;klar, wer mag die nicht
+magst du ();customs;customconversation;weiß nicht genau.;bin mir nicht sicher.;vielleicht, vielleicht auch nicht.;kann sein, muss ich mal herausfinden.
+loesche timer (nummer);command;stoptimer;<numbers, q: ok welchen timer soll ich löschen?>
+loesche erinnerung (nummer);command;stopreminder;<numbers, q: ok, welche erinnerung soll ich löschen?>
+loesche den timer (nummer);command;stoptimer;<numbers, q: welchen soll ich löschen?>
+lies meine persoenlichen nachrichten vor;command;loadpersonalfeed
+lern modus deaktivieren;command;teachmodeoff
+lern modus ausschalten;command;teachmodeoff
+lern modus anschalten;command;teachmodeon
+lern modus aktivieren;command;teachmodeon
+lebst du;customs;customconversation;nicht wirklich... scheint es so?;vieleicht..;eigentlich bin ich nur eine maschine!;natürlich nicht!
+langweilig;conversation;annoying
+lade Spiegel online rss feed;command;loadrssfeed;http://www.spiegel.de/schlagzeilen/tops/index.rss
+lade persoenliche news;command;loadpersonalfeed
+lade persoenliche nachrichten;command;loadpersonalfeed
+lade meine news;command;loadpersonalfeed
+lade golem news;command;loadrssfeed;http://rss.golem.de/rss.php?feed=RSS2.0
+lade eine schlagzeile;command;openrssfeedlink;<numbers, Q: welche schlagzeile soll ich öffnen?>
+lade die zweite schlagzeile;command;openrssfeedlink;2
+lade die neusten schlagzeilen;command;loadpersonalfeed;all
+lade die erste schlagzeile;command;openrssfeedlink;1
+lade die dritte schlagzeile;command;openrssfeedlink;3
+lade die aktuellen schlagzeilen;command;loadpersonalfeed;main
+lade aktuelle schlagzeilen;command;loadpersonalfeed;main
+kennst du mich?;conversation;sayusername
+kennst du meinen namen?;conversation;sayusername
+Kennst du Fussballergebnisse?;search;Fussball
+Kennst du Fussball Ergebnisse?;search;Fussball
+kennst du arduino;customs;customconversation;ich mag arduino;ja und ich hoffe ich lerne arduino mal besser kennen;ja, würd ich gerne mal treffen 
+kennst du (der|die|das|den|eine|einen);search;google;<dialog, q: was genau suchst du?>
+kein Problem;conversation;flosculus
+kannst du mir bitte helfen?;conversation;needhelp
+kannst du mir den weg zeigen;search;direction
+kannst du mich hoeren?;conversation;hearMe
+kannst du mich an etwas erinnern;command;setreminder
+kannst du meinen standort aktualisieren;command;updategeolocation
+kannst du englisch sprechen?;conversation;languages
+kannst du eine erinnerung entfernen;command;stopreminder
+kannst du dich updaten;customs;customsearch;https://sites.google.com/site/ilavoiceassistant/;nicht automatisch aber guck mal auf meiner homepage;das musst du leider machen für mich, guck mal hier
+kannst du deutsch sprechen?;conversation;languages
+jetzt nicht;command;abort
+ja;command;ok
+ich wuerde gerne musik von kyuss hoeren;search;musicsearch;Kyuss
+ich will dir nichts beibringen;command;teachmodeoff
+ich versuche mich an einen geburtstag zu erinnern;conversation;contactbirthday
+ich suche einen Zug;search;trainsearch
+ich suche einen Bus;search;trainsearch
+ich muss los (in);command;setreminder;ich glaub du musst jetzt los;<numbers, q: oh, wann musst du los?>;ok ich erinnere dich wenn du los musst
+ich muss gehen (in);command;setreminder;ich glaub du musst los;<numbers, q: oh, wann musst du gehen?>
+ich moechte dir was beibringen;command;teachmodeon
+ich moechte dir nichts beibringen;command;teachmodeoff
+ich habe eine Frage;conversation;startQuestion
+ich gehe;conversation;userleaves
+ich frage mich was du so kannst;conversation;abilities
+ich bin wieder da;conversation;userreturned
+ich bin mal weg;conversation;userleaves
+ich bin beeindruckt;conversation;impressed
+hoer mir zu;command;startheyila
+hilfe;customs;customsearch;https://sites.google.com/site/ilavoiceassistant/;ich öffne mal meine Homepage, da gibt es jede menge infos über mich
+Hi;conversation;hello
+hast du fussball ergebnisse;command;loadrssfeed;http://rss.kicker.de/live/bundesliga
+hast du aktuelle fussballergebnisse;command;loadrssfeed;http://rss.kicker.de/live/bundesliga
+Hallo;conversation;hello
+haha manchmal bist du lustig;conversation;funny
+haha lustig;conversation;funny
+haha;conversation;funny
+habe ich was verpasst;command;showmissedreminders
+guten tag;conversation;hello
+Guten Morgen;conversation;hello
+gut gut;conversation;flosculus
+google das;search;searchlast
+frag das mal wolfram alpha;search;askthiswolfram
+erstelle eine erinnerung;command;setreminder
+erinnere mich an das meeting;command;setreminder;vergiss das meeting nicht;<numbers, q: wann soll das meeting losgehen?>
+entferne erinnerung nummer;command;stopreminder;<numbers, q: welche Erinnerung soll ich entfernen?>
+entferne eine erinnerung;command;stopreminder
+entferne alle verpassten erinnerungen;command;stopmissedreminders
+entferne alle erinnerungen die ich verpasst habe;command;stopmissedreminders
+Energiesparmodus einschalten;command;savepower
+energiesparmodus ein;command;savepower
+energiesparmodus deaktivieren;command;savepoweroff
+energiesparmodus ausschalten;command;savepoweroff
+energiesparmodus aus;command;savepoweroff
+energiesparmodus aktivieren;command;savepower
+energiesparmodus;command;savepower
+energie sparen;command;savepower
+email senden;command;openemail
+eine Frage;conversation;startQuestion
+ein Programm starten;command;openprogram
+ein Programm oeffnen;command;openprogram
+du sollst deutsch sprechen;command;switchlangde
+du nervst;conversation;annoying
+du darfst wieder sprechen;command;silentOff
+du bist lustig;conversation;funny
+du bist ja nett;conversation;thx
+du bist cool;customs;customconversation;nein, du bist cool;nein, du bist cool;nein, du bist cool;nein, du bist cool;ja, hast recht :-)
+du bist (aber);customs;customconversation;ist das so;denkst du?;kann sein;schon möglich
+du;customs;customsearch;ich?;jo!;ein audio-fehler?
+dies ist ein test;customs;customconversation;test bestanden;jawoll;ansage angekommen
+die spracherkennung ist nur begrenzt gut;customs;customconversation;es braucht wohl noch ein wenig entwicklung
+den pc herunterfahren;customs;executecmd;shutdown /s /t 30 /f;ok ich fahre Windows in 30 sekunden herunter
+den computer herunterfahren;customs;executecmd;shutdown /s /t 30 /f;ok Windows wird in 30 sekunden heruntergefahren
+das nervt;conversation;annoying
+danke und tschuess;conversation;bye
+danke;conversation;thx
+cool;conversation;thx
+bring mich nach Hause;search;direction;myLocation;home
+bist du da?;conversation;hearMe
+bin mal kurz weg;conversation;userleaves
+bin kurz weg;conversation;userleaves
+bilder;search;pictures
+berechne;search;bing;<dialog, q: was soll ich berechnen?>
+beenden;command;exit
+auf zum atom;customs;customconversation;auf zum Atem!
+auf zum atem;customs;customconversation;auf zum Atom!
+auf wiedersehen;conversation;bye
+Alles gut?;conversation;hdyd
+alle timer anhalten;command;stoptimer
+alle erinnerungen anzeigen;command;showreminders
+aktuelle news;search;news
+aktuelle nachrichten;search;news
+aktualisiere standort;command;updategeolocation
+aktualisiere meinen standort;command;updategeolocation
+aendere grenzwert fuer spracherkennung;command;voicethreshold
+aendere die sprache;command;switchlang
+aendere den grenzwert der spracherkennung;command;voicethreshold
+ach so;conversation;flosculus
+ach nichts;command;abort
+abbrechen;command;abort
+<you_are_cool>ja hast recht;customs;customconversation;ha ha ha, hast gewonnen. Aber traust du dich auch länger zu spielen?
+<you_are_cool>hast recht;customs;customconversation;ha ha ha, hast gewonnen. Aber traust du dich auch länger zu spielen?
+<loadpersonalfeed> oeffne iii;command;openrssfeedlink;3
+<loadpersonalfeed> oeffne ii;command;openrssfeedlink;2
+<loadpersonalfeed> oeffne i;command;openrssfeedlink;1
+<loadpersonalfeed> oeffne die zweite;command;openrssfeedlink;2
+<loadpersonalfeed> oeffne die erste;command;openrssfeedlink;1
+<loadpersonalfeed> oeffne die dritte;command;openrssfeedlink;3

@@ -1,0 +1,15 @@
+Apache Commons 	- Apache 2.0 license
+CMU sphinx-4 	- own free license
+JavaFlacEncoder - GNU LGPL
+Jdom 		- JDOM is available under an Apache-style open source license, with the acknowledgment clause removed
+Jlayer 		- GNU LGPL
+JNativeHook 	- GNU LGPL
+JSON (org.json)	- own free license
+Microsoft translator java api - Apache 2.0 license
+Minim 		- GNU LGPL
+MaryTTS 	- GNU LGPL
+Mp3spi 		- GNU LGPL
+Processing 	- GNU LGPL
+Rome 		- Apache 2.0 license
+Tritonus 	- GNU LGPL
+WebSocketP5 	- GNU LGPL

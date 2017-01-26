@@ -1,0 +1,44 @@
+#JSGF V1.0;
+
+grammar input;
+
+<names> = (boss|ila|alexander|azize|carla|christian|christoph|elke|florian|isabella|manuel|mathias|marvin|michael|mehdi|jens|jessica|jessy|johannes|joe|stefan|frank|klaus|uwe|simon|tommy|thomas|benedikt|philipp|dennis|wolfgang);
+
+<programs> = (windows|linux|mac|arduino|creo|creo elements|[adobe|pdf] reader|matlab|igor|imagej|calculator|[microsoft] word|[microsoft] powerpoint|[microsoft] excel|
+			spotify|music player|firefox|facebook|itunes);
+
+<numbers> = (point|one|the first|number one|two|the second|number two|three|the third|number three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|twenty|twenty five|thirty|thirty five|forty|forty five);
+
+<music> = (metallica|jimi hendrix|hendrix|[the] white stripes|kings of leon|beatsteaks|usher|jay z|[the] roots|justin timberlake|kyuss|deichkind|
+			slayer|katy perry|rihanna|bruno mars|cro|michael jackson|eminem|beyonce|shakira|ac dc|[the] rolling stones|bosse|sting|the police|
+			madonna|bob dylan|bob marley|daft punk|nirvana|bb king|zz top);
+
+<languages> = (english|german|turkish|french|spanish);
+
+<locations> = (here|[my] work|[my] home|at home|my place|pharmacy|supermarket|hospital|berlin|essen|duisburg|munich|hamburg|frankfurt|cologne|duesseldorf|london|paris|amsterdam|new york|chicago|los angeles|san francisco);
+
+<other> = (golem|wiki);
+
+<polite> = [please|thank you|thanks];
+
+<confirm> = (yes|no|abort|confirm|confirmed|ok);
+
+<conversation> = (good|not so good|bad|rather bad|well|pretty good|fantastic|great|fine);
+
+<correction> =
+i repeat|
+no ila let's start again|
+ila i said|
+i said|
+no no no;
+
+public <command> = 	[my name is] <names> | 
+					<programs> |
+					<numbers> [seconds|minutes|hours|days] |
+					<music> |
+					<languages> |
+					<locations> |
+					<other> |
+					<confirm> |
+					<conversation> <polite> |
+					(<correction>);

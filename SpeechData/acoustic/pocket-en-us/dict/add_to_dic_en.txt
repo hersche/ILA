@@ -1,0 +1,172 @@
+http://www.speech.cs.cmu.edu/cgi-bin/cmudict
+http://svn.code.sf.net/p/cmusphinx/code/trunk/cmudict/
+
+Base: new cmudict-0??
+----------------------
+matlab  M AE T L AE B
+matlab(2)  M AA T L AA B
+creo  K R IY OW
+imagej  IH M AH JH JH EY
+imagej(2)  IH M IH JH JH EY
+azize  AH Z IY Z EH
+mehdi(2)  M EH HH D IY
+jens(2)  Y EH N Z
+elke  EH L K AH
+problemo  P R AA B L AH M AA
+bundesliga  B AH N D IH S L IH G AH
+bundesliga(2)  B UH N D IH S L IH G AH
+powerpoint  P AW ER P OY N T
+onedrive  W AH N D R AY V
+onedrive(2)  HH W AH N D R AY V
+spotify  S P AA T IY F AY
+firefox  F AY ER F AA K S
+arduino  AA R D UW IY N OW
+goodbye(2)  G UH UH D B AY
+goodbye(3)  G UW D B AY
+pdf  P IY D IY EH F
+beatsteaks  B IY T S T EY K S
+kyuss  K AY AH S
+deichkind  D AY K IH N D
+deichkind(2)  D AY SH K IH N D
+rihanna  R IY AE N AH
+eminem  EH M IY N EH M
+bosse(2)  B AA S EH
+customizable  K AH S T AH M AY Z AH B AH L
+ila(2)  IH L AA		//removed
+ila(3)  IH L AH		//removed
+ila(4)  IY L AA
+rss  AA R EH S EH S
+adaption  AH D AE P T SH AH N
+lol(2)  L OW L
+lol(3)  L AA L
+mozilla  M OW Z IH L AH
+commands(2)  K AH M AH N D Z
+command(2)  K AH M AH N D
+bb  B IY B IY
+readme  R IY D M IY
+zz  Z IY Z IY
+cu  S IY Y UW
+geolocation  JH IY OW L OW K EY SH AH N
+thx  TH AE NG K S
+ussa  Y UW EH S EH S EY
+amt  EY EH M T IY
+np  EH N P IY
+add-on  AE D AH N
+add-on(2)  AE D AA N
+add-on(3)  AE D AO N
+addon  AE D AH N
+addon(2)  AE D AA N
+addon(3)  AE D AO N
+addons  AE D AA N Z
+add-ons  AE D AO N Z
+roboy  R OW B OY 
+heyila  HH EY IY L AA
+heyila(2)  HH EY IY L AH
+
+
+Base: cmudict-0.7b
+-------------------
+PC		P IY S IY		//now by default in 0.7b
+GOOGLE		G UW JH G AH L		//this one too
+GOODBYE(2)  	G UH UH D B AY
+GOODBYE(3)  	G UW D B AY
+MATLAB		M AE T L AE B
+MATLAB(2)	M AA T L AA B
+CREO    	K R IY OW
+IMAGEJ          IH M AH JH
+ JH EY
+IMAGEJ(2)       IH M IH JH JH EY
+AZIZE           AH Z IY Z EH
+MEHDI(2)        M EH HH D IY
+JENS(2)		Y EH N Z
+ELKE		EH L K AH
+PROBLEMO        P R AA B L AH M AA
+BUNDESLIGA	B AH N D IH S L IH G AH
+BUNDESLIGA(2)	B UH N D IH S L IH G AH
+POWERPOINT	P AW ER P OY N T
+ONEDRIVE  	W AH N D R AY V
+ONEDRIVE(2)  	HH W AH N D R AY V
+NBA		EH N B IY EY
+WIKIPEDIA	W IY K IY P IY D IY AH
+WIKI		W IY K IY
+SPOTIFY		S P AA T IY F AY
+FIREFOX		F AY ER F AA K S
+ARDUINO		AA R D UW IY N OW
+FACEBOOK	F EY S B UH K
+PDF		P IY D IY EH F
+BEATSTEAKS	B IY T S T EY K S
+KYUSS		K AY AH S
+DEICHKIND	D AY K IH N D
+DEICHKIND(2)	D AY SH K IH N D
+RIHANNA		R IY AE N AH
+EMINEM		EH M IY N EH M
+DC		D IY S IY
+BOSSE(2)	B AA S EH
+CUSTOMIZABLE	K AH S T AH M AY Z AH B AH L
+ILA(2)		AY EH L EY
+ILA(3)		IH L AA
+ILA(4)		IH L AH
+RSS		AA R EH S EH S
+ADAPTION	AH D AE P T SH AH N
+LOL  		L OW L
+LOL(2)  	L AA L
+MOZILLA 	M OW Z IH L AH
+COMMANDS  	K AH M AE N D Z
+COMMANDS(2)  	K AH M AH N D Z
+COMMAND(2)  	K AH M AH N D
+BB  		B IY B IY
+README  	R IY D M IY
+ZZ  		Z IY Z IY
+CU  		S IY Y UW
+ITUNES  	AY T UW N Z
+GEOLOCATION  	JH IY OW L OW K EY SH AH N
+THX  		TH AE NG K S
+USSA  		Y UW EH S EH S EY
+AMT  		EY EH M T IY
+NP 		EH N P IY
+
+ 	Phoneme Example Translation
+        ------- ------- -----------
+        AA	odd     AA D
+        AE	at	AE T
+        AH	hut	HH AH T
+        AO	ought	AO T
+        AW	cow	K AW
+        AY	hide	HH AY D
+        B 	be	B IY
+        CH	cheese	CH IY Z
+        D 	dee	D IY
+        DH	thee	DH IY
+        EH	Ed	EH D
+        ER	hurt	HH ER T
+        EY	ate	EY T
+        F 	fee	F IY
+        G 	green	G R IY N
+        HH	he	HH IY
+        IH	it	IH T
+        IY	eat	IY T
+        JH	gee	JH IY
+        K 	key	K IY
+        L 	lee	L IY
+        M 	me	M IY
+        N 	knee	N IY
+        NG	ping	P IH NG
+        OW	oat	OW T
+        OY	toy	T OY
+        P 	pee	P IY
+        R 	read	R IY D
+        S 	sea	S IY
+        SH	she	SH IY
+        T 	tea	T IY
+        TH	theta	TH EY T AH
+        UH	hood	HH UH D
+        UW	two	T UW
+        V 	vee	V IY
+        W 	we	W IY
+        Y 	yield	Y IY L D
+        Z 	zee	Z IY
+        ZH	seizure	S IY ZH ER
+
+ 	0 No stress
+ 	1 Primary stress
+ 	2 Secondary stress

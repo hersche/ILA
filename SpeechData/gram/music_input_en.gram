@@ -1,0 +1,42 @@
+#JSGF V1.0;
+
+grammar input;
+
+<polite> = [please|thank you|thanks];
+
+public <command> = 	(<music>) ;
+
+<music> = 
+metallica|
+jimi hendrix|
+hendrix|
+[the] white stripes|
+kings of leon|
+[the] beatsteaks|
+usher|
+jay z|
+[the] roots|
+justin timberlake|
+kyuss|
+deichkind|
+slayer|
+katy perry|
+rihanna|
+bruno mars|
+cro|
+michael jackson|
+eminem|
+beyonce|
+shakira|
+ac dc|
+[the] rolling stones|
+bosse|
+sting|
+the police|
+madonna|
+bob dylan|
+bob marley|
+daft punk|
+nirvana|
+bb king|
+zz top;

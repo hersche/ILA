@@ -1,0 +1,106 @@
+öffnet einen benutzerdefinierten LINK im Browser 	-- customs;customsearch
+eine/mehrere BENUTZERDEFINIERTE ANTWORTEN erstellen	-- customs;customconversation
+öffnen/ausführen einer DATEI (\Pfad\Name.xyz) 	-- customs;executefile
+führt ein SYSTEMBEFEHL (cmd/terminal) aus 			-- customs;executecmd
+öffne eine 'APP' aus dem 'App'-Ordner		-- command;openprogram
+versucht die letzte APP/DATEI/PROZESS zu SCHLIEßEN 	-- customs;endprocess
+lade persönlichen NACHRICHTEN feed			-- command;loadpersonalfeed
+lade einen RSS FEED					-- command;loadrssfeed
+öffne SCHLAGZEILE Nr.XY 				-- command;openrssfeedlink
+wie ist das WETTER Heute? 			-- search;weatherT
+[under construction] wie wird das WETTER Morgen	-- search;weatherW
+WIEVIEL UHR ist es? 				-- command;saytime
+öffne/erstelle eine EMAIL			-- command;openemail
+STANDORT aktualisieren (wo bin ich?)		-- command;updategeolocation
+erstelle eine ERINNERUNG 	-- command;setreminder
+zeige alle ERINNERUNGEN 	-- command;showreminders
+zeige verpasste ERINNERUNGEN 	-- command;showmissedreminders
+eine ERINNERUNG entfernen 	-- command;stopreminder
+alle verpassten ERINNERUNGEN entfernen 	-- command;stopmissedreminders
+ILA BENACHRICHTIGEN dass ich gehe 	-- conversation;userleaves
+ILA BENACHRICHTIGEN dass ich zurück bin 	-- conversation;userreturned
+starte einen TIMER				-- command;starttimer
+stoppe alle TIMER oder timer mit nummer xy	-- command;stoptimer
+zeige alle laufenden TIMER			-- command;showtimer
+SUCHE die LETZTE eingabe online 		-- search;searchlast
+SUCHE die LETZTE eingabe bei wolfram alpha	-- search;askthiswolfram
+ZUHÖREN bei 'hey ILA'		--command;startheyila
+nicht mehr ZUHÖREN bei 'hey ILA' 	--command;stopheyila
+suche in KONTAKTEN nach Geburtstagen 	--conversation;contactbirthday
+suche einen ORT 		-- search;location
+finde den WEG (von/nach) 	-- search;direction
+suche einen ZUG/BUS (von/nach) 	-- search;trainsearch
+suche eine MITFAHRGELEGENHEIT (von/nach/wann) 	-- search;mitfahrgelegenheit
+suche FUSSBALLERGEBNISSE	-- search;Fussball
+was gibt es in den NACHRICHTEN?		-- search;news
+suche das TV PROGRAMM 		-- search;tvprogram
+WEB SUCHE mit google 		-- search;google
+WEB SUCHE mit bing 		-- search;bing
+web suche nach BILDERN 	-- search;pictures
+web suche nach VIDEOS 		-- search;videos
+web suche nach MUSIK 		-- search;musicsearch
+WIKIPEDIA Suche nach... 	-- search;wikisearch
+WOLFRAM ALPHA Suche nach... 	-- search;wolframsearch
+durchsuche das Englisch-Deutsch WÖRTERBUCH nach...	-- search;transvocable
+WIE TEUER ist ein ...? 		-- search;checkprice
+suche bei AMAZON nach ... 		-- search;amazon
+suche nach FUSSBALLSPIELER xy 	-- search;soccerplayer
+OK 				-- command;ok
+ABBRECHEN 					-- command;abort
+den web BROWSER SCHLIEßEN (falls definiert) 	-- command;closebrowser
+ILA BEENDEN (without a goodbye) 		-- command;exit
+ILA BEENDEN (with a goodbye) 			-- conversation;bye
+ILA MINIMIEREN 					-- command;hideyourself
+öffne die EINSTELLUNGEN		-- command;opensettings
+TESTE mikrophon, internet ... 			-- command;test
+TESTE die Genauigkeit der Spracherkennung -- command;testaccuracy
+setze einen neuen SCHWELLWERT für die stimmenerkennung	-- command;voicethreshold
+wechsle die methode der SPRACHERKENNUNG 	-- command;setspeechengine
+[DEBUG] ILA_short und ILA_mid_memory 		-- command;showmemory
+funktioniert das internet? 			-- command;iconnected
+ändere die SPRACHE zu ... (language code/antwort) -- command;switchlang
+switch LANGUAGE to english (default)		-- command;switchlangen
+switch LANGUAGE to english (uk)	-- command;switchlanguk
+switch LANGUAGE to english (us)	-- command;switchlangus
+die SPRACHE auf Deutsch ändern	-- command;switchlangde
+welche SPRACHEN sprichst du?	-- conversation;languages
+ENERGIESPARMODUS aktivieren (animationen aus) 	-- command;savepower
+ENERGIESPARMODUS deaktivieren	-- command;savepoweroff
+deaktiviere SPRACHAUSGABE (sound)	-- command;silent
+SPRACHAUSGABE (sound) aktivieren 		-- command;silentOff
+deaktiviere AUTO-LERN anfrage 	-- command;teachmodeoff
+aktiviere AUTO-LERN anfrage	-- command;teachmodeon
+optimiere ILA MEMORY DATEIEN -- command;optimize_memory_files
+starte ANPASSUNG des SPRACHMODELLS 	-- command;usspeakeradaption
+öffne das INFO Fenster		-- command;openinfos
+öffne das LERN-INTERFACE	-- command;openteaching
+öffne das SPRACHTRAININGSMENÜ	-- command;opentraining
+setup und SOUND neu laden 	-- command;reloadsystem
+lade eine HTML datei ins INFO fenster -- command;htmlwidget
+hallo 				-- conversation;hello
+wie geht es dir?		-- conversation;hdyd
+frage nach name, wohnort und arbeitsplatz 	-- conversation;personaldata
+weißt du wie ich heiße?		-- conversation;sayusername
+weißt du wo ich wohne? 		-- conversation;sayuserhome
+weißt du wo ich arbeite? 	-- conversation;sayuserwork
+danke 				-- conversation;thx
+kann ich dich was fragen? 	-- conversation;startQuestion
+ich brauche hilfe		-- conversation;needhelp
+es tut mir leid			-- conversation;sorry
+fertig 				-- conversation;done
+ich bin verwirrt 		-- conversation;confused
+ich bin beeindruckt		-- conversation;impressed
+das langweilt mich		-- conversation;annoying
+floskel 			-- conversation;flosculus
+was kannst du alles? 		-- conversation;abilities
+wie heißt du?	 		-- conversation;name
+wie alt bist du? 		-- conversation;age
+du bist lustig 			-- conversation;funny
+kannst du mich hören? 		-- conversation;hearMe
+sorry ich kann dich nicht hören	-- conversation;canthear
+was heißt das?	 		-- conversation;ILA
+was ist der sinn des Lebens? 	-- conversation;meaningoflife
+wo kommst du her? 		-- conversation;wherefrom
+wer hat dich erschaffen?	-- conversation;creator
+sage einen test satz 		-- conversation;testsentence
+bereit wenn du es bist 		-- conversation;NaN

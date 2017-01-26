@@ -1,0 +1,363 @@
+#JSGF V1.0;
+
+grammar dialog;
+
+<greet> = [[hi|hallo|hey|guten tag] [ila]];
+
+<basic_command> = kannst du mich hoeren						|
+				 [(wie ist|wie wird) das] wetter [zu hause|hier]  |
+				 (starte|oeffne|lade) [das|ein] programm		|
+				 (starte|oeffne|lade) [der|die|das|ein|einen|den] <programs>	|
+				 [sende|starte|erstelle|schreibe|oeffne] [eine|die] email [an <names>] |
+				 [starte|spiele] [etwas] musik				|
+				 wie heisse ich								|
+				 weisst du wie ich heisse					|
+				 kennst du meinen namen						|
+				 mein name ist <names>						|
+				 wo wohne ich								|
+				 weisst du wo ich wohne						|
+				 wo arbeite ich								|
+				 weisst du wo ich arbeite					|
+				 wieviel uhr ist es							|
+				 (was gibts|was laeuft) im (tv|fernsehen)	|
+				 [zeige das] (tv programm|fernsehprogramm)	|
+				 (zeige|aktualisiere) [meinen] standort		|
+				 wo bin ich									|
+				 bring mich nach hause						|
+				 (bring mich|zeig mir den weg) von (hier|der arbeit|meiner arbeit|zu hause|meinem zu hause) (zur|nach) (hier|arbeit|hause)	|
+				 [(suche|finde) (ein|einen|eine)] (bus|zug|bahn) von (hier|der arbeit|meiner arbeit|zu hause|meinem zu hause) (zur|nach) (hier|arbeit|hause)	|
+				 oeffne [die|eine] karte						|
+				 zeig mir die richtung						|
+				 (finde|suche) (einen|eine) (bus|zug|bahn)	|
+				 zu hause | [auf|von|bei] [der] arbeit | hier |
+				 (setze|starte) einen timer [fuer|mit|von] <numbers> minuten	|
+				 (setze|starte) einen timer [fuer|mit|von] <numbers> sekunden |
+				 (setze|starte) einen timer [fuer|mit|von] <numbers> stunden	|
+				 (setze|starte) einen (timer|alarm)			|
+				 zeige alle timer							|
+				 stoppe alle timer							|
+				 aktiviere hey ila erkennung				|
+				 [den] (computer|pc|windows) herunterfahren			|
+				 ja|nein									|
+				 abbrechen									|
+				 danke [und tschuess]						|
+				 [sehr] gut [danke]							|
+                 exit|auf wiedersehen|bis bald|tschuess		;
+				 
+<polite> = [bitte];
+
+<names> = (boss|chef|alexander|azize|carla|christian|christoph|elke|florian|isabella|manuel|matthias|marvin|michael|mehdi|jens|jessica|jessi|johannes|stefan|frank|klaus|uwe|simon|tommi|thomas|benedikt|philipp|dennis|wolfgang);
+
+<programs> = (windows|linux|mac|arduino|creo|creo elements|[adobe|pdf] reader|matlab|igor|imagej|rechner|taschenrechner|[microsoft] word|[microsoft] powerpoint|[microsoft] excel|
+			spotify|music player|musik|firefox|facebook);
+
+<numbers> = (eins|zwei|drei|vier|fuenf|sechs|sieben|acht|neun|zehn|elf|zwoelf|dreizehn|vierzehn|fuenfzehn|zwanzig|fuenfundzwanzig|dreissig|fuenfunddreissig|vierzig|fuenfundvierzig);
+
+public <command> = <greet> | [<basic_command> [<polite>]] | <teachit>;
+
+<teachit> = 
+hallo|
+hallo ila|
+guten morgen|
+guten morgen ila|
+hi|
+guten tag|
+guten tag ila|
+tschuess|
+tschuess ila|
+schluss fuer heute|
+auf wiedersehen|
+auf wiedersehen ila|
+ne ila noch mal von vorne|
+ne ila noch mal|
+ich wiederhole|
+ila ich habe gesagt|
+ich habe gesagt|
+ich sagte|
+nein nein nein|
+beenden|
+bist du da|
+kannst du mich hoeren|
+ja|
+nein|
+jetzt nicht|
+abbrechen|
+spaeter|
+eine frage|
+ok eine frage|
+ich habe eine frage|
+wofuer steht das|
+was heisst das|
+kannst du mir bitte helfen|
+danke|
+cool|
+sorry|
+du bist ja nett|
+was heisst ila|
+wofuer steht ila|
+na wie gehts|
+na|
+wie gehts|
+was geht ab|
+alles gut|
+mal gucken was du kannst|
+wie|
+warum|
+kein problem|
+no problemo|
+schoen zu hoeren|
+ach so|
+gut gut|
+was passiert hier|
+wie wird das wetter heute|
+wie wird das wetter morgen|
+wie wird das wetter|
+matlab starten|
+starte matlab|
+wo bin ich|
+wo sind wir|
+bring mich nach hause|
+wie komme ich nach hause|
+wie gehts nach hause|
+ich suche einen zug|
+ich suche einen bus|
+wecker stellen|
+was kannst du|
+was kannst du so|
+was kannst du machen|
+was gibts im tv|
+was laeuft im tv|
+was gibts im fernsehen|
+was laeuft im fernsehen|
+zeig mir das fernsehprogramm|
+was gibts neues|
+aktuelle news|
+aktuelle nachrichten|
+zeig mir aktuelle nachrichten|
+was gibts in den nachrichten|
+kennst du fussball ergebnisse|
+wie stehts beim fussball|
+wie siehts beim fussball aus|
+wer spielt heute fussball|
+wie stehts in der liga|
+was gibts in der bundesliga|
+wie siehts in der bundesliga aus|
+wer bist du|
+wie heisst du|
+wie ist dein name|
+wie heisst du nochmal|
+sag deinen namen|
+web suche|
+wie alt bist du|
+bilder|
+suche bilder|
+haha manchmal bist du lustig|
+du bist lustig|
+haha lustig|
+was ist der sinn des lebens|
+warum sind wir hier|
+kannst du englisch sprechen|
+kannst du deutsch sprechen|
+die sprache aendern|
+die sprache wechseln|
+wechsle die sprache|
+zu deutsch wechseln bitte|
+du sollst deutsch sprechen|
+sprich deutsch|
+sprich englisch|
+sprich englisch bitte|
+zu englisch wechseln bitte|
+ich bin beeindruckt|
+wow das ging schnell|
+pruefe die internet verbindung|
+zeig mir deine erinnerungen|
+wo kommst du her|
+alle timer anhalten|
+welche timer laufen gerade|
+sei leise bitte|
+du darfst wieder sprechen|
+sei laut|
+lern modus anschalten|
+lern modus ausschalten|
+lern modus aktivieren|
+lern modus deaktivieren|
+ich moechte dir was beibringen|
+ich will dir nichts beibringen|
+ich moechte dir nichts beibringen|
+energie sparen|
+energiesparmodus|
+energiesparmodus ein|
+energiesparmodus aktivieren|
+energiesparmodus einschalten|
+energiesparmodus deaktivieren|
+energiesparmodus ausschalten|
+energiesparmodus aus|
+oeffne bing|
+oeffne maps|
+aendere grenzwert fuer spracherkennung|
+aendere den grenzwert der spracherkennung|
+persoenliche daten aendern|
+persoenliche daten eingeben|
+wer hat dich geschaffen|
+wer hat dich erschaffen|
+wer hat dich programmiert|
+wer hat dich gemacht|
+wie heisse ich|
+wer bin ich|
+kennst du meinen namen|
+kennst du mich|
+wie ist mein name|
+weisst du wie ich heisse|
+weisst du wo ich wohne|
+wo wohne ich|
+weisst du wo ich arbeite|
+wo arbeite ich|
+suche danach im web|
+suche danach online|
+suche das im web|
+google das|
+ein programm oeffnen|
+ein programm starten|
+email senden|
+oeffne eine email|
+sound neu laden|
+du nervst|
+das nervt|
+langweilig|
+standort laden|
+standort aktualisieren|
+meinen standort aktualisieren|
+ach nichts|
+nix|
+standard spracherkennung waehlen|
+online spracherkennung aktivieren|
+offline spracherkennung aktivieren|
+wieviel uhr ist es|
+wie lautet die uhrzeit|
+welches datum haben wir|
+welcher tag ist heute|
+was gibt es neues|
+wie viel uhr ist es|
+such das im web|
+versteck dich|
+haha|
+frag das mal wolfram alpha|
+schliesse den browser|
+suche bei spotify nach|
+zeig mir das fernsehprogramm|
+zeig mir fussball ergebnisse|
+zeige das tv programm|
+kennst du arduino|
+nicht mehr zuhoeren|
+hoer mir zu|
+zuhoeren bitte|
+nicht mehr zuhoeren bitte|
+kannst du dich updaten|
+test|
+wie gehts dir|
+lade golem news|
+lade persoenliche nachrichten|
+lade persoenliche news|
+oeffne die erste schlagzeile|
+oeffne die zweite schlagzeile|
+oeffne die dritte schlagzeile|
+lade die neusten schlagzeilen|
+aendere die sprache|
+suche musik online|
+suche online|
+oeffne eine app|
+was gibts neues in der physik|
+lade die erste schlagzeile|
+lade die zweite schlagzeile|
+lade die dritte schlagzeile|
+lade meine news|
+lade eine schlagzeile|
+oeffne eine schlagzeile|
+musik spielen|
+spiele musik|
+oeffne die einstellungen|
+oeffne einstellungen|
+kannst du [bitte] meinen standort aktualisieren|
+suche nach updates|
+oeffne den browser|
+kennst du fussballergebnisse|
+zeig mir fussballergebnisse|
+zeig mir die fussballergebnisse|
+kannst du mir zuhoeren|
+starte einen alarm|
+ich frage mich was du so kannst|
+sag mir die uhrzeit|
+spiele etwas musik|
+lies meine persoenlichen nachrichten vor|
+spiele musik von zz top|
+spiele was von metallica|
+ich wuerde gerne musik von kyuss hoeren|
+hilfe|
+oeffne facebook|
+oeffne youtube|
+zeig mir das wetter|
+starte einen timer|
+starte einen timer bitte|
+setze einen timer|
+setze einen timer bitte|
+wiedersehen|
+erstelle eine erinnerung|
+kannst du mich an etwas erinnern|
+alle erinnerungen anzeigen|
+welche erinnerungen hast du gespeichert|
+zeige alle verpassten erinnerungen|
+zeig mir die verpassten erinnerungen|
+was habe ich verpasst|
+habe ich was verpasst|
+entferne eine erinnerung|
+kannst du [bitte] eine erinnerung entfernen|
+entferne erinnerung nummer|
+entferne alle erinnerungen die ich verpasst habe|
+entferne alle verpassten erinnerungen|
+zeige alle erinnerungen|
+zeig mir alle erinnerungen|
+erinnere mich an das meeting|
+ich bin mal weg|
+bin kurz weg|
+ich gehe|
+ich bin wieder da|
+bin mal kurz weg|
+ich versuche mich an einen geburtstag zu erinnern|
+ich muss gehen|
+ich muss los|
+loesche erinnerung|
+loesche timer|
+zeig mir aktuelle sportnachrichten|
+was gibt es neues beim fussball|
+zeig mir die aktuellen bundesliga ergebnisse|
+wie steht es aktuell beim fussball|
+zeig mir die aktuellen fussballergebnisse|
+kannst du mir den weg zeigen|
+kennst du|
+was ist|
+wer ist|
+berechne|
+du bist|
+du bist cool|
+nein du bist cool|
+auf zum atem|
+auf zum atom|
+zeig mir aktuelle schlagzeilen|
+zeig mir die aktuellen schlagzeilen|
+lade die aktuellen schlagzeilen|
+lade aktuelle schlagzeilen|
+oeffne die erste|
+oeffne die zweite|
+oeffne die dritte|
+wie geht es dir|
+dies ist ein test|
+du|
+die spracherkennung ist nur begrenzt gut|
+schliesse es wieder|
+schliesse den firefox|
+suche|
+oeffne google|
+mal gucken|
+wieviel ist|
+lebst du|
+wer ist dein besitzer;
