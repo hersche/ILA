@@ -1,4 +1,6 @@
-This is a fork of the ILA-Voice-Assistant (based Beta v3.8) from a nice developer named fabian. Because of the last update was in 2015 and the code doesn't seem to be in a version control, i like to put it on github. It already works well with *buntu 16.10, i am impressed. Train sphinx4/pocketsphinx is a dream there. 
+Prenote for interessted: This project is deprecated after it had almost no activity by myself. The new project of Florian (the Author) did a new project you can find here: https://github.com/SEPIA-Framework and here: https://sepia-framework.github.io/
+
+This is a fork of the ILA-Voice-Assistant (based Beta v3.8) from a nice developer named Florian. Because of the last update was in 2015 and the code doesn't seem to be in a version control, i like to put it on github. It already works well with *buntu 16.10, i am impressed. Train sphinx4/pocketsphinx is a dream there. 
 
 sphinx4 seems precompiled, for updates in sphinx i will try stuff there.
 
